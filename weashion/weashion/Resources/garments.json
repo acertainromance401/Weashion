@@ -1,0 +1,42 @@
+[
+  {
+    "id": "blue-cotton-95",
+    "name": "블루 코튼 반팔",
+    "selectionLabel": "95",
+    "pattern": {
+      "id": "cotton-tshirt-95", "version": 2, "source": "cottonTShirt",
+      "dimensions": {
+        "chestCircumference": 1.10, "waistCircumference": 1.10,
+        "hipCircumference": 1.10, "shoulderWidth": 0.43,
+        "length": 0.66, "sleeveLength": 0.20, "sleeveOpening": 0.34
+      }
+    },
+    "material": {
+      "maximumStrain": 0.18
+    },
+    "appearance": {
+      "color": [0.035, 0.29, 0.72], "trimColor": [0.030, 0.25, 0.65],
+      "roughness": 0.94
+    }
+  },
+  {
+    "id": "blue-cotton-110",
+    "name": "블루 코튼 반팔",
+    "selectionLabel": "110",
+    "pattern": {
+      "id": "cotton-tshirt-110", "version": 2, "source": "cottonTShirt",
+      "dimensions": {
+        "chestCircumference": 1.28, "waistCircumference": 1.28,
+        "hipCircumference": 1.28, "shoulderWidth": 0.50,
+        "length": 0.74, "sleeveLength": 0.24, "sleeveOpening": 0.40
+      }
+    },
+    "material": {
+      "maximumStrain": 0.18
+    },
+    "appearance": {
+      "color": [0.035, 0.29, 0.72], "trimColor": [0.030, 0.25, 0.65],
+      "roughness": 0.94
+    }
+  }
+]

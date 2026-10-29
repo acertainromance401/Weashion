@@ -1,0 +1,14 @@
+:root{--bg:#f8f7f4;--ink:#1f2a30;--sub:#686e72;--accent:#a3334a;--line:#e2ded6}
+*{box-sizing:border-box}
+body{margin:0;background:var(--bg);color:var(--ink);font:16px/1.7 -apple-system,BlinkMacSystemFont,"Apple SD Gothic Neo","Hiragino Sans","Helvetica Neue",sans-serif}
+main{max-width:720px;margin:0 auto;padding:56px 24px 96px}
+.brand{font-family:Didot,"Bodoni 72",Georgia,serif;font-size:44px;letter-spacing:.04em;margin:0}
+.eyebrow{color:var(--accent);letter-spacing:.2em;font-size:12px;text-transform:uppercase;margin:0 0 8px}
+nav.lang{display:flex;gap:16px;margin:24px 0 40px;font-size:14px}
+nav.lang a,a{color:var(--accent)}
+section{border-top:1px solid var(--line);padding-top:32px;margin-top:40px}
+h2{font-size:22px;margin:0 0 12px}
+h3{font-size:16px;margin:28px 0 6px}
+p,li{color:#333b40}
+.muted{color:var(--sub);font-size:14px}
+footer{margin-top:64px;color:var(--sub);font-size:13px}

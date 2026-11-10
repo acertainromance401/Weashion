@@ -1,0 +1,92 @@
+{
+  "id": "hoodie",
+  "candidate": "Conforming sleeve/cap longest-edge bisection; no vertex relocation",
+  "beforeVertices": 6068,
+  "afterVertices": 8669,
+  "appendedVertices": 2601,
+  "beforeTriangles": 11590,
+  "afterTriangles": 16792,
+  "appendedTriangles": 5202,
+  "operations": {
+    "maximumTargetEdgeMM": 25.0,
+    "minimumAbsX": 0.271731,
+    "maximumY": -0.1,
+    "edgeBisections": 2601,
+    "blockedAreaEdges": 0,
+    "affectedOriginalFaces": 1264,
+    "sourceFace685": {
+      "descendantFaces": [
+        685,
+        11802,
+        11881,
+        13488,
+        13490,
+        13821,
+        13823,
+        14082,
+        14083
+      ],
+      "maximumEdgeMM": 19.927041535172478
+    },
+    "sourceFace923": {
+      "descendantFaces": [
+        923,
+        12764,
+        14076
+      ],
+      "maximumEdgeMM": 24.46484877268254
+    },
+    "sourceFace941": {
+      "descendantFaces": [
+        941,
+        12765,
+        13188
+      ],
+      "maximumEdgeMM": 24.46484877268254
+    }
+  },
+  "topologyBeforeAndAfter": {
+    "components": 1,
+    "euler": -14,
+    "nonmanifoldEdges": 0
+  },
+  "orderedBoundaryLoops": 8,
+  "maximumSourcePlaneErrorMetres": 8.413408858487514e-17,
+  "existingVertexPositionsAndWeightsUnchanged": true,
+  "sizingAndIndependentSleevesUnchanged": true,
+  "materialPreserved": true,
+  "numericalChecks": {
+    "source": {
+      "minimumCrossSquared": 1.2667686994857763e-12,
+      "failingTriangles": 0
+    },
+    "uniform_0.8": {
+      "minimumCrossSquared": 5.188718920669244e-13,
+      "failingTriangles": 0
+    },
+    "anisotropic_small": {
+      "minimumCrossSquared": 3.487800868430535e-13,
+      "failingTriangles": 0
+    },
+    "catalog_S": {
+      "minimumCrossSquared": 1.0972334152370422e-12,
+      "failingTriangles": 0
+    },
+    "catalog_M": {
+      "minimumCrossSquared": 1.2560479999840224e-12,
+      "failingTriangles": 0
+    },
+    "catalog_L": {
+      "minimumCrossSquared": 1.2859501874809554e-12,
+      "failingTriangles": 0
+    }
+  },
+  "previousResourceSHA256": "4ade2299a549423c9eca3981e763b3b844d1811d1ad4626284c01218a8b3bb9d",
+  "script": "reference/garments/refine_hoodie_sleeves.py",
+  "nativeFitsRun": false,
+  "backup": "/Users/acertainromance401/.copilot/session-state/4b7bdc14-ebc0-424e-98c5-262ab8fbe7f2/files/hoodie_before_sleeve_refinement_4ade2299a549.zip",
+  "resourceSHA256": "53c785e482ee483b6457884c40713613371c304a156ef1fd24cf122b36691452",
+  "blendSHA256": "558e13440bb575305fa5d26632c1371f0f3d854f3b626dda5bbd2224ff8e1315",
+  "persistedBlendJSONParity": true,
+  "maximumPersistedCoordinateError": 2.9773254417442274e-08
+}

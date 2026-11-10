@@ -1,0 +1,833 @@
+[
+  {
+    "id": "long_sleeve",
+    "rightKnots": 13,
+    "leftKnots": 13,
+    "geometryAndExistingBindingsUnchanged": true,
+    "measurementScript": "reference/garments/bind_sleeve_centerlines.py",
+    "unchangedFieldsSHA256": "95621109be4fa68e4adf86a7833561df52efb58f7d26b8d085d2a4f29a9804d9",
+    "resourceSHA256": "7321c676fd707aff4823f8f28c47cb382e044733d58085b8643a9bd5e263e2dc",
+    "sides": {
+      "right": {
+        "measurementShoulder": [
+          0.23,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          0.6601692637500002,
+          -0.4300850133333334,
+          0.046438487083333334
+        ],
+        "measuredChordLength": 0.6100616749573273,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              0.241920265994661,
+              -0.1355767064088105,
+              -0.03822495621770735
+            ],
+            "circumference": 0.5228311620402426,
+            "area": 0.019984758904929525,
+            "sectionVertices": 70
+          },
+          {
+            "center": [
+              0.2751277047680061,
+              -0.15691008296368708,
+              -0.04089346254361219
+            ],
+            "circumference": 0.5035784987128261,
+            "area": 0.017686556782398763,
+            "sectionVertices": 84
+          },
+          {
+            "center": [
+              0.31069002804668927,
+              -0.17384406169261152,
+              -0.040169945127797736
+            ],
+            "circumference": 0.48196037283978294,
+            "area": 0.014626145688049123,
+            "sectionVertices": 90
+          },
+          {
+            "center": [
+              0.3465394477969513,
+              -0.18986654249217663,
+              -0.03427449260363953
+            ],
+            "circumference": 0.44003361545030717,
+            "area": 0.011504954119334557,
+            "sectionVertices": 77
+          },
+          {
+            "center": [
+              0.3823896155442322,
+              -0.21031920340983978,
+              -0.02557199704260251
+            ],
+            "circumference": 0.37195271315080203,
+            "area": 0.009274063564784125,
+            "sectionVertices": 72
+          },
+          {
+            "center": [
+              0.41875718850597715,
+              -0.231665921757838,
+              -0.019350908796134186
+            ],
+            "circumference": 0.3293158932854489,
+            "area": 0.008072133253646693,
+            "sectionVertices": 68
+          },
+          {
+            "center": [
+              0.4560961068921486,
+              -0.25565503117894944,
+              -0.01463616330221518
+            ],
+            "circumference": 0.31523365206728826,
+            "area": 0.007164013332178167,
+            "sectionVertices": 65
+          },
+          {
+            "center": [
+              0.48951388647122723,
+              -0.2841551543394283,
+              -0.006692155811179353
+            ],
+            "circumference": 0.3037881306476302,
+            "area": 0.007032859799468671,
+            "sectionVertices": 58
+          },
+          {
+            "center": [
+              0.5241737303561785,
+              -0.3106517117779531,
+              0.002429812452497178
+            ],
+            "circumference": 0.29429200650277654,
+            "area": 0.006790703542932457,
+            "sectionVertices": 49
+          },
+          {
+            "center": [
+              0.5595216745832216,
+              -0.340279605349234,
+              0.013277419554941558
+            ],
+            "circumference": 0.2738833519404272,
+            "area": 0.005780343861972111,
+            "sectionVertices": 50
+          },
+          {
+            "center": [
+              0.5933264277110553,
+              -0.37078837262138037,
+              0.023251303340708476
+            ],
+            "circumference": 0.26351143613858896,
+            "area": 0.005163633088452565,
+            "sectionVertices": 59
+          },
+          {
+            "center": [
+              0.6278337712642711,
+              -0.39751814876631913,
+              0.03643571027692677
+            ],
+            "circumference": 0.260313223805484,
+            "area": 0.004562207667509867,
+            "sectionVertices": 63
+          }
+        ]
+      },
+      "left": {
+        "measurementShoulder": [
+          -0.23,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          -0.6616919200000001,
+          -0.42853314545454546,
+          0.046562820000000005
+        ],
+        "measuredChordLength": 0.6100546424319755,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              -0.24199819080767365,
+              -0.1391760585662132,
+              -0.037876604881601245
+            ],
+            "circumference": 0.5282240488125578,
+            "area": 0.020569573455786375,
+            "sectionVertices": 82
+          },
+          {
+            "center": [
+              -0.27497356905425446,
+              -0.1631011508921539,
+              -0.0407622479885719
+            ],
+            "circumference": 0.5263187476675816,
+            "area": 0.01891591498444657,
+            "sectionVertices": 81
+          },
+          {
+            "center": [
+              -0.31111877591987736,
+              -0.18167291667255436,
+              -0.039914170649845954
+            ],
+            "circumference": 0.5282775200033953,
+            "area": 0.015922890657442748,
+            "sectionVertices": 89
+          },
+          {
+            "center": [
+              -0.3461733637361158,
+              -0.19773431935288152,
+              -0.031638844226295086
+            ],
+            "circumference": 0.4606566966092836,
+            "area": 0.012823352185917312,
+            "sectionVertices": 80
+          },
+          {
+            "center": [
+              -0.3820397734394554,
+              -0.2138149018922302,
+              -0.024135972691257123
+            ],
+            "circumference": 0.37855526553972046,
+            "area": 0.009898750219208175,
+            "sectionVertices": 84
+          },
+          {
+            "center": [
+              -0.4194862206646513,
+              -0.23368446093198078,
+              -0.018938390643403392
+            ],
+            "circumference": 0.34427539540700247,
+            "area": 0.008339668118657006,
+            "sectionVertices": 76
+          },
+          {
+            "center": [
+              -0.4556837911725135,
+              -0.2578986884704578,
+              -0.012723904521440416
+            ],
+            "circumference": 0.31578135721042644,
+            "area": 0.0074205073643356986,
+            "sectionVertices": 66
+          },
+          {
+            "center": [
+              -0.49045779023712127,
+              -0.2850295514690474,
+              -0.0059872903694348206
+            ],
+            "circumference": 0.3032274640303813,
+            "area": 0.007152119758714125,
+            "sectionVertices": 62
+          },
+          {
+            "center": [
+              -0.5264635180025222,
+              -0.3120731215543375,
+              0.004373495091370745
+            ],
+            "circumference": 0.29703546426975047,
+            "area": 0.006856132298942186,
+            "sectionVertices": 57
+          },
+          {
+            "center": [
+              -0.5573137260399578,
+              -0.3407697053302346,
+              0.015258196319280262
+            ],
+            "circumference": 0.2920039228937608,
+            "area": 0.006350776279616081,
+            "sectionVertices": 59
+          },
+          {
+            "center": [
+              -0.5944611915839402,
+              -0.36989206763404053,
+              0.025628536594234957
+            ],
+            "circumference": 0.26156718349141117,
+            "area": 0.005126289709963203,
+            "sectionVertices": 51
+          },
+          {
+            "center": [
+              -0.6294824914899112,
+              -0.39919109345113324,
+              0.03687945782479202
+            ],
+            "circumference": 0.24519226788482246,
+            "area": 0.0042543179051267805,
+            "sectionVertices": 57
+          }
+        ]
+      }
+    }
+  },
+  {
+    "id": "hoodie",
+    "rightKnots": 13,
+    "leftKnots": 13,
+    "geometryAndExistingBindingsUnchanged": true,
+    "measurementScript": "reference/garments/bind_sleeve_centerlines.py",
+    "unchangedFieldsSHA256": "f1a0119000a1085f7509f8e895d9a4cbf98cc21766daf5b566cf536f80f13af2",
+    "resourceSHA256": "403f1533574ea353127726968403cd7b31d10729a62faccafed05db3a704fa3c",
+    "sides": {
+      "right": {
+        "measurementShoulder": [
+          0.26,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          0.5541941419047619,
+          -0.5226910138095238,
+          -0.015801465714285718
+        ],
+        "measuredChordLength": 0.6000048127865532,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              0.27173100401691364,
+              -0.18610381647102403,
+              -0.03202108949063697
+            ],
+            "circumference": 0.8807353193044287,
+            "area": 0.04771988101264535,
+            "sectionVertices": 111
+          },
+          {
+            "center": [
+              0.28265335209356224,
+              -0.2129985392041531,
+              -0.030679961392510804
+            ],
+            "circumference": 0.8163133376666127,
+            "area": 0.04157066132612972,
+            "sectionVertices": 118
+          },
+          {
+            "center": [
+              0.28938763774658127,
+              -0.2332048139979262,
+              -0.03153826038761955
+            ],
+            "circumference": 0.7330752181979797,
+            "area": 0.03483889010736116,
+            "sectionVertices": 115
+          },
+          {
+            "center": [
+              0.3023791626034646,
+              -0.2615953618368132,
+              -0.03134299843329844
+            ],
+            "circumference": 0.7100433532219196,
+            "area": 0.03244689648012586,
+            "sectionVertices": 108
+          },
+          {
+            "center": [
+              0.3226874053086764,
+              -0.29353483504642564,
+              -0.029769486593489474
+            ],
+            "circumference": 0.6903237748851541,
+            "area": 0.029261616552058497,
+            "sectionVertices": 119
+          },
+          {
+            "center": [
+              0.3497102408574066,
+              -0.3171604821893174,
+              -0.028410792487239284
+            ],
+            "circumference": 0.6259579285379319,
+            "area": 0.024314995885057856,
+            "sectionVertices": 98
+          },
+          {
+            "center": [
+              0.3758094820423216,
+              -0.33856941034784427,
+              -0.026675221861058734
+            ],
+            "circumference": 0.5616896194513338,
+            "area": 0.02011182794066966,
+            "sectionVertices": 94
+          },
+          {
+            "center": [
+              0.4060858201770022,
+              -0.362272850188912,
+              -0.024693755585624668
+            ],
+            "circumference": 0.48816708554187793,
+            "area": 0.015712419376349696,
+            "sectionVertices": 87
+          },
+          {
+            "center": [
+              0.44051789045527656,
+              -0.3878103582169416,
+              -0.023388747220702253
+            ],
+            "circumference": 0.4049186633699106,
+            "area": 0.011315057775577507,
+            "sectionVertices": 82
+          },
+          {
+            "center": [
+              0.47019336741240997,
+              -0.417644660454641,
+              -0.022452556512771456
+            ],
+            "circumference": 0.34283237898606655,
+            "area": 0.008159236809995925,
+            "sectionVertices": 77
+          },
+          {
+            "center": [
+              0.49510304971512237,
+              -0.4463100949706161,
+              -0.019898072063543288
+            ],
+            "circumference": 0.3127732353659992,
+            "area": 0.007184376941837867,
+            "sectionVertices": 64
+          },
+          {
+            "center": [
+              0.5179485746048984,
+              -0.4679559578477884,
+              -0.020239167573460195
+            ],
+            "circumference": 0.28748751124813376,
+            "area": 0.0063330761174430796,
+            "sectionVertices": 62
+          }
+        ]
+      },
+      "left": {
+        "measurementShoulder": [
+          -0.26,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          -0.5555196433333333,
+          -0.5219321161904763,
+          -0.016433865714285713
+        ],
+        "measuredChordLength": 0.6000125544096927,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              -0.271782567934121,
+              -0.1854366476664971,
+              -0.0318965048018641
+            ],
+            "circumference": 0.8830632376405472,
+            "area": 0.04772968802741425,
+            "sectionVertices": 100
+          },
+          {
+            "center": [
+              -0.28271187471865067,
+              -0.21237102930608578,
+              -0.030354396382641303
+            ],
+            "circumference": 0.8155679665005505,
+            "area": 0.04169236095611599,
+            "sectionVertices": 111
+          },
+          {
+            "center": [
+              -0.2896642986594136,
+              -0.23275014309215203,
+              -0.03109219366891334
+            ],
+            "circumference": 0.7357205658452224,
+            "area": 0.034997461796595096,
+            "sectionVertices": 106
+          },
+          {
+            "center": [
+              -0.3025035097586505,
+              -0.2610262794328413,
+              -0.03119196031983143
+            ],
+            "circumference": 0.7137547983225662,
+            "area": 0.03262563346090363,
+            "sectionVertices": 106
+          },
+          {
+            "center": [
+              -0.3231085711314637,
+              -0.2933084035825132,
+              -0.029856399075693332
+            ],
+            "circumference": 0.6886156674457362,
+            "area": 0.029226586715578345,
+            "sectionVertices": 113
+          },
+          {
+            "center": [
+              -0.3509815564248606,
+              -0.31713362206354534,
+              -0.028299087001330114
+            ],
+            "circumference": 0.6247811825189203,
+            "area": 0.02423806074608749,
+            "sectionVertices": 103
+          },
+          {
+            "center": [
+              -0.3774272250508665,
+              -0.3386935388840182,
+              -0.02657825776730914
+            ],
+            "circumference": 0.5597776364547207,
+            "area": 0.020032176595754295,
+            "sectionVertices": 99
+          },
+          {
+            "center": [
+              -0.40803592414924694,
+              -0.36280936254080454,
+              -0.024478531165282383
+            ],
+            "circumference": 0.48408113123066787,
+            "area": 0.015543205683917618,
+            "sectionVertices": 87
+          },
+          {
+            "center": [
+              -0.44163098392144057,
+              -0.3884301435402639,
+              -0.023009590755871286
+            ],
+            "circumference": 0.4071470319628254,
+            "area": 0.011283034642909699,
+            "sectionVertices": 88
+          },
+          {
+            "center": [
+              -0.47084258957519887,
+              -0.4183705712795648,
+              -0.022897626885600472
+            ],
+            "circumference": 0.34272464687435544,
+            "area": 0.008043512987437084,
+            "sectionVertices": 75
+          },
+          {
+            "center": [
+              -0.49566459894212,
+              -0.4478994261969561,
+              -0.02165222105745204
+            ],
+            "circumference": 0.3026736711429721,
+            "area": 0.006762037680065266,
+            "sectionVertices": 61
+          },
+          {
+            "center": [
+              -0.5191656447617663,
+              -0.46955330621690367,
+              -0.018072364476889473
+            ],
+            "circumference": 0.28409209437430094,
+            "area": 0.0063142359323595165,
+            "sectionVertices": 62
+          }
+        ]
+      }
+    },
+    "geometryRefinedAfterBinding": true,
+    "geometryNarrowedAfterBinding": true
+  },
+  {
+    "id": "bomber",
+    "rightKnots": 12,
+    "leftKnots": 12,
+    "geometryAndExistingBindingsUnchanged": true,
+    "measurementScript": "reference/garments/bind_sleeve_centerlines.py",
+    "unchangedFieldsSHA256": "2f990c3a959b2215170826ab378629af2b49ffdfcddaeac3e74c672a5c0f359c",
+    "resourceSHA256": "d700f3deba01df90c6259e9cdf1c4b98229f26d349e068bdb317149993334f6d",
+    "sides": {
+      "right": {
+        "measurementShoulder": [
+          0.25,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          0.6303681878947369,
+          -0.4880711815789474,
+          0.04064574
+        ],
+        "measuredChordLength": 0.6201173379533452,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              0.2841722987936581,
+              -0.19141673760836633,
+              -0.04427806066773554
+            ],
+            "circumference": 0.5857314935802327,
+            "area": 0.02275584619069511,
+            "sectionVertices": 91
+          },
+          {
+            "center": [
+              0.31779556565110995,
+              -0.2170199581169434,
+              -0.042406708448400415
+            ],
+            "circumference": 0.5540910663438395,
+            "area": 0.020699479620723653,
+            "sectionVertices": 86
+          },
+          {
+            "center": [
+              0.34834521672918956,
+              -0.24059585988494883,
+              -0.03834837004769897
+            ],
+            "circumference": 0.5246537347059843,
+            "area": 0.018716881618287905,
+            "sectionVertices": 80
+          },
+          {
+            "center": [
+              0.37967725622168697,
+              -0.2635885718385387,
+              -0.03404979633864546
+            ],
+            "circumference": 0.4849023795501824,
+            "area": 0.01617764296182876,
+            "sectionVertices": 77
+          },
+          {
+            "center": [
+              0.41249887184729184,
+              -0.2867504806531854,
+              -0.029646757422473153
+            ],
+            "circumference": 0.4414234069628044,
+            "area": 0.013428780297018019,
+            "sectionVertices": 89
+          },
+          {
+            "center": [
+              0.44478692660719843,
+              -0.31220982942812575,
+              -0.023667560539647005
+            ],
+            "circumference": 0.4089411827238357,
+            "area": 0.011530086758749657,
+            "sectionVertices": 83
+          },
+          {
+            "center": [
+              0.4766863134791993,
+              -0.3385771617248854,
+              -0.01568915050527816
+            ],
+            "circumference": 0.38631910976523376,
+            "area": 0.01042235302949325,
+            "sectionVertices": 76
+          },
+          {
+            "center": [
+              0.5070921483575803,
+              -0.3662409407376897,
+              -0.004568101501687537
+            ],
+            "circumference": 0.37578271882138115,
+            "area": 0.00980375823005355,
+            "sectionVertices": 77
+          },
+          {
+            "center": [
+              0.5374012305316421,
+              -0.3940620685880504,
+              0.007225264993993667
+            ],
+            "circumference": 0.3704577140741036,
+            "area": 0.009359348664403445,
+            "sectionVertices": 84
+          },
+          {
+            "center": [
+              0.5663540050428526,
+              -0.42067650955879016,
+              0.017499830434962917
+            ],
+            "circumference": 0.3556561999502291,
+            "area": 0.008540051253039308,
+            "sectionVertices": 79
+          },
+          {
+            "center": [
+              0.5934269506118106,
+              -0.44772134857866847,
+              0.026787601550255533
+            ],
+            "circumference": 0.313429803419762,
+            "area": 0.0059888282083200035,
+            "sectionVertices": 98
+          }
+        ]
+      },
+      "left": {
+        "measurementShoulder": [
+          -0.25,
+          0.0,
+          0.0
+        ],
+        "measuredCuff": [
+          -0.629708018095238,
+          -0.488532740952381,
+          0.0411368319047619
+        ],
+        "measuredChordLength": 0.6201085847877131,
+        "stationConvention": "Side-specific measurement-shoulder to actual cuff chord projection; final station overridden by canonical right reference sleeveLength.",
+        "sections": [
+          {
+            "center": [
+              -0.28434531135002744,
+              -0.19063081093251552,
+              -0.04390421030217168
+            ],
+            "circumference": 0.5806092306309562,
+            "area": 0.02285770723105544,
+            "sectionVertices": 87
+          },
+          {
+            "center": [
+              -0.3173846008862141,
+              -0.2162934775868668,
+              -0.043017504725781204
+            ],
+            "circumference": 0.5532453202464985,
+            "area": 0.020638574165581153,
+            "sectionVertices": 88
+          },
+          {
+            "center": [
+              -0.3479937951313369,
+              -0.2398157605639424,
+              -0.03917376264372724
+            ],
+            "circumference": 0.523257257510586,
+            "area": 0.018532364899772856,
+            "sectionVertices": 92
+          },
+          {
+            "center": [
+              -0.379487922544674,
+              -0.26276394582113816,
+              -0.034445589215237174
+            ],
+            "circumference": 0.48491036548210065,
+            "area": 0.01614166776256446,
+            "sectionVertices": 86
+          },
+          {
+            "center": [
+              -0.41225645643015724,
+              -0.28613471831472864,
+              -0.029769596028217753
+            ],
+            "circumference": 0.44059460479546403,
+            "area": 0.013469600642230486,
+            "sectionVertices": 80
+          },
+          {
+            "center": [
+              -0.44408814847460226,
+              -0.3113502675619516,
+              -0.024089625929580392
+            ],
+            "circumference": 0.4099776152091417,
+            "area": 0.011546695947132566,
+            "sectionVertices": 69
+          },
+          {
+            "center": [
+              -0.4762995313105362,
+              -0.3378180039438116,
+              -0.01625251193568487
+            ],
+            "circumference": 0.38865994708039003,
+            "area": 0.01039604745346873,
+            "sectionVertices": 70
+          },
+          {
+            "center": [
+              -0.5061064573575605,
+              -0.365003774813722,
+              -0.004527135297343526
+            ],
+            "circumference": 0.3739651347074628,
+            "area": 0.009939761631896747,
+            "sectionVertices": 71
+          },
+          {
+            "center": [
+              -0.5371807176212308,
+              -0.3928258947471745,
+              0.005689540099921946
+            ],
+            "circumference": 0.35725024818946516,
+            "area": 0.009195776891278998,
+            "sectionVertices": 82
+          },
+          {
+            "center": [
+              -0.566399467757454,
+              -0.42010334357885726,
+              0.01691974660130866
+            ],
+            "circumference": 0.3522254567498273,
+            "area": 0.00847343988802646,
+            "sectionVertices": 79
+          },
+          {
+            "center": [
+              -0.5928338133669173,
+              -0.4471595754167717,
+              0.026281639450838595
+            ],
+            "circumference": 0.31357931642914,
+            "area": 0.006291429607473922,
+            "sectionVertices": 92
+          }
+        ]
+      }
+    }
+  }
+]

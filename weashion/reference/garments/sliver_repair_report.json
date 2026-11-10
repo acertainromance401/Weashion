@@ -1,0 +1,438 @@
+[
+  {
+    "id": "long_sleeve",
+    "changed": false,
+    "beforeVertices": 3066,
+    "afterVertices": 3066,
+    "beforeTriangles": 5881,
+    "afterTriangles": 5881,
+    "minimumBefore": 1.4914649376640554e-12,
+    "minimumAfter": 1.4914649376640554e-12,
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.4914649376640554e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 6.108407508108316e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.9838187544834203e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 1.2832037949578323e-12,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.6716545682415873e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 2.143798159826016e-12,
+        "failingTriangles": 0
+      }
+    },
+    "resourceSHA256": "7321c676fd707aff4823f8f28c47cb382e044733d58085b8643a9bd5e263e2dc",
+    "resourceSHA256BeforeSleeveMetadata": "54313827b5521a1163d1419c2ee84c2abd0466c44482608f4389adee2a02cbe6"
+  },
+  {
+    "id": "hoodie",
+    "changed": true,
+    "beforeVertices": 6077,
+    "afterVertices": 6068,
+    "beforeTriangles": 11600,
+    "afterTriangles": 11590,
+    "minimumBefore": 1.6431385467747042e-14,
+    "minimumAfter": 1.2667686994857763e-12,
+    "operations": {
+      "submillimetreVertexAdjustments": 7,
+      "edgeCollapses": 9,
+      "edgeRotations": 2
+    },
+    "topology": {
+      "components": 1,
+      "euler": -14,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 8,
+    "repairedToPrevious": {
+      "rmsMM": 0.007107467098624579,
+      "p95MM": 0.0,
+      "maxMM": 0.4862596979364753,
+      "samples": 6068
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.006995597304495828,
+      "p95MM": 0.0,
+      "maxMM": 0.3547669621184468,
+      "samples": 6077
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.2667686994857763e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.188718920669244e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.487800868430535e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 1.0972334152370422e-12,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.2560479999840224e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.2859501874809554e-12,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.007665233550428618,
+      "p95MM": 1.4966500927471316e-05,
+      "maxMM": 0.6741327815689147,
+      "samples": 52428,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.006188817648362889,
+      "p95MM": 1.5017125321037383e-05,
+      "maxMM": 0.40795927634462714,
+      "samples": 52477,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.571828218786032,
+    "previousResourceSHA256": "a8d657907dfb0d889b924e6f368cb3ee1c60eee48d9a426a7a9398cb1720a056",
+    "resourceSHA256": "403f1533574ea353127726968403cd7b31d10729a62faccafed05db3a704fa3c",
+    "resourceSHA256BeforeSleeveMetadata": "993ba05f36dd6234d247d34a6d98c7f549cb7fab3f2cd02159947345b366a12f"
+  },
+  {
+    "id": "dress_pants",
+    "changed": true,
+    "beforeVertices": 4725,
+    "afterVertices": 4665,
+    "beforeTriangles": 8310,
+    "afterTriangles": 8235,
+    "minimumBefore": 1.253717520966792e-14,
+    "minimumAfter": 1.2564886197469205e-12,
+    "operations": {
+      "edgeCollapses": 60,
+      "submillimetreVertexAdjustments": 25,
+      "edgeRotations": 6,
+      "constrainedSubmillimetrePatchAdjustments": 23
+    },
+    "topology": {
+      "components": 14,
+      "euler": -56,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 70,
+    "repairedToPrevious": {
+      "rmsMM": 0.022939966843613584,
+      "p95MM": 0.0,
+      "maxMM": 0.7216550875455141,
+      "samples": 4665
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.023342197137292096,
+      "p95MM": 0.0,
+      "maxMM": 0.6399297271855175,
+      "samples": 4725
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.2564886197469205e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.146599292571441e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.1395342597363707e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 9.125280826111082e-13,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.3081989918423131e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.570891203575564e-12,
+        "failingTriangles": 0
+      },
+      "custom_small_pants": {
+        "minimumCrossSquared": 6.362482155714e-13,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.02289207461150839,
+      "p95MM": 1.4902980183251202e-05,
+      "maxMM": 0.7216550875455141,
+      "samples": 37605,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.01910746491275948,
+      "p95MM": 1.5160832589344864e-05,
+      "maxMM": 0.6399297271855175,
+      "samples": 37965,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7488983824925822,
+    "previousResourceSHA256": "46d89f589aef70999dfaaa5f5423fe6454ef2c41c671cd3f40f8c464cb7ffde6",
+    "resourceSHA256": "b7b1b0b33ba53aced97d054bef0e7bfc6e8798877d447ad98c79b8e14b69376a"
+  },
+  {
+    "id": "jeans",
+    "changed": true,
+    "beforeVertices": 4715,
+    "afterVertices": 4700,
+    "beforeTriangles": 8720,
+    "afterTriangles": 8705,
+    "minimumBefore": 1.5028402445562382e-14,
+    "minimumAfter": 1.2539153743107434e-12,
+    "operations": {
+      "submillimetreVertexAdjustments": 23,
+      "edgeCollapses": 15,
+      "constrainedSubmillimetrePatchAdjustments": 37
+    },
+    "topology": {
+      "components": 2,
+      "euler": -73,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 61,
+    "repairedToPrevious": {
+      "rmsMM": 0.017857783834558962,
+      "p95MM": 0.0,
+      "maxMM": 0.6829019985161722,
+      "samples": 4700
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.009016666133495279,
+      "p95MM": 0.0,
+      "maxMM": 0.25938660837709904,
+      "samples": 4715
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.2539153743107434e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.135984953302808e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.4150525289600164e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 9.351615619032638e-13,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.1456662441650112e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.389732729936699e-12,
+        "failingTriangles": 0
+      },
+      "custom_small_pants": {
+        "minimumCrossSquared": 6.793423245818331e-13,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.013353426618476964,
+      "p95MM": 1.4908435375105e-05,
+      "maxMM": 0.6829019985161722,
+      "samples": 39520,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.009406864514098645,
+      "p95MM": 1.493023660259496e-05,
+      "maxMM": 0.4490271967370063,
+      "samples": 39595,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7430657840326111,
+    "previousResourceSHA256": "8ec604a7e03852bd1fd93684d2eb192f8e83e34af9633610e3b260791cf8e852",
+    "resourceSHA256": "ac21fd73c51d305ce77a1cc636aac2b64c40b64b4f4f24b9300c23439dbe50b4"
+  },
+  {
+    "id": "bomber",
+    "changed": true,
+    "beforeVertices": 6050,
+    "afterVertices": 6040,
+    "beforeTriangles": 11420,
+    "afterTriangles": 11409,
+    "minimumBefore": 2.052803151802226e-14,
+    "minimumAfter": 1.2540707404820606e-12,
+    "operations": {
+      "submillimetreVertexAdjustments": 58,
+      "edgeCollapses": 10,
+      "edgeRotations": 1,
+      "constrainedSubmillimetrePatchAdjustments": 62
+    },
+    "topology": {
+      "components": 1,
+      "euler": -77,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 13,
+    "repairedToPrevious": {
+      "rmsMM": 0.030166541772608083,
+      "p95MM": 0.0,
+      "maxMM": 0.7458882173523307,
+      "samples": 6040
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.009738024301360428,
+      "p95MM": 0.0,
+      "maxMM": 0.4522578383330256,
+      "samples": 6050
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.2540707404820606e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.136658784953008e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.318059802609463e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 1.0049899280828445e-12,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.283037478344573e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.5728970860148794e-12,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.022217517615205733,
+      "p95MM": 1.666000493116826e-05,
+      "maxMM": 0.8136789547279477,
+      "samples": 51676,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.013085990707735784,
+      "p95MM": 1.666000493116826e-05,
+      "maxMM": 0.7987883291207254,
+      "samples": 51730,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7467531242653099,
+    "previousResourceSHA256": "7127dbf1d578a2ffdb7af57f66b4c116b3f7d9f2a40a85c8a2f19b9cab8425d1",
+    "resourceSHA256": "d700f3deba01df90c6259e9cdf1c4b98229f26d349e068bdb317149993334f6d",
+    "resourceSHA256BeforeSleeveMetadata": "afff1ff2df51019e535723c2eb76a534f8ea051cd3b893b77afef51f9768698f"
+  },
+  {
+    "id": "sneakers",
+    "changed": true,
+    "beforeVertices": 6490,
+    "afterVertices": 6117,
+    "beforeTriangles": 11804,
+    "afterTriangles": 11374,
+    "minimumBefore": 1.1067884754306298e-14,
+    "minimumAfter": 1.250060385066254e-12,
+    "operations": {
+      "edgeCollapses": 373,
+      "edgeRotations": 74,
+      "submillimetreVertexAdjustments": 235,
+      "constrainedSubmillimetrePatchAdjustments": 400,
+      "microscopicFoldNormalReorientations": 1
+    },
+    "topology": {
+      "components": 14,
+      "euler": -546,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 450,
+    "repairedToPrevious": {
+      "rmsMM": 0.0605926866098809,
+      "p95MM": 0.0,
+      "maxMM": 0.7462233770638704,
+      "samples": 6117
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.027120884844844987,
+      "p95MM": 0.012287411391298258,
+      "maxMM": 0.6019106367602944,
+      "samples": 6490
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.250060385066254e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.120185417144263e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.173206326607253e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 9.88779696141362e-13,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.250060385066254e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.4448559536306416e-12,
+        "failingTriangles": 0
+      },
+      "small_shoe_240x92": {
+        "minimumCrossSquared": 8.41203734273932e-13,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.044494288683921836,
+      "p95MM": 0.030725453689228573,
+      "maxMM": 0.9295925265178084,
+      "samples": 51613,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.033152002123273544,
+      "p95MM": 0.035314930755703244,
+      "maxMM": 0.8619929431006312,
+      "samples": 53706,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7497849661069594,
+    "previousResourceSHA256": "5aea2edc9cf25bfaa71840defd436bcc8c1009765f5186e9da97343b364fd65e",
+    "resourceSHA256": "6650870f799f2eb4cf7d6dbc710e1b325775ec41a897978c18e41c3f455ba694"
+  }
+]

@@ -1,0 +1,4391 @@
+[
+  {
+    "id": "long_sleeve",
+    "inputResource": "weashion/weashion/Resources/meshy_long_sleeve.json",
+    "inputSHA256": "54313827b5521a1163d1419c2ee84c2abd0466c44482608f4389adee2a02cbe6",
+    "measurementScope": "Published normalized, source-derived thin skin; no original/source conversion or native solver rerun.",
+    "shoulderMeasurementAnchor": [
+      0.23,
+      0.0,
+      0.0
+    ],
+    "cuffMeasurementAnchor": [
+      0.6601692637500002,
+      -0.4300850133333334,
+      0.046438487083333334
+    ],
+    "assumedAxis": [
+      0.7051242217110093,
+      -0.7049861202368056,
+      0.07612097102572722
+    ],
+    "xPlaneSections": [
+      {
+        "center": [
+          0.245,
+          -0.1294818239339615,
+          -0.040404997545571864
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.580948979391947,
+        "area": 0.023199320790626976,
+        "sectionVertices": 72,
+        "assumedAxisProjection": [
+          0.2996550506120694,
+          -0.06964140838438938,
+          0.0075195404244813675
+        ],
+        "centerToAssumedAxisMM": 94.1531265025034,
+        "centerMinusAssumedAxisMM": [
+          -54.65505061206938,
+          -59.84041554957211,
+          -47.92453797005323
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 0.2464492276610324,
+        "progressPerimeterMean": 0.09264889764162591,
+        "perimeterFractionProgressUnderPoint1": 0.4908829059059754,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.13997997234733175,
+        "lowerHalfMeanProgress": 0.02982048310865634
+      },
+      {
+        "center": [
+          0.28001538761363637,
+          -0.14731068061164593,
+          -0.04078421336914566
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.5520119465573674,
+        "area": 0.01991205646107289,
+        "sectionVertices": 83,
+        "assumedAxisProjection": [
+          0.3259071272921559,
+          -0.0958883434874618,
+          0.010353556767702431
+        ],
+        "centerToAssumedAxisMM": 85.82179245741352,
+        "centerMinusAssumedAxisMM": [
+          -45.89173967851951,
+          -51.42233712418413,
+          -51.13777013684809
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 0.5735697307097419,
+        "progressPerimeterMean": 0.37793399925083526,
+        "perimeterFractionProgressUnderPoint1": 0.14083510049438794,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.5527189656331453,
+        "lowerHalfMeanProgress": 0.19997197356094876
+      },
+      {
+        "center": [
+          0.31503077522727274,
+          -0.16515311180462297,
+          -0.039170883493043505
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.5147953410197648,
+        "area": 0.015734450389007473,
+        "sectionVertices": 91,
+        "assumedAxisProjection": [
+          0.35227290127492406,
+          -0.12224895362513227,
+          0.01319984718805296
+        ],
+        "centerToAssumedAxisMM": 77.26859759120677,
+        "centerMinusAssumedAxisMM": [
+          -37.24212604765131,
+          -42.9041581794907,
+          -52.37073068109646
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.05631733361575392,
+        "progressMax": 0.9559921880120824,
+        "progressPerimeterMean": 0.7113350710536108,
+        "perimeterFractionProgressUnderPoint1": 0.03110971587836457,
+        "perimeterFractionProgressOverPoint9": 0.35237603837525494,
+        "upperHalfMeanProgress": 0.9158077623695269,
+        "lowerHalfMeanProgress": 0.5320108520122363
+      },
+      {
+        "center": [
+          0.35004616284090917,
+          -0.1832329135818408,
+          -0.03256406337932839
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.45544580290594117,
+        "area": 0.013161700607557567,
+        "sectionVertices": 76,
+        "assumedAxisProjection": [
+          0.37902469712967324,
+          -0.14899551003081507,
+          0.016087810208532106
+        ],
+        "centerToAssumedAxisMM": 66.17371120807735,
+        "centerMinusAssumedAxisMM": [
+          -28.978534288764067,
+          -34.23740355102572,
+          -48.65187358786049
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.41489481987724586,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.886132644590935,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6403682728485764,
+        "upperHalfMeanProgress": 0.998248379108317,
+        "lowerHalfMeanProgress": 0.7705736593583047
+      },
+      {
+        "center": [
+          0.3850615504545455,
+          -0.20596769542829751,
+          -0.02445479439560788
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.386997368491461,
+        "area": 0.011011980967234576,
+        "sectionVertices": 61,
+        "assumedAxisProjection": [
+          0.4081711401143428,
+          -0.17813624456494492,
+          0.019234284934014367
+        ],
+        "centerToAssumedAxisMM": 56.72193970654959,
+        "centerMinusAssumedAxisMM": [
+          -23.109589659797315,
+          -27.831450863352593,
+          -43.68907932962225
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.7928553958612758,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9625566488837386,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.8362901020092104,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9140933324361633
+      },
+      {
+        "center": [
+          0.4200769380681819,
+          -0.22973785192868998,
+          -0.018914850040627516
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.36157498525003606,
+        "area": 0.009656431668811378,
+        "sectionVertices": 59,
+        "assumedAxisProjection": [
+          0.4376943628949247,
+          -0.20765368510111695,
+          0.022421434540665974
+        ],
+        "centerToAssumedAxisMM": 50.067679244994885,
+        "centerMinusAssumedAxisMM": [
+          -17.617424826742777,
+          -22.084166827573025,
+          -41.336284581293484
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.9932071432717402,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9996543404015537,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9991329899419952
+      },
+      {
+        "center": [
+          0.4550923256818183,
+          -0.25655006268472863,
+          -0.01275166681816773
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.35651104685922785,
+        "area": 0.009456231924504295,
+        "sectionVertices": 55,
+        "assumedAxisProjection": [
+          0.46876325151578996,
+          -0.23871648875257073,
+          0.025775444937262033
+        ],
+        "centerToAssumedAxisMM": 44.601220976191556,
+        "centerMinusAssumedAxisMM": [
+          -13.670925833971669,
+          -17.833573932157897,
+          -38.527111755429765
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.49010771329545466,
+          -0.28349824775271965,
+          -0.007146014980399474
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.34760670914691466,
+        "area": 0.009117123152638384,
+        "sectionVertices": 54,
+        "assumedAxisProjection": [
+          0.49986980799404035,
+          -0.2698169528840051,
+          0.02913352172924252
+        ],
+        "centerToAssumedAxisMM": 39.98351042686386,
+        "centerMinusAssumedAxisMM": [
+          -9.762094698585688,
+          -13.681294868714556,
+          -36.279536709641995
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999999,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5251231009090911,
+          -0.30957592023969316,
+          0.0021276574648929664
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.33748918954459506,
+        "area": 0.008613370732938516,
+        "sectionVertices": 52,
+        "assumedAxisProjection": [
+          0.530740510294179,
+          -0.300681609030337,
+          0.03246613712235804
+        ],
+        "centerToAssumedAxisMM": 32.110549793097185,
+        "centerMinusAssumedAxisMM": [
+          -5.617409385087924,
+          -8.894311209356133,
+          -30.338479657465072
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999999,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5601384885227274,
+          -0.33962280443697596,
+          0.0130649127865751
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.3319678760922697,
+        "area": 0.008271743876617676,
+        "sectionVertices": 54,
+        "assumedAxisProjection": [
+          0.5636736111861372,
+          -0.33360825983925557,
+          0.036021396666131786
+        ],
+        "centerToAssumedAxisMM": 23.993165507612105,
+        "centerMinusAssumedAxisMM": [
+          -3.5351226634098287,
+          -6.014544597720384,
+          -22.956483879556686
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5951538761363637,
+          -0.36860699196724345,
+          0.022947213596529653
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.319908868706687,
+        "area": 0.006898548129870697,
+        "sectionVertices": 65,
+        "assumedAxisProjection": [
+          0.5960218181910863,
+          -0.3659501313150345,
+          0.039513514582862695
+        ],
+        "centerToAssumedAxisMM": 16.80043333683365,
+        "centerMinusAssumedAxisMM": [
+          -0.8679420547226258,
+          -2.6568606522089366,
+          -16.566300986333044
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.6301692637500002,
+          -0.3953091446272441,
+          0.0344550610766525
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.2907954847518017,
+        "area": 0.005824159322197151,
+        "sectionVertices": 68,
+        "assumedAxisProjection": [
+          0.6273228700922452,
+          -0.3972450527766502,
+          0.04289258793118886
+        ],
+        "centerToAssumedAxisMM": 9.112714010593486,
+        "centerMinusAssumedAxisMM": [
+          2.8463936577549642,
+          1.9359081494060848,
+          -8.437526854536358
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000004,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      }
+    ],
+    "tangentPlaneSections": [
+      {
+        "center": [
+          0.241920265994661,
+          -0.1355767064088105,
+          -0.038224956217707357
+        ],
+        "tangent": [
+          0.8910923819599484,
+          -0.4537193344777733,
+          -0.00965050951981118
+        ],
+        "circumference": 0.5228311620402426,
+        "area": 0.019984758904929532,
+        "sectionVertices": 70,
+        "assumedAxisProjection": [
+          0.30127060257853167,
+          -0.07125664393836528,
+          0.007693945700379031
+        ],
+        "centerToAssumedAxisMM": 98.83358964534048,
+        "centerMinusAssumedAxisMM": [
+          -59.35033658387068,
+          -64.32006247044522,
+          -45.91890191808639
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 0.6539430772547323,
+        "progressPerimeterMean": 0.2083700729626378,
+        "perimeterFractionProgressUnderPoint1": 0.4999378918108323,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.45365139349711103,
+        "lowerHalfMeanProgress": 0.0068612121814722446,
+        "arcFromFirstMeasuredSection": 0.0
+      },
+      {
+        "center": [
+          0.2751277047680061,
+          -0.15691008296368708,
+          -0.04089346254361218
+        ],
+        "tangent": [
+          0.8909541934529207,
+          -0.45382167213044344,
+          0.01570079849510383
+        ],
+        "circumference": 0.5035784987128261,
+        "area": 0.017686556782398756,
+        "sectionVertices": 84,
+        "assumedAxisProjection": [
+          0.32824299632416437,
+          -0.09822375502992883,
+          0.010605723142690874
+        ],
+        "centerToAssumedAxisMM": 94.4324383344867,
+        "centerMinusAssumedAxisMM": [
+          -53.1152915561583,
+          -58.68632793375825,
+          -51.49918568630306
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 0.9480632155733496,
+        "progressPerimeterMean": 0.41684741347835025,
+        "perimeterFractionProgressUnderPoint1": 0.33923409395581783,
+        "perimeterFractionProgressOverPoint9": 0.10926380221246798,
+        "upperHalfMeanProgress": 0.795269337160265,
+        "lowerHalfMeanProgress": 0.09078500252008449,
+        "arcFromFirstMeasuredSection": 0.03955967481070862
+      },
+      {
+        "center": [
+          0.31069002804668927,
+          -0.17384406169261152,
+          -0.040169945127797736
+        ],
+        "tangent": [
+          0.8849575615593995,
+          -0.45393830914914884,
+          0.10387552996569191
+        ],
+        "circumference": 0.48196037283978294,
+        "area": 0.014626145688049123,
+        "sectionVertices": 90,
+        "assumedAxisProjection": [
+          0.35438135210477584,
+          -0.12435699150623129,
+          0.013427462861414548
+        ],
+        "centerToAssumedAxisMM": 85.03284104828283,
+        "centerMinusAssumedAxisMM": [
+          -43.691324058086565,
+          -49.48707018638022,
+          -53.59740798921228
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.6275245529277521,
+        "perimeterFractionProgressUnderPoint1": 0.13859226459744942,
+        "perimeterFractionProgressOverPoint9": 0.4547970957020355,
+        "upperHalfMeanProgress": 0.9712447468300439,
+        "lowerHalfMeanProgress": 0.35993973351960884,
+        "arcFromFirstMeasuredSection": 0.07895462309116998
+      },
+      {
+        "center": [
+          0.3465394477969513,
+          -0.18986654249217663,
+          -0.03427449260363953
+        ],
+        "tangent": [
+          0.8500794393534694,
+          -0.4954341609336733,
+          0.17863353259799344
+        ],
+        "circumference": 0.44003361545030717,
+        "area": 0.011504954119334556,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.38048694641069725,
+          -0.15045747292431308,
+          0.016245665848327213
+        ],
+        "centerToAssumedAxisMM": 72.5106463655291,
+        "centerMinusAssumedAxisMM": [
+          -33.947498613745964,
+          -39.409069567863554,
+          -50.52015845196674
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.010291105178728659,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.7619662703058329,
+        "perimeterFractionProgressUnderPoint1": 0.055252610575132255,
+        "perimeterFractionProgressOverPoint9": 0.5347359367342919,
+        "upperHalfMeanProgress": 0.9992127524582488,
+        "lowerHalfMeanProgress": 0.5530713363959536,
+        "arcFromFirstMeasuredSection": 0.11866176536894554
+      },
+      {
+        "center": [
+          0.3823896155442322,
+          -0.21031920340983978,
+          -0.02557199704260251
+        ],
+        "tangent": [
+          0.8222815031343829,
+          -0.5460477980276125,
+          0.16026519232901415
+        ],
+        "circumference": 0.37195271315080203,
+        "area": 0.009274063564784125,
+        "sectionVertices": 72,
+        "assumedAxisProjection": [
+          0.4089458348213249,
+          -0.17891078754478762,
+          0.01931791631629886
+        ],
+        "centerToAssumedAxisMM": 60.88370628349397,
+        "centerMinusAssumedAxisMM": [
+          -26.55621927709273,
+          -31.408415865052163,
+          -44.88991335890137
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.3906133143997061,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.8891863217083221,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6609224805508968,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.8058974363520205,
+        "arcFromFirstMeasuredSection": 0.16084326955159595
+      },
+      {
+        "center": [
+          0.41875718850597715,
+          -0.231665921757838,
+          -0.01935090879613419
+        ],
+        "tangent": [
+          0.8033160886796257,
+          -0.5802253264900064,
+          0.13424541767983508
+        ],
+        "circumference": 0.32931589328544886,
+        "area": 0.008072133253646693,
+        "sectionVertices": 68,
+        "assumedAxisProjection": [
+          0.4379732267404273,
+          -0.2079324943299904,
+          0.022451539004603012
+        ],
+        "centerToAssumedAxisMM": 51.76848795390995,
+        "centerMinusAssumedAxisMM": [
+          -19.216038234450174,
+          -23.73342742784762,
+          -41.802447800737205
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.8407794157547059,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9724292233004872,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.8819912827706278,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9386210594158054,
+        "arcFromFirstMeasuredSection": 0.20346937289598993
+      },
+      {
+        "center": [
+          0.4560961068921486,
+          -0.25565503117894944,
+          -0.014636163302215179
+        ],
+        "tangent": [
+          0.7862675285648921,
+          -0.6035925408800634,
+          0.13213409143141538
+        ],
+        "circumference": 0.31523365206728826,
+        "area": 0.007164013332178166,
+        "sectionVertices": 65,
+        "assumedAxisProjection": [
+          0.4687162591845061,
+          -0.23866950562492792,
+          0.025770371927744066
+        ],
+        "centerToAssumedAxisMM": 45.612108167881836,
+        "centerMinusAssumedAxisMM": [
+          -12.620152292357522,
+          -16.985525554021525,
+          -40.406535229959246
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.9960590708931055,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9998986745932904,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9997609605412989,
+        "arcFromFirstMeasuredSection": 0.24810009126506458
+      },
+      {
+        "center": [
+          0.48951388647122723,
+          -0.2841551543394283,
+          -0.006692155811179352
+        ],
+        "tangent": [
+          0.7860470825610186,
+          -0.595178626769561,
+          0.16701013811745363
+        ],
+        "circumference": 0.3037881306476302,
+        "area": 0.007032859799468671,
+        "sectionVertices": 58,
+        "assumedAxisProjection": [
+          0.49992546806694915,
+          -0.26987260205566005,
+          0.02913953045602672
+        ],
+        "centerToAssumedAxisMM": 39.953749158426085,
+        "centerMinusAssumedAxisMM": [
+          -10.41158159572192,
+          -14.282552283768235,
+          -35.831686267206074
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.2927331761592995
+      },
+      {
+        "center": [
+          0.5241737303561785,
+          -0.3106517117779531,
+          0.0024298124524971786
+        ],
+        "tangent": [
+          0.7612599814513041,
+          -0.6100943312673865,
+          0.21970013107907002
+        ],
+        "circumference": 0.29429200650277654,
+        "area": 0.006790703542932458,
+        "sectionVertices": 49,
+        "assumedAxisProjection": [
+          0.5308194801606978,
+          -0.3007605634302832,
+          0.03247466223429732
+        ],
+        "centerToAssumedAxisMM": 32.32172341492355,
+        "centerMinusAssumedAxisMM": [
+          -6.645749804519263,
+          -9.891148347669908,
+          -30.044849781800142
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999998,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.33730427261457824
+      },
+      {
+        "center": [
+          0.5595216745832216,
+          -0.340279605349234,
+          0.013277419554941557
+        ],
+        "tangent": [
+          0.7455809499545457,
+          -0.6284728734278207,
+          0.22165489940503408
+        ],
+        "circumference": 0.2738833519404272,
+        "area": 0.005780343861972111,
+        "sectionVertices": 50,
+        "assumedAxisProjection": [
+          0.5637048350029299,
+          -0.3336394775407355,
+          0.03602476740164221
+        ],
+        "centerToAssumedAxisMM": 24.063082979306852,
+        "centerMinusAssumedAxisMM": [
+          -4.183160419708343,
+          -6.640127808498542,
+          -22.747347846700656
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999998,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.3846852795519397
+      },
+      {
+        "center": [
+          0.5933264277110553,
+          -0.37078837262138037,
+          0.02325130334070848
+        ],
+        "tangent": [
+          0.7612573069737182,
+          -0.6053286320320053,
+          0.23251786989688217
+        ],
+        "circumference": 0.26351143613858896,
+        "area": 0.005163633088452565,
+        "sectionVertices": 59,
+        "assumedAxisProjection": [
+          0.5962139028728278,
+          -0.36614217837620244,
+          0.039534250890087906
+        ],
+        "centerToAssumedAxisMM": 17.177281934858595,
+        "centerMinusAssumedAxisMM": [
+          -2.887475161772568,
+          -4.6461942451779255,
+          -16.282947549379426
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.4313009911980334
+      },
+      {
+        "center": [
+          0.6278337712642711,
+          -0.39751814876631913,
+          0.036435710276926776
+        ],
+        "tangent": [
+          0.7693343422248334,
+          -0.5866815835181113,
+          0.25284261791510615
+        ],
+        "circumference": 0.260313223805484,
+        "area": 0.004562207667509867,
+        "sectionVertices": 63,
+        "assumedAxisProjection": [
+          0.6273660757868421,
+          -0.39728825000923434,
+          0.042897252158179355
+        ],
+        "centerToAssumedAxisMM": 6.482523889759125,
+        "centerMinusAssumedAxisMM": [
+          0.46769547742897544,
+          -0.2298987570847899,
+          -6.461541881252579
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.47689777044962095
+      }
+    ],
+    "suppliedVertexEvidence": [
+      {
+        "vertex": 2525,
+        "position": [
+          0.26661205,
+          -0.23705649,
+          -0.0377305
+        ],
+        "sleeveProgress": 0.0,
+        "assumedAxisRadiusMM": 151.11227438183153,
+        "measuredSectionCenter": [
+          0.31069002804668927,
+          -0.17384406169261152,
+          -0.040169945127797736
+        ],
+        "sectionLocalRadiusMM": 76.44241400838071,
+        "signedDistanceFromMeasuredSectionPlaneMM": -10.059198492126951,
+        "assumedAxisDepthMM": -52.198470123617774,
+        "measuredCenterDepthMM": 2.439445127797736
+      },
+      {
+        "vertex": 2587,
+        "position": [
+          0.31685817,
+          -0.12752113,
+          0.01612621
+        ],
+        "sleeveProgress": 0.9680657838331124,
+        "assumedAxisRadiusMM": 29.124019658019808,
+        "measuredSectionCenter": [
+          0.31069002804668927,
+          -0.17384406169261152,
+          -0.040169945127797736
+        ],
+        "sectionLocalRadiusMM": 72.51628175538237,
+        "signedDistanceFromMeasuredSectionPlaneMM": -9.721416476090704,
+        "assumedAxisDepthMM": 4.527355522840013,
+        "measuredCenterDepthMM": 56.29615512779773
+      },
+      {
+        "vertex": 2645,
+        "position": [
+          0.35866603,
+          -0.17239492,
+          0.02499133
+        ],
+        "sleeveProgress": 1.0,
+        "assumedAxisRadiusMM": 32.14554076601787,
+        "measuredSectionCenter": [
+          0.3465394477969513,
+          -0.18986654249217663,
+          -0.03427449260363953
+        ],
+        "sectionLocalRadiusMM": 61.76525581091838,
+        "signedDistanceFromMeasuredSectionPlaneMM": 12.239382824894152,
+        "assumedAxisDepthMM": 8.688964118233004,
+        "measuredCenterDepthMM": 59.26582260363953
+      },
+      {
+        "vertex": 2630,
+        "position": [
+          0.3456181,
+          -0.1416333,
+          0.01205417
+        ],
+        "sleeveProgress": 1.0,
+        "assumedAxisRadiusMM": 18.503794927225435,
+        "measuredSectionCenter": [
+          0.3465394477969513,
+          -0.18986654249217663,
+          -0.03427449260363953
+        ],
+        "sectionLocalRadiusMM": 64.84254874725654,
+        "signedDistanceFromMeasuredSectionPlaneMM": -16.403762180475166,
+        "assumedAxisDepthMM": -1.8220899265330401,
+        "measuredCenterDepthMM": 46.328662603639536
+      }
+    ],
+    "rightSleeveEdgesProgressJumpOverPoint5": 22,
+    "largestProgressJumpEdges": [
+      {
+        "vertices": [
+          2477,
+          2538
+        ],
+        "positions": [
+          [
+            0.2573007,
+            -0.16750693,
+            -0.10758571
+          ],
+          [
+            0.31277895,
+            -0.15372699,
+            -0.09415067
+          ]
+        ],
+        "progress": [
+          0.12392514878387874,
+          0.9423400235267696
+        ],
+        "edgeLengthMM": 58.72157413819643
+      },
+      {
+        "vertices": [
+          2418,
+          2547
+        ],
+        "positions": [
+          [
+            0.24725302,
+            -0.05613895,
+            -0.08544081
+          ],
+          [
+            0.30613798,
+            -0.10429478,
+            -0.0788444
+          ]
+        ],
+        "progress": [
+          0.1343965637400928,
+          0.8870548275966015
+        ],
+        "edgeLengthMM": 76.35401169603728
+      },
+      {
+        "vertices": [
+          2477,
+          2557
+        ],
+        "positions": [
+          [
+            0.2573007,
+            -0.16750693,
+            -0.10758571
+          ],
+          [
+            0.30944327,
+            -0.17942902,
+            -0.09623544
+          ]
+        ],
+        "progress": [
+          0.12392514878387874,
+          0.8486078495915488
+        ],
+        "edgeLengthMM": 54.679177620424205
+      },
+      {
+        "vertices": [
+          2501,
+          2556
+        ],
+        "positions": [
+          [
+            0.25976634,
+            -0.21216343,
+            -0.00676579
+          ],
+          [
+            0.31775743,
+            -0.20722431,
+            -0.00295144
+          ]
+        ],
+        "progress": [
+          0.016336027872792043,
+          0.7261542745397994
+        ],
+        "edgeLengthMM": 58.32590069330265
+      },
+      {
+        "vertices": [
+          2456,
+          2583
+        ],
+        "positions": [
+          [
+            0.26096678,
+            -0.05382442,
+            -0.07776975
+          ],
+          [
+            0.33480379,
+            -0.10234194,
+            -0.05718479
+          ]
+        ],
+        "progress": [
+          0.29636754566212137,
+          1.0
+        ],
+        "edgeLengthMM": 90.71711178654277
+      },
+      {
+        "vertices": [
+          2487,
+          2583
+        ],
+        "positions": [
+          [
+            0.26618895,
+            -0.04956614,
+            -0.0704173
+          ],
+          [
+            0.33480379,
+            -0.10234194,
+            -0.05718479
+          ]
+        ],
+        "progress": [
+          0.36699647449068507,
+          1.0
+        ],
+        "edgeLengthMM": 87.56929059188332
+      },
+      {
+        "vertices": [
+          2606,
+          2647
+        ],
+        "positions": [
+          [
+            0.310669,
+            -0.26990682,
+            -0.05828324
+          ],
+          [
+            0.36865473,
+            -0.26775607,
+            -0.04203937
+          ]
+        ],
+        "progress": [
+          0.0209595174050901,
+          0.6344066475386629
+        ],
+        "edgeLengthMM": 60.25640150035763
+      },
+      {
+        "vertices": [
+          2438,
+          2502
+        ],
+        "positions": [
+          [
+            0.23169577,
+            -0.10094648,
+            -0.10128446
+          ],
+          [
+            0.28417981,
+            -0.12843078,
+            -0.09726053
+          ]
+        ],
+        "progress": [
+          0.01769746535787713,
+          0.6214775375202136
+        ],
+        "edgeLengthMM": 59.381421453654156
+      }
+    ],
+    "surfaceNearMeasurementShoulder": {
+      "windowX": 0.01,
+      "highestPoint": [
+        0.22004947,
+        -0.00582956,
+        -0.0369533
+      ]
+    },
+    "proposedCenterlineKnots": [
+      {
+        "center": [
+          0.241920265994661,
+          -0.1355767064088105,
+          -0.038224956217707357
+        ],
+        "tangent": [
+          0.8394264849810138,
+          -0.5392707765409065,
+          -0.06745521389327681
+        ],
+        "radialAxis": [
+          0.5405018759840964,
+          0.8413428088821302,
+          1.048047243461545e-17
+        ],
+        "depthAxis": [
+          0.0567529591307144,
+          -0.036459669654224605,
+          0.9977223031077398
+        ],
+        "legacyAxialCoordinate": 0.10107524374299752,
+        "arcFromFirstMeasuredSection": 0.0,
+        "circumference": 0.5228311620402426,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.2751277047680061,
+          -0.15691008296368708,
+          -0.04089346254361218
+        ],
+        "tangent": [
+          0.8735562564011193,
+          -0.486095729090906,
+          -0.02470645790158196
+        ],
+        "radialAxis": [
+          0.4863050578518169,
+          0.8737842344039191,
+          0.002915890069623717
+        ],
+        "depthAxis": [
+          0.020170711693023775,
+          -0.014562069452439987,
+          0.9996904963652797
+        ],
+        "legacyAxialCoordinate": 0.13932721823932556,
+        "arcFromFirstMeasuredSection": 0.03955967481070862,
+        "circumference": 0.5035784987128261,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.31069002804668927,
+          -0.17384406169261152,
+          -0.040169945127797736
+        ],
+        "tangent": [
+          0.9047745754180204,
+          -0.41755270789405263,
+          0.08386121754115447
+        ],
+        "radialAxis": [
+          0.41897698755591456,
+          0.9079966005168478,
+          0.0006762754017072064
+        ],
+        "depthAxis": [
+          -0.07642808106783708,
+          0.03452404350871883,
+          0.9964772144129018
+        ],
+        "legacyAxialCoordinate": 0.17639636857596522,
+        "arcFromFirstMeasuredSection": 0.07895462309116998,
+        "circumference": 0.48196037283978294,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.3465394477969513,
+          -0.18986654249217663,
+          -0.03427449260363953
+        ],
+        "tangent": [
+          0.8769735946851817,
+          -0.4461355673699699,
+          0.17855074839503138
+        ],
+        "radialAxis": [
+          0.45250627782820835,
+          0.8917435433384998,
+          0.005614395796290242
+        ],
+        "depthAxis": [
+          -0.16172625869354376,
+          0.07587165769621856,
+          0.9839146857362262
+        ],
+        "legacyAxialCoordinate": 0.21341905692238913,
+        "arcFromFirstMeasuredSection": 0.11866176536894554,
+        "circumference": 0.44003361545030717,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.3823896155442322,
+          -0.21031920340983978,
+          -0.02557199704260251
+        ],
+        "tangent": [
+          0.85196418481102,
+          -0.4931139320068077,
+          0.17605589413615053
+        ],
+        "radialAxis": [
+          0.4985490779568758,
+          0.8667306842965987,
+          0.015057814154074404
+        ],
+        "depthAxis": [
+          -0.16001826354401869,
+          0.07494378532963934,
+          0.9842649970271328
+        ],
+        "legacyAxialCoordinate": 0.2537791630347152,
+        "arcFromFirstMeasuredSection": 0.16084326955159595,
+        "circumference": 0.37195271315080203,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.41875718850597715,
+          -0.231665921757838,
+          -0.01935090879613419
+        ],
+        "tangent": [
+          0.8450503205528859,
+          -0.5197785851449236,
+          0.12538013462349706
+        ],
+        "radialAxis": [
+          0.5217504752682242,
+          0.8528825282261298,
+          0.019179014677170637
+        ],
+        "depthAxis": [
+          -0.11690336732039416,
+          0.04920991232817197,
+          0.9919233777050557
+        ],
+        "legacyAxialCoordinate": 0.294945515040985,
+        "arcFromFirstMeasuredSection": 0.20346937289598993,
+        "circumference": 0.32931589328544886,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.4560961068921486,
+          -0.25565503117894944,
+          -0.014636163302215179
+        ],
+        "tangent": [
+          0.7949752273141254,
+          -0.5897341284013414,
+          0.14222533443646784
+        ],
+        "radialAxis": [
+          0.5919698186468384,
+          0.8053776254416759,
+          0.030636811994021036
+        ],
+        "depthAxis": [
+          -0.13261267574438046,
+          0.059837598854214816,
+          0.9893600658988002
+        ],
+        "legacyAxialCoordinate": 0.33854497099142683,
+        "arcFromFirstMeasuredSection": 0.24810009126506458,
+        "circumference": 0.31523365206728826,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.48951388647122723,
+          -0.2841551543394283,
+          -0.006692155811179352
+        ],
+        "tangent": [
+          0.7634993323752021,
+          -0.6167948700849941,
+          0.19139712040533896
+        ],
+        "radialAxis": [
+          0.6223294967694765,
+          0.7818739809247094,
+          0.03713590450760091
+        ],
+        "depthAxis": [
+          -0.17255366386510274,
+          0.09075883532627894,
+          0.980809903547546
+        ],
+        "legacyAxialCoordinate": 0.3828055536256651,
+        "arcFromFirstMeasuredSection": 0.2927331761592995,
+        "circumference": 0.3037881306476302,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5241737303561785,
+          -0.3106517117779531,
+          0.0024298124524971786
+        ],
+        "tangent": [
+          0.7615920699293863,
+          -0.6105597387226284,
+          0.2172425475629222
+        ],
+        "radialAxis": [
+          0.6187846045462829,
+          0.7847268196472202,
+          0.03618607056395652
+        ],
+        "depthAxis": [
+          -0.1925698112300398,
+          0.10686731950093539,
+          0.9754466893815941
+        ],
+        "legacyAxialCoordinate": 0.42661912737978075,
+        "arcFromFirstMeasuredSection": 0.33730427261457824,
+        "circumference": 0.29429200650277654,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5595216745832216,
+          -0.340279605349234,
+          0.013277419554941557
+        ],
+        "tangent": [
+          0.7358315655112057,
+          -0.6398948267477078,
+          0.22155477403759383
+        ],
+        "radialAxis": [
+          0.6478489709137129,
+          0.7604560196167652,
+          0.04470294302022163
+        ],
+        "depthAxis": [
+          -0.19708784357075781,
+          0.11064019581574744,
+          0.9741227484185356
+        ],
+        "legacyAxialCoordinate": 0.4732568031675086,
+        "arcFromFirstMeasuredSection": 0.3846852795519397,
+        "circumference": 0.2738833519404272,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5933264277110553,
+          -0.37078837262138037,
+          0.02325130334070848
+        ],
+        "tangent": [
+          0.741861342000214,
+          -0.6216038549043095,
+          0.2514963157061029
+        ],
+        "radialAxis": [
+          0.6336923697780739,
+          0.7725414357262311,
+          0.040171016555501066
+        ],
+        "depthAxis": [
+          -0.21926178356177456,
+          0.12956997203887816,
+          0.9670242461361318
+        ],
+        "legacyAxialCoordinate": 0.5193608325979735,
+        "arcFromFirstMeasuredSection": 0.4313009911980334,
+        "circumference": 0.26351143613858896,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.6278337712642711,
+          -0.39751814876631913,
+          0.036435710276926776
+        ],
+        "tangent": [
+          0.7240885851696082,
+          -0.642342893012688,
+          0.25117987304552414
+        ],
+        "radialAxis": [
+          0.6537040748525532,
+          0.7552872791685141,
+          0.047033056964126504
+        ],
+        "depthAxis": [
+          -0.2199243127720143,
+          0.13014120685745018,
+          0.9667970639847041
+        ],
+        "legacyAxialCoordinate": 0.5635405274018512,
+        "arcFromFirstMeasuredSection": 0.47689777044962095,
+        "circumference": 0.260313223805484,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.6601692637500002,
+          -0.4300850133333334,
+          0.046438487083333334
+        ],
+        "tangent": [
+          0.68841935899478,
+          -0.6933452471641935,
+          0.2129581047906835
+        ],
+        "radialAxis": [
+          0.6987074350672328,
+          0.7127314445233393,
+          0.0618207745781557
+        ],
+        "depthAxis": [
+          -0.19464507788018975,
+          0.10623679316742271,
+          0.975103603436331
+        ],
+        "legacyAxialCoordinate": 0.6100616749573273,
+        "arcFromFirstMeasuredSection": 0.5238684026133429,
+        "circumference": 0.19597655675151976,
+        "role": "existing ordered cuff-loop mean"
+      }
+    ],
+    "leftRightXSectionAsymmetry": [
+      {
+        "rightSectionCenter": [
+          0.245,
+          -0.1294818239339615,
+          -0.040404997545571864
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.245,
+          -0.13388118473680968,
+          -0.04016465396568175
+        ],
+        "asymmetryMM": 4.4059210739675665
+      },
+      {
+        "rightSectionCenter": [
+          0.35004616284090917,
+          -0.1832329135818408,
+          -0.03256406337932839
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.35004616284090917,
+          -0.18903296797162278,
+          -0.032118599882483855
+        ],
+        "asymmetryMM": 5.817135777291967
+      },
+      {
+        "rightSectionCenter": [
+          0.4550923256818183,
+          -0.25655006268472863,
+          -0.01275166681816773
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.4550923256818183,
+          -0.2569762377762403,
+          -0.013004236152182588
+        ],
+        "asymmetryMM": 0.4953952736045038
+      },
+      {
+        "rightSectionCenter": [
+          0.5601384885227274,
+          -0.33962280443697596,
+          0.0130649127865751
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.5601384885227274,
+          -0.33549293798263596,
+          0.012240811392723809
+        ],
+        "asymmetryMM": 4.211287218657785
+      }
+    ],
+    "exportReadOnlyAudit": {
+      "resourceMatchesPreviouslyValidatedHash": true,
+      "blendMatchesPreviouslyValidatedHash": true,
+      "blendSHA256": "003578b7f73914a7d858bdd5acb53624d91768dc2b087831c871ccf99c13ec45"
+    },
+    "suppliedTriangle4991": {
+      "indices": [
+        2587,
+        2645,
+        2630
+      ],
+      "weights": [
+        0.9680657838331124,
+        1.0,
+        1.0
+      ],
+      "positions": [
+        [
+          0.31685817,
+          -0.12752113,
+          0.01612621
+        ],
+        [
+          0.35866603,
+          -0.17239492,
+          0.02499133
+        ],
+        [
+          0.3456181,
+          -0.1416333,
+          0.01205417
+        ]
+      ]
+    }
+  },
+  {
+    "id": "hoodie",
+    "inputResource": "weashion/weashion/Resources/meshy_hoodie.json",
+    "inputSHA256": "993ba05f36dd6234d247d34a6d98c7f549cb7fab3f2cd02159947345b366a12f",
+    "measurementScope": "Published normalized, source-derived thin skin; no original/source conversion or native solver rerun.",
+    "shoulderMeasurementAnchor": [
+      0.26,
+      0.0,
+      0.0
+    ],
+    "cuffMeasurementAnchor": [
+      0.5541941419047619,
+      -0.5226910138095238,
+      -0.015801465714285718
+    ],
+    "assumedAxis": [
+      0.4903196368350117,
+      -0.8711447019600272,
+      -0.02633556494472147
+    ],
+    "xPlaneSections": [
+      {
+        "center": [
+          0.275,
+          -0.17682580178142274,
+          -0.030089876713011124
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 1.0443612837886609,
+        "area": 0.057916584426915524,
+        "sectionVertices": 133,
+        "assumedAxisProjection": [
+          0.3395240048222294,
+          -0.14128929431973752,
+          -0.004271314947079882
+        ],
+        "centerToAssumedAxisMM": 78.05631744154148,
+        "centerMinusAssumedAxisMM": [
+          -64.52400482222936,
+          -35.53650746168521,
+          -25.818561765931243
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.2676356413530338,
+        "progressPerimeterMean": 0.06124371003945507,
+        "perimeterFractionProgressUnderPoint1": 0.6523078813713474,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.08714411373402843,
+        "lowerHalfMeanProgress": 0.016580780511220493
+      },
+      {
+        "center": [
+          0.2976540129004329,
+          -0.1850878311274393,
+          -0.02874390774673682
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 1.017849945906692,
+        "area": 0.05679970414871566,
+        "sectionVertices": 118,
+        "assumedAxisProjection": [
+          0.34848198945855036,
+          -0.15720483240942704,
+          -0.00475245738650258
+        ],
+        "centerToAssumedAxisMM": 62.74180830107459,
+        "centerMinusAssumedAxisMM": [
+          -50.82797655811744,
+          -27.882998718012253,
+          -23.991450360234243
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.4417192727491709,
+        "progressPerimeterMean": 0.19582296537914037,
+        "perimeterFractionProgressUnderPoint1": 0.42535696970466924,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.24932489822810083,
+        "lowerHalfMeanProgress": 0.061280008490802416
+      },
+      {
+        "center": [
+          0.3203080258008658,
+          -0.20143725228221251,
+          -0.02633342945744203
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.9688925338543112,
+        "area": 0.051838570445365904,
+        "sectionVertices": 116,
+        "assumedAxisProjection": [
+          0.36088067156326026,
+          -0.1792334142066498,
+          -0.005418403176284228
+        ],
+        "centerToAssumedAxisMM": 50.760105730662886,
+        "centerMinusAssumedAxisMM": [
+          -40.572645762394444,
+          -22.203838075562725,
+          -20.9150262811578
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.7163899522350117,
+        "progressPerimeterMean": 0.4169833988612477,
+        "perimeterFractionProgressUnderPoint1": 0.3220780771521883,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.6043565088206777,
+        "lowerHalfMeanProgress": 0.12515531492445847
+      },
+      {
+        "center": [
+          0.3429620387012987,
+          -0.22940903591709005,
+          -0.027392304048541646
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.8962853239359261,
+        "area": 0.04216989256780572,
+        "sectionVertices": 112,
+        "assumedAxisProjection": [
+          0.3782885212832088,
+          -0.21016172079852363,
+          -0.006353396438652626
+        ],
+        "centerToAssumedAxisMM": 45.398845186863916,
+        "centerMinusAssumedAxisMM": [
+          -35.32648258191007,
+          -19.247315118566423,
+          -21.03890760988902
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.9498201691796174,
+        "progressPerimeterMean": 0.6377459940709418,
+        "perimeterFractionProgressUnderPoint1": 0.1408657750434003,
+        "perimeterFractionProgressOverPoint9": 0.5205986073653349,
+        "upperHalfMeanProgress": 0.9445217065476248,
+        "lowerHalfMeanProgress": 0.28682433500190235
+      },
+      {
+        "center": [
+          0.3656160516017316,
+          -0.25826825050612967,
+          -0.028750464339372547
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.8179412741421221,
+        "area": 0.03360337841773978,
+        "sectionVertices": 107,
+        "assumedAxisProjection": [
+          0.39607929231728867,
+          -0.24177035884974182,
+          -0.007308956793136934
+        ],
+        "centerToAssumedAxisMM": 40.74221041935702,
+        "centerMinusAssumedAxisMM": [
+          -30.46324071555706,
+          -16.497891656387846,
+          -21.441507546235613
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.029160587513339914,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.7349427638421391,
+        "perimeterFractionProgressUnderPoint1": 0.04120273086593914,
+        "perimeterFractionProgressOverPoint9": 0.5875340404909174,
+        "upperHalfMeanProgress": 0.9984912996570556,
+        "lowerHalfMeanProgress": 0.35884954544820613
+      },
+      {
+        "center": [
+          0.3882700645021645,
+          -0.28448116608110785,
+          -0.03014619836942723
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.7345905281675454,
+        "area": 0.02762467593817254,
+        "sectionVertices": 95,
+        "assumedAxisProjection": [
+          0.4127402100841444,
+          -0.27137160088050294,
+          -0.008203831582814871
+        ],
+        "centerToAssumedAxisMM": 35.38525377541372,
+        "centerMinusAssumedAxisMM": [
+          -24.470145581979907,
+          -13.109565200604912,
+          -21.94236678661236
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.28384188862280796,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.8112805755062752,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6238182620172066,
+        "upperHalfMeanProgress": 0.9999910214190068,
+        "lowerHalfMeanProgress": 0.5169392442959555
+      },
+      {
+        "center": [
+          0.4109240774025974,
+          -0.3117915672312074,
+          -0.02992362035204134
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.6456421354230889,
+        "area": 0.023442507070938395,
+        "sectionVertices": 91,
+        "assumedAxisProjection": [
+          0.4298490101184206,
+          -0.30176858967532116,
+          -0.009122762583289049
+        ],
+        "centerToAssumedAxisMM": 29.854460994968505,
+        "centerMinusAssumedAxisMM": [
+          -18.924932715823182,
+          -10.022977555886214,
+          -20.80085776875229
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.638416431734749,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9092411518235103,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.7157733796345186,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.7720436424402334
+      },
+      {
+        "center": [
+          0.4335780903030303,
+          -0.3434008192896851,
+          -0.02607287962447104
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.5657254294801549,
+        "area": 0.019947338292025565,
+        "sectionVertices": 78,
+        "assumedAxisProjection": [
+          0.4487471686507921,
+          -0.335344709099263,
+          -0.010137801843347036
+        ],
+        "centerToAssumedAxisMM": 23.429224340793503,
+        "centerMinusAssumedAxisMM": [
+          -15.169078347761822,
+          -8.056110190422071,
+          -15.935077781124004
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.8961206550314201,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9873211587226113,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9685620984573533
+      },
+      {
+        "center": [
+          0.4562321032034632,
+          -0.3771871833617119,
+          -0.02160500971047503
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.5131306881351968,
+        "area": 0.017089378164445067,
+        "sectionVertices": 69,
+        "assumedAxisProjection": [
+          0.4685672885086829,
+          -0.3705588655582347,
+          -0.01120236058119193
+        ],
+        "centerToAssumedAxisMM": 17.444383116779335,
+        "centerMinusAssumedAxisMM": [
+          -12.33518530521971,
+          -6.628317803477223,
+          -10.402649129283102
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.9791067087670119,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9992090690002161,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9986455984601176
+      },
+      {
+        "center": [
+          0.4788861161038961,
+          -0.4113771541717614,
+          -0.020385644380132174
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.46779631554411427,
+        "area": 0.013903852410864188,
+        "sectionVertices": 70,
+        "assumedAxisProjection": [
+          0.48860175212288026,
+          -0.40615384386009645,
+          -0.01227843193956156
+        ],
+        "centerToAssumedAxisMM": 13.689537881969246,
+        "centerMinusAssumedAxisMM": [
+          -9.715636018984174,
+          -5.223310311664953,
+          -8.107212440570613
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.501540129004329,
+          -0.440443378335594,
+          -0.020343554327639346
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4085894488582454,
+        "area": 0.010052796819173728,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.5064628638778477,
+          -0.4378874553811286,
+          -0.013237770365499724
+        ],
+        "centerToAssumedAxisMM": 9.014334501266346,
+        "centerMinusAssumedAxisMM": [
+          -4.922734873518686,
+          -2.555922954465384,
+          -7.105783962139622
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999999,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5241941419047619,
+          -0.4611041814451303,
+          -0.020572012287386247
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.3532962930920457,
+        "area": 0.007525774487989194,
+        "sectionVertices": 85,
+        "assumedAxisProjection": [
+          0.5207371830589105,
+          -0.46324845786705093,
+          -0.014004458524801526
+        ],
+        "centerToAssumedAxisMM": 7.725363956471929,
+        "centerMinusAssumedAxisMM": [
+          3.456958845851399,
+          2.14427642192061,
+          -6.567553762584721
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      }
+    ],
+    "tangentPlaneSections": [
+      {
+        "center": [
+          0.27173100401691364,
+          -0.18610381647102403,
+          -0.032021089490636964
+        ],
+        "tangent": [
+          0.9380104888662808,
+          -0.34209701477376897,
+          0.055731097779575994
+        ],
+        "circumference": 0.8807353193044288,
+        "area": 0.047719881012645335,
+        "sectionVertices": 111,
+        "assumedAxisProjection": [
+          0.3427260372095207,
+          -0.14697830479400467,
+          -0.004443299353894467
+        ],
+        "centerToAssumedAxisMM": 85.6249666326018,
+        "centerMinusAssumedAxisMM": [
+          -70.99503319260708,
+          -39.12551167701936,
+          -27.577790136742497
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.8793594770276894,
+        "progressPerimeterMean": 0.2652996643628946,
+        "perimeterFractionProgressUnderPoint1": 0.5496560608881128,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.601237623624476,
+        "lowerHalfMeanProgress": 0.0024405577631952213,
+        "arcFromFirstMeasuredSection": 0.0
+      },
+      {
+        "center": [
+          0.28265335209356224,
+          -0.2129985392041531,
+          -0.030679961392510807
+        ],
+        "tangent": [
+          0.8764032213279527,
+          -0.47606476157770355,
+          0.0726617948440029
+        ],
+        "circumference": 0.8163133376666128,
+        "area": 0.04157066132612973,
+        "sectionVertices": 118,
+        "assumedAxisProjection": [
+          0.3568223921723722,
+          -0.17202312050259544,
+          -0.0052004288745563934
+        ],
+        "centerToAssumedAxisMM": 88.4829815349459,
+        "centerMinusAssumedAxisMM": [
+          -74.16904007880999,
+          -40.97541870155766,
+          -25.479532517954414
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.37485876549781694,
+        "perimeterFractionProgressUnderPoint1": 0.5036733712218548,
+        "perimeterFractionProgressOverPoint9": 0.20592071201408957,
+        "upperHalfMeanProgress": 0.8154724169991784,
+        "lowerHalfMeanProgress": 0.004220307870229408,
+        "arcFromFirstMeasuredSection": 0.02905894738243184
+      },
+      {
+        "center": [
+          0.28938763774658127,
+          -0.2332048139979262,
+          -0.031538260387619546
+        ],
+        "tangent": [
+          0.714686241141147,
+          -0.6991201822207228,
+          0.02132012043122665
+        ],
+        "circumference": 0.7330752181979797,
+        "area": 0.03483889010736117,
+        "sectionVertices": 115,
+        "assumedAxisProjection": [
+          0.3670833825625568,
+          -0.1902536924474019,
+          -0.005751557074442866
+        ],
+        "centerToAssumedAxisMM": 92.44664230094513,
+        "centerMinusAssumedAxisMM": [
+          -77.69574481597552,
+          -42.9511215505243,
+          -25.78670331317668
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.43749874657214155,
+        "perimeterFractionProgressUnderPoint1": 0.460002002413951,
+        "perimeterFractionProgressOverPoint9": 0.3169078413633539,
+        "upperHalfMeanProgress": 0.8704855976533539,
+        "lowerHalfMeanProgress": 0.003953045886308731,
+        "arcFromFirstMeasuredSection": 0.05037515768029982
+      },
+      {
+        "center": [
+          0.3023791626034646,
+          -0.26159536183681326,
+          -0.03134299843329845
+        ],
+        "tangent": [
+          0.6230345102956082,
+          -0.7814878826031789,
+          -0.03323685191338013
+        ],
+        "circumference": 0.7100433532219197,
+        "area": 0.03244689648012586,
+        "sectionVertices": 108,
+        "assumedAxisProjection": [
+          0.3823309173998677,
+          -0.2173437948899926,
+          -0.006570517633613829
+        ],
+        "centerToAssumedAxisMM": 94.67924839817785,
+        "centerMinusAssumedAxisMM": [
+          -79.9517547964031,
+          -44.25156694682067,
+          -24.77248079968462
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.4694105877232579,
+        "perimeterFractionProgressUnderPoint1": 0.40846009367393993,
+        "perimeterFractionProgressOverPoint9": 0.37500141927162217,
+        "upperHalfMeanProgress": 0.9693371414374725,
+        "lowerHalfMeanProgress": 0.00967024523603423,
+        "arcFromFirstMeasuredSection": 0.08159760236245046
+      },
+      {
+        "center": [
+          0.32268740530867646,
+          -0.2935348350464256,
+          -0.029769486593489467
+        ],
+        "tangent": [
+          0.6348538785114579,
+          -0.7716680392604183,
+          -0.03858743478051702
+        ],
+        "circumference": 0.6903237748851541,
+        "area": 0.02926161655205849,
+        "sectionVertices": 119,
+        "assumedAxisProjection": [
+          0.4008355774220097,
+          -0.2502207904839604,
+          -0.007564421689626775
+        ],
+        "centerToAssumedAxisMM": 92.06686791891603,
+        "centerMinusAssumedAxisMM": [
+          -78.14817211333325,
+          -43.314044562465185,
+          -22.20506490386269
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.45935932100566923,
+        "perimeterFractionProgressUnderPoint1": 0.46248582703345936,
+        "perimeterFractionProgressOverPoint9": 0.3964634687164605,
+        "upperHalfMeanProgress": 0.9546468355243135,
+        "lowerHalfMeanProgress": 0.0009176024491048283,
+        "arcFromFirstMeasuredSection": 0.1194794002367773
+      },
+      {
+        "center": [
+          0.34971024085740654,
+          -0.3171604821893174,
+          -0.02841079248723928
+        ],
+        "tangent": [
+          0.646010272237665,
+          -0.7631454206501643,
+          -0.016727076974228643
+        ],
+        "circumference": 0.6259579285379319,
+        "area": 0.024314995885057866,
+        "sectionVertices": 98,
+        "assumedAxisProjection": [
+          0.41740612679195416,
+          -0.2796614761260317,
+          -0.00845444270106085
+        ],
+        "centerToAssumedAxisMM": 79.91973676749645,
+        "centerMinusAssumedAxisMM": [
+          -67.69588593454762,
+          -37.49900606328571,
+          -19.956349786178432
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.5040356235596767,
+        "perimeterFractionProgressUnderPoint1": 0.38758406045395216,
+        "perimeterFractionProgressOverPoint9": 0.4239949294441127,
+        "upperHalfMeanProgress": 0.9648393832244903,
+        "lowerHalfMeanProgress": 0.03019105179343787,
+        "arcFromFirstMeasuredSection": 0.15539946278806616
+      },
+      {
+        "center": [
+          0.3758094820423216,
+          -0.33856941034784427,
+          -0.02667522186105873
+        ],
+        "tangent": [
+          0.6086724215008109,
+          -0.7915323468313074,
+          0.054721359852093816
+        ],
+        "circumference": 0.5616896194513338,
+        "area": 0.020111827940669666,
+        "sectionVertices": 94,
+        "assumedAxisProjection": [
+          0.4328029172876011,
+          -0.30701675921045085,
+          -0.009281419933006428
+        ],
+        "centerToAssumedAxisMM": 67.42674395496373,
+        "centerMinusAssumedAxisMM": [
+          -56.9934352452795,
+          -31.55265113739342,
+          -17.3938019280523
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.5552729454077495,
+        "perimeterFractionProgressUnderPoint1": 0.31198552401515967,
+        "perimeterFractionProgressOverPoint9": 0.4518348782238137,
+        "upperHalfMeanProgress": 0.9881187955687712,
+        "lowerHalfMeanProgress": 0.09216398057063793,
+        "arcFromFirstMeasuredSection": 0.18920071721336512
+      },
+      {
+        "center": [
+          0.4060858201770022,
+          -0.36227285018891203,
+          -0.024693755585624665
+        ],
+        "tangent": [
+          0.566412140296676,
+          -0.8175344267105783,
+          0.10399398284297437
+        ],
+        "circumference": 0.48816708554187793,
+        "area": 0.015712419376349693,
+        "sectionVertices": 87,
+        "assumedAxisProjection": [
+          0.4501808386638892,
+          -0.33789189249238655,
+          -0.010214805713685446
+        ],
+        "centerToAssumedAxisMM": 52.42558290522674,
+        "centerMinusAssumedAxisMM": [
+          -44.095018486887014,
+          -24.380957696525485,
+          -14.478949871939218
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.6136159640308694,
+        "perimeterFractionProgressUnderPoint1": 0.2639092317451976,
+        "perimeterFractionProgressOverPoint9": 0.49620810089342937,
+        "upperHalfMeanProgress": 0.9972090214437733,
+        "lowerHalfMeanProgress": 0.16556144426537495,
+        "arcFromFirstMeasuredSection": 0.22770313167980233
+      },
+      {
+        "center": [
+          0.4405178904552766,
+          -0.3878103582169416,
+          -0.02338874722070225
+        ],
+        "tangent": [
+          0.5532802649250667,
+          -0.8300949756118384,
+          0.06944983735351487
+        ],
+        "circumference": 0.40491866336991056,
+        "area": 0.011315057775577507,
+        "sectionVertices": 82,
+        "assumedAxisProjection": [
+          0.46934999120728726,
+          -0.37194948355081675,
+          -0.011244400336900188
+        ],
+        "centerToAssumedAxisMM": 35.07623896860561,
+        "centerMinusAssumedAxisMM": [
+          -28.832100752010646,
+          -15.860874666124847,
+          -12.144346883802061
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.2241814452777251,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.8022515515465866,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6135753474018149,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.5356609802411963,
+        "arcFromFirstMeasuredSection": 0.27059176451837885
+      },
+      {
+        "center": [
+          0.47019336741240997,
+          -0.417644660454641,
+          -0.02245255651277146
+        ],
+        "tangent": [
+          0.5822252051976391,
+          -0.8128659425718475,
+          0.016210177030161806
+        ],
+        "circumference": 0.3428323789860665,
+        "area": 0.008159236809995927,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.48921568762116985,
+          -0.40724461530080897,
+          -0.012311407037788179
+        ],
+        "centerToAssumedAxisMM": 23.934337634459265,
+        "centerMinusAssumedAxisMM": [
+          -19.02232020875988,
+          -10.400045153832027,
+          -10.14114947498328
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.861325825523756,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9872415842778112,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.9889097493142578,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.970489631723264,
+        "arcFromFirstMeasuredSection": 0.31268209566087957
+      },
+      {
+        "center": [
+          0.4951030497151223,
+          -0.4463100949706161,
+          -0.019898072063543288
+        ],
+        "tangent": [
+          0.6734969857137574,
+          -0.7391847776444012,
+          -0.002770330897246934
+        ],
+        "circumference": 0.3127732353659992,
+        "area": 0.007184376941837867,
+        "sectionVertices": 64,
+        "assumedAxisProjection": [
+          0.5074154572154568,
+          -0.43957991592490214,
+          -0.01328893511972097
+        ],
+        "centerToAssumedAxisMM": 15.510363618685938,
+        "centerMinusAssumedAxisMM": [
+          -12.312407500334466,
+          -6.730179045713935,
+          -6.609136943822318
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.9979300145117125,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999566190104593,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.999871704912956,
+        "arcFromFirstMeasuredSection": 0.35074421330051
+      },
+      {
+        "center": [
+          0.5179485746048984,
+          -0.4679559578477884,
+          -0.020239167573460195
+        ],
+        "tangent": [
+          0.73884319602601,
+          -0.6738361926871794,
+          -0.007450980533950197
+        ],
+        "circumference": 0.28748751124813376,
+        "area": 0.0063330761174430796,
+        "sectionVertices": 62,
+        "assumedAxisProjection": [
+          0.5221580306986104,
+          -0.4657728599114127,
+          -0.014080773692461154
+        ],
+        "centerToAssumedAxisMM": 7.772467587466901,
+        "centerMinusAssumedAxisMM": [
+          -4.209456093712038,
+          -2.1830979363756664,
+          -6.158393880999041
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.38221765819193565
+      }
+    ],
+    "suppliedVertexEvidence": [],
+    "rightSleeveEdgesProgressJumpOverPoint5": 68,
+    "largestProgressJumpEdges": [
+      {
+        "vertices": [
+          5637,
+          5676
+        ],
+        "positions": [
+          [
+            0.33322322,
+            -0.33840215,
+            -0.08490444
+          ],
+          [
+            0.4058845,
+            -0.34383288,
+            -0.08392651
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.9956270678780995
+        ],
+        "edgeLengthMM": 72.87050697405773
+      },
+      {
+        "vertices": [
+          5623,
+          5676
+        ],
+        "positions": [
+          [
+            0.33362454,
+            -0.35458836,
+            -0.08002075
+          ],
+          [
+            0.4058845,
+            -0.34383288,
+            -0.08392651
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.9956270678780995
+        ],
+        "edgeLengthMM": 73.1603521752704
+      },
+      {
+        "vertices": [
+          5625,
+          5667
+        ],
+        "positions": [
+          [
+            0.32330379,
+            -0.3726843,
+            -0.07314584
+          ],
+          [
+            0.41016087,
+            -0.35626954,
+            -0.08210783
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.982260822227
+        ],
+        "edgeLengthMM": 88.84770090860036
+      },
+      {
+        "vertices": [
+          5623,
+          5667
+        ],
+        "positions": [
+          [
+            0.33362454,
+            -0.35458836,
+            -0.08002075
+          ],
+          [
+            0.41016087,
+            -0.35626954,
+            -0.08210783
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.982260822227
+        ],
+        "edgeLengthMM": 76.58323627914726
+      },
+      {
+        "vertices": [
+          5605,
+          5606
+        ],
+        "positions": [
+          [
+            0.37119609,
+            -0.27422819,
+            -0.08836806
+          ],
+          [
+            0.32570571,
+            -0.29742301,
+            -0.09236567
+          ]
+        ],
+        "progress": [
+          1.0,
+          0.05440338692292314
+        ],
+        "edgeLengthMM": 51.21870003318026
+      },
+      {
+        "vertices": [
+          5594,
+          5671
+        ],
+        "positions": [
+          [
+            0.31098226,
+            -0.30637905,
+            0.03906719
+          ],
+          [
+            0.3939659,
+            -0.33647576,
+            0.02882626
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.936285201594653
+        ],
+        "edgeLengthMM": 88.86491494250471
+      },
+      {
+        "vertices": [
+          5479,
+          5525
+        ],
+        "positions": [
+          [
+            0.26767173,
+            -0.2716997,
+            0.0440575
+          ],
+          [
+            0.34761038,
+            -0.25468278,
+            0.04411327
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.9106386929372524
+        ],
+        "edgeLengthMM": 81.72983812783309
+      },
+      {
+        "vertices": [
+          5525,
+          5537
+        ],
+        "positions": [
+          [
+            0.34761038,
+            -0.25468278,
+            0.04411327
+          ],
+          [
+            0.27129325,
+            -0.30385113,
+            0.04194013
+          ]
+        ],
+        "progress": [
+          0.9106386929372524,
+          0.0
+        ],
+        "edgeLengthMM": 90.81053634143454
+      }
+    ],
+    "surfaceNearMeasurementShoulder": {
+      "windowX": 0.01,
+      "highestPoint": [
+        0.25591385,
+        0.04866141,
+        -0.02282504
+      ]
+    },
+    "proposedCenterlineKnots": [
+      {
+        "center": [
+          0.27173100401691364,
+          -0.18610381647102403,
+          -0.032021089490636964
+        ],
+        "tangent": [
+          0.3758686759332488,
+          -0.9255229509582581,
+          0.04615198480785172
+        ],
+        "radialAxis": [
+          0.9265102129750957,
+          0.37626961776476553,
+          -2.422952913231911e-18
+        ],
+        "depthAxis": [
+          -0.01736558968273563,
+          0.042760285273546084,
+          0.9989344294288268
+        ],
+        "legacyAxialCoordinate": 0.1687185888444384,
+        "arcFromFirstMeasuredSection": 0.0,
+        "circumference": 0.8807353193044288,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.28265335209356224,
+          -0.2129985392041531,
+          -0.030679961392510807
+        ],
+        "tangent": [
+          0.35099850664074256,
+          -0.9363268246003973,
+          0.009598222215882884
+        ],
+        "radialAxis": [
+          0.9363671426831356,
+          0.35102137048577475,
+          0.0007560196484530346
+        ],
+        "depthAxis": [
+          -0.004077062593217759,
+          0.008722098143525977,
+          0.9999536502081413
+        ],
+        "legacyAxialCoordinate": 0.19746790644028822,
+        "arcFromFirstMeasuredSection": 0.02905894738243184,
+        "circumference": 0.8163133376666128,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.28938763774658127,
+          -0.2332048139979262,
+          -0.031538260387619546
+        ],
+        "tangent": [
+          0.3760745137768439,
+          -0.9265031940513994,
+          -0.012640866270365708
+        ],
+        "radialAxis": [
+          0.9265807216236097,
+          0.37609510917900885,
+          0.0007969737136092031
+        ],
+        "depthAxis": [
+          0.00401576928883651,
+          -0.01201250449258151,
+          0.9999197834490697
+        ],
+        "legacyAxialCoordinate": 0.2183950519578913,
+        "arcFromFirstMeasuredSection": 0.05037515768029982,
+        "circumference": 0.7330752181979797,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.3023791626034646,
+          -0.26159536183681326,
+          -0.03134299843329845
+        ],
+        "tangent": [
+          0.48307663423163316,
+          -0.8752020102508775,
+          0.025659437099437608
+        ],
+        "radialAxis": [
+          0.8754899889555736,
+          0.4832362555919433,
+          2.280455432938504e-05
+        ],
+        "depthAxis": [
+          -0.012419528896321176,
+          0.022453563955442277,
+          0.9996707421784897
+        ],
+        "legacyAxialCoordinate": 0.24949218470936127,
+        "arcFromFirstMeasuredSection": 0.08159760236245046,
+        "circumference": 0.7100433532219197,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.32268740530867646,
+          -0.2935348350464256,
+          -0.029769486593489467
+        ],
+        "tangent": [
+          0.6479266089432173,
+          -0.7606444081489174,
+          0.040139678313688684
+        ],
+        "radialAxis": [
+          0.7614135341673977,
+          0.6482327408939171,
+          -0.00661389596781672
+        ],
+        "depthAxis": [
+          -0.02098903070788408,
+          0.03484821351149885,
+          0.9991721886666987
+        ],
+        "legacyAxialCoordinate": 0.2872321784440375,
+        "arcFromFirstMeasuredSection": 0.1194794002367773,
+        "circumference": 0.6903237748851541,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.34971024085740654,
+          -0.3171604821893174,
+          -0.02841079248723928
+        ],
+        "tangent": [
+          0.7620314310863529,
+          -0.646016947668969,
+          0.044386950345275546
+        ],
+        "radialAxis": [
+          0.6470520061439369,
+          0.762326875255187,
+          -0.013469840710617758
+        ],
+        "depthAxis": [
+          -0.025135619777360556,
+          0.03898510726073912,
+          0.9989236016984868
+        ],
+        "legacyAxialCoordinate": 0.3210275807185751,
+        "arcFromFirstMeasuredSection": 0.15539946278806616,
+        "circumference": 0.6259579285379319,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.3758094820423216,
+          -0.33856941034784427,
+          -0.02667522186105873
+        ],
+        "tangent": [
+          0.7797558059710632,
+          -0.6239693018384651,
+          0.05141199682599515
+        ],
+        "radialAxis": [
+          0.6253224684324106,
+          0.7802257224102979,
+          -0.014820005496814536
+        ],
+        "depthAxis": [
+          -0.030865733881028427,
+          0.043705062092934746,
+          0.9985675610690736
+        ],
+        "legacyAxialCoordinate": 0.35242911828503365,
+        "arcFromFirstMeasuredSection": 0.18920071721336512,
+        "circumference": 0.5616896194513338,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.4060858201770022,
+          -0.36227285018891203,
+          -0.024693755585624665
+        ],
+        "tangent": [
+          0.7951422249401211,
+          -0.605076802336492,
+          0.04038446968229179
+        ],
+        "radialAxis": [
+          0.6060065787869428,
+          0.795299789715913,
+          -0.01594587547830923
+        ],
+        "depthAxis": [
+          -0.022469280901244094,
+          0.03715249321473158,
+          0.9990569671764021
+        ],
+        "legacyAxialCoordinate": 0.3878711444059162,
+        "arcFromFirstMeasuredSection": 0.22770313167980233,
+        "circumference": 0.48816708554187793,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.4405178904552766,
+          -0.3878103582169416,
+          -0.02338874722070225
+        ],
+        "tangent": [
+          0.7565220622060644,
+          -0.6534331431600238,
+          0.026448002107819862
+        ],
+        "radialAxis": [
+          0.6538767443093717,
+          0.7564736854473512,
+          -0.013884036771722905
+        ],
+        "depthAxis": [
+          -0.010934927839725555,
+          0.027797313642037295,
+          0.9995537687925677
+        ],
+        "legacyAxialCoordinate": 0.42696636128756915,
+        "arcFromFirstMeasuredSection": 0.27059176451837885,
+        "circumference": 0.40491866336991056,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.47019336741240997,
+          -0.417644660454641,
+          -0.02245255651277146
+        ],
+        "tangent": [
+          0.6815724267305099,
+          -0.7304514282443193,
+          0.043585985092891404
+        ],
+        "radialAxis": [
+          0.7314096838220134,
+          0.6818634010796575,
+          -0.010108248090773882
+        ],
+        "depthAxis": [
+          -0.022336103779892487,
+          0.038768714757085494,
+          0.9989985411520969
+        ],
+        "legacyAxialCoordinate": 0.46748216959195316,
+        "arcFromFirstMeasuredSection": 0.31268209566087957,
+        "circumference": 0.3428323789860665,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.4951030497151223,
+          -0.4463100949706161,
+          -0.019898072063543288
+        ],
+        "tangent": [
+          0.6880921228613089,
+          -0.7249221490678135,
+          0.0318921345651284
+        ],
+        "radialAxis": [
+          0.7254807891705658,
+          0.6881633061337494,
+          -0.01043497175466309
+        ],
+        "depthAxis": [
+          -0.014382454612148883,
+          0.030317352819307156,
+          0.9994368429857683
+        ],
+        "legacyAxialCoordinate": 0.5046003435891554,
+        "arcFromFirstMeasuredSection": 0.35074421330051,
+        "circumference": 0.3127732353659992,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5179485746048984,
+          -0.4679559578477884,
+          -0.020239167573460195
+        ],
+        "tangent": [
+          0.6113480181754098,
+          -0.790226100555476,
+          0.042382905444122425
+        ],
+        "radialAxis": [
+          0.7910926162922286,
+          0.6116598629365425,
+          -0.006684648110933331
+        ],
+        "depthAxis": [
+          -0.02064153872451599,
+          0.03761544992867604,
+          0.9990790783545354
+        ],
+        "legacyAxialCoordinate": 0.5346676147641714,
+        "arcFromFirstMeasuredSection": 0.38221765819193565,
+        "circumference": 0.28748751124813376,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5541941419047619,
+          -0.5226910138095238,
+          -0.015801465714285718
+        ],
+        "tangent": [
+          0.5508622560046124,
+          -0.8318665882692312,
+          0.06744445292845287
+        ],
+        "radialAxis": [
+          0.8338607673686282,
+          0.5519685086981506,
+          -0.002643113494046404
+        ],
+        "depthAxis": [
+          -0.03502849629818,
+          0.05769527473588368,
+          0.9977195295874686
+        ],
+        "legacyAxialCoordinate": 0.6000048127865532,
+        "arcFromFirstMeasuredSection": 0.4480155358006713,
+        "circumference": 0.18044114636785433,
+        "role": "existing ordered cuff-loop mean"
+      }
+    ],
+    "leftRightXSectionAsymmetry": [
+      {
+        "rightSectionCenter": [
+          0.275,
+          -0.17682580178142274,
+          -0.030089876713011124
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.275,
+          -0.1762097105378924,
+          -0.030018596138971922
+        ],
+        "asymmetryMM": 0.6202010485238868
+      },
+      {
+        "rightSectionCenter": [
+          0.3429620387012987,
+          -0.22940903591709005,
+          -0.027392304048541646
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.3429620387012987,
+          -0.22842719359991148,
+          -0.027246006005187763
+        ],
+        "asymmetryMM": 0.9926819497159006
+      },
+      {
+        "rightSectionCenter": [
+          0.4109240774025974,
+          -0.3117915672312074,
+          -0.02992362035204134
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.4109240774025974,
+          -0.3116550610181756,
+          -0.029406245182462164
+        ],
+        "asymmetryMM": 0.53508037928274
+      },
+      {
+        "rightSectionCenter": [
+          0.4788861161038961,
+          -0.4113771541717614,
+          -0.020385644380132174
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.4788861161038961,
+          -0.41020386870640435,
+          -0.020871251869147036
+        ],
+        "asymmetryMM": 1.2698084172840562
+      }
+    ],
+    "exportReadOnlyAudit": {
+      "resourceMatchesPreviouslyValidatedHash": true,
+      "blendMatchesPreviouslyValidatedHash": true,
+      "blendSHA256": "bf666066486c381e1c8e472414e9e777e326de7a33a916cd73ddf9e4ee5b96f4"
+    }
+  },
+  {
+    "id": "bomber",
+    "inputResource": "weashion/weashion/Resources/meshy_bomber.json",
+    "inputSHA256": "afff1ff2df51019e535723c2eb76a534f8ea051cd3b893b77afef51f9768698f",
+    "measurementScope": "Published normalized, source-derived thin skin; no original/source conversion or native solver rerun.",
+    "shoulderMeasurementAnchor": [
+      0.25,
+      0.0,
+      0.0
+    ],
+    "cuffMeasurementAnchor": [
+      0.6303681878947369,
+      -0.4880711815789474,
+      0.04064574
+    ],
+    "assumedAxis": [
+      0.6133809919750286,
+      -0.7870626278403905,
+      0.06554524041232015
+    ],
+    "xPlaneSections": [
+      {
+        "center": [
+          0.265,
+          -0.14942173688204843,
+          -0.03751676991966212
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.7326417497913752,
+        "area": 0.034117587136631315,
+        "sectionVertices": 94,
+        "assumedAxisProjection": [
+          0.32627143238338396,
+          -0.09786803762458413,
+          0.008150284142428146
+        ],
+        "centerToAssumedAxisMM": 92.18162593570663,
+        "centerMinusAssumedAxisMM": [
+          -61.27143238338395,
+          -51.55369925746431,
+          -45.667054062090266
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.2333796372510987,
+        "progressPerimeterMean": 0.09167603290111243,
+        "perimeterFractionProgressUnderPoint1": 0.34913942481510696,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.12182760259863983,
+        "lowerHalfMeanProgress": 0.04361943857110661
+      },
+      {
+        "center": [
+          0.2954880170813397,
+          -0.1794666021561208,
+          -0.039879253181856394
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.7210403412081822,
+        "area": 0.029675292876513937,
+        "sectionVertices": 93,
+        "assumedAxisProjection": [
+          0.3521518848121495,
+          -0.1310766586362892,
+          0.010915841762596646
+        ],
+        "centerToAssumedAxisMM": 90.18049794985166,
+        "centerMinusAssumedAxisMM": [
+          -56.663867730809784,
+          -48.38994351983161,
+          -50.79509494445304
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 0.0,
+        "progressMax": 0.5091412807040365,
+        "progressPerimeterMean": 0.33344423282950203,
+        "perimeterFractionProgressUnderPoint1": 0.24466789989286108,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.4939364632665379,
+        "lowerHalfMeanProgress": 0.09864058506156748
+      },
+      {
+        "center": [
+          0.32597603416267945,
+          -0.20667907103652225,
+          -0.03882501678496755
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.647568402726676,
+        "area": 0.0256830339630381,
+        "sectionVertices": 97,
+        "assumedAxisProjection": [
+          0.3768023098390909,
+          -0.16270696435641965,
+          0.013549959962859568
+        ],
+        "centerToAssumedAxisMM": 85.20560224748328,
+        "centerMinusAssumedAxisMM": [
+          -50.826275676411456,
+          -43.9721066801026,
+          -52.37497674782713
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 0.8907525055148621,
+        "progressPerimeterMean": 0.579426453817477,
+        "perimeterFractionProgressUnderPoint1": 0.07167471523334586,
+        "perimeterFractionProgressOverPoint9": 0.0,
+        "upperHalfMeanProgress": 0.8592284830608948,
+        "lowerHalfMeanProgress": 0.21084721221413197
+      },
+      {
+        "center": [
+          0.35646405124401914,
+          -0.22966203289399992,
+          -0.03422473132781366
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.590140503393697,
+        "area": 0.023173129176351077,
+        "sectionVertices": 85,
+        "assumedAxisProjection": [
+          0.39955342499170043,
+          -0.1919001619164789,
+          0.015981119930051507
+        ],
+        "centerToAssumedAxisMM": 76.17926575005295,
+        "centerMinusAssumedAxisMM": [
+          -43.08937374768129,
+          -37.76187097752101,
+          -50.20585125786517
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.05014206642309407,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.7279956360400731,
+        "perimeterFractionProgressUnderPoint1": 0.01999268654672439,
+        "perimeterFractionProgressOverPoint9": 0.5437999875345018,
+        "upperHalfMeanProgress": 0.9937300366345966,
+        "lowerHalfMeanProgress": 0.37118184818115874
+      },
+      {
+        "center": [
+          0.3869520683253589,
+          -0.25468728115640965,
+          -0.0315840495502308
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.5415302107105844,
+        "area": 0.019966933198958127,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.42321170892411963,
+          -0.22225739724926544,
+          0.018509218988191998
+        ],
+        "centerToAssumedAxisMM": 69.82688922932691,
+        "centerMinusAssumedAxisMM": [
+          -36.25964059876075,
+          -32.429883907144216,
+          -50.093268538422805
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.37801749668616125,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.8255837623996493,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6187138008355623,
+        "upperHalfMeanProgress": 0.9998071559171872,
+        "lowerHalfMeanProgress": 0.6046319058903613
+      },
+      {
+        "center": [
+          0.4174400854066986,
+          -0.28106416658389644,
+          -0.028564725052867748
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.49959845932451774,
+        "area": 0.017176733600623734,
+        "sectionVertices": 75,
+        "assumedAxisProjection": [
+          0.44753774475367925,
+          -0.253471461485759,
+          0.02110867330384205
+        ],
+        "centerToAssumedAxisMM": 64.30142282332524,
+        "centerMinusAssumedAxisMM": [
+          -30.097659346980667,
+          -27.592705098137436,
+          -49.6733983567098
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.7773857803519858,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9579152344390263,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.8293968172668855,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9139274331142722
+      },
+      {
+        "center": [
+          0.44792810248803827,
+          -0.3089943582076575,
+          -0.02464203034083354
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4721790826204276,
+        "area": 0.015347160259502335,
+        "sectionVertices": 71,
+        "assumedAxisProjection": [
+          0.47264998833996497,
+          -0.28569435180446434,
+          0.02379214094416771
+        ],
+        "centerToAssumedAxisMM": 59.16021371267498,
+        "centerMinusAssumedAxisMM": [
+          -24.721885851926693,
+          -23.300006403193187,
+          -48.43417128500125
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.9775376467309541,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9982814193267825,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.997711961519127
+      },
+      {
+        "center": [
+          0.478416119569378,
+          -0.3372157464085533,
+          -0.017294330734137567
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4580994601828063,
+        "area": 0.014395831273189219,
+        "sectionVertices": 73,
+        "assumedAxisProjection": [
+          0.4980405122784563,
+          -0.31827431883103774,
+          0.026505345326951937
+        ],
+        "centerToAssumedAxisMM": 51.59753958214256,
+        "centerMinusAssumedAxisMM": [
+          -19.624392709078286,
+          -18.941427577515547,
+          -43.79967606108951
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.9983986339071614,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999869515317706,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9999555176085322
+      },
+      {
+        "center": [
+          0.5089041366507178,
+          -0.36501531126111203,
+          -0.0064453623269210975
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4440224279824757,
+        "area": 0.013890514998101776,
+        "sectionVertices": 69,
+        "assumedAxisProjection": [
+          0.5233681586003134,
+          -0.35077360415598036,
+          0.02921183067449906
+        ],
+        "centerToAssumedAxisMM": 41.03010559293345,
+        "centerMinusAssumedAxisMM": [
+          -14.464021949595619,
+          -14.241707105131674,
+          -35.65719300142016
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5393921537320574,
+          -0.39241589664050325,
+          0.0055223861829681005
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4328080780177702,
+        "area": 0.013034965332007079,
+        "sectionVertices": 76,
+        "assumedAxisProjection": [
+          0.5485481695631165,
+          -0.3830834504940953,
+          0.0319025398646022
+        ],
+        "centerToAssumedAxisMM": 29.442141315482505,
+        "centerMinusAssumedAxisMM": [
+          -9.156015831059072,
+          -9.332446146407936,
+          -26.380153681634102
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.5698801708133971,
+          -0.4172971960753946,
+          0.014303987954997271
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.4084002651644656,
+        "area": 0.011224058713696486,
+        "sectionVertices": 74,
+        "assumedAxisProjection": [
+          0.5723838502310441,
+          -0.41366831326015124,
+          0.0344495953492205
+        ],
+        "centerToAssumedAxisMM": 20.62238343148772,
+        "centerMinusAssumedAxisMM": [
+          -2.5036794176469535,
+          -3.6288828152433728,
+          -20.145607394223227
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9999999999999998,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      },
+      {
+        "center": [
+          0.6003681878947369,
+          -0.4398940625910089,
+          0.022597069452446782
+        ],
+        "tangent": [
+          1.0,
+          0.0,
+          0.0
+        ],
+        "circumference": 0.35387684278312137,
+        "area": 0.007880168878009294,
+        "sectionVertices": 86,
+        "assumedAxisProjection": [
+          0.5950970363504331,
+          -0.44281284200759885,
+          0.03687670226026369
+        ],
+        "centerToAssumedAxisMM": 15.498781404091309,
+        "centerMinusAssumedAxisMM": [
+          5.271151544303798,
+          2.918779416589967,
+          -14.279632807816908
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0
+      }
+    ],
+    "tangentPlaneSections": [
+      {
+        "center": [
+          0.2841722987936581,
+          -0.19141673760836633,
+          -0.04427806066773554
+        ],
+        "tangent": [
+          0.7288972177392574,
+          -0.6844445056728005,
+          -0.015638562155307786
+        ],
+        "circumference": 0.5857314935802328,
+        "area": 0.02275584619069511,
+        "sectionVertices": 91,
+        "assumedAxisProjection": [
+          0.35348680893405704,
+          -0.13278957263444394,
+          0.011058490334442506
+        ],
+        "centerToAssumedAxisMM": 106.31923469297377,
+        "centerMinusAssumedAxisMM": [
+          -69.31451014039897,
+          -58.6271649739224,
+          -55.33655100217805
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.43516029093449954,
+        "perimeterFractionProgressUnderPoint1": 0.3927406992659281,
+        "perimeterFractionProgressOverPoint9": 0.2689435463479245,
+        "upperHalfMeanProgress": 0.8416712734547613,
+        "lowerHalfMeanProgress": 0.020114507865600793,
+        "arcFromFirstMeasuredSection": 0.0
+      },
+      {
+        "center": [
+          0.31779556565110995,
+          -0.2170199581169434,
+          -0.04240670844840042
+        ],
+        "tangent": [
+          0.770084110501147,
+          -0.6339327272067865,
+          0.07141260483852449
+        ],
+        "circumference": 0.5540910663438395,
+        "area": 0.020699479620723653,
+        "sectionVertices": 86,
+        "assumedAxisProjection": [
+          0.3785727844058071,
+          -0.16497875690173047,
+          0.013739150991987572
+        ],
+        "centerToAssumedAxisMM": 97.74719676685567,
+        "centerMinusAssumedAxisMM": [
+          -60.77721875469716,
+          -52.041201215212936,
+          -56.145859440387994
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.5390702631222976,
+        "perimeterFractionProgressUnderPoint1": 0.3090331266299212,
+        "perimeterFractionProgressOverPoint9": 0.4308309007200425,
+        "upperHalfMeanProgress": 0.959882843546788,
+        "lowerHalfMeanProgress": 0.0644849926152417,
+        "arcFromFirstMeasuredSection": 0.042303084210339244
+      },
+      {
+        "center": [
+          0.34834521672918956,
+          -0.24059585988494883,
+          -0.03834837004769897
+        ],
+        "tangent": [
+          0.7823037868690169,
+          -0.6159305880305718,
+          0.09289938524398315
+        ],
+        "circumference": 0.5246537347059843,
+        "area": 0.018716881618287905,
+        "sectionVertices": 80,
+        "assumedAxisProjection": [
+          0.4016115531104654,
+          -0.1945410584339461,
+          0.01620104931180402
+        ],
+        "centerToAssumedAxisMM": 89.07292787729297,
+        "centerMinusAssumedAxisMM": [
+          -53.26633638127587,
+          -46.05480145100274,
+          -54.549419359502984
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.6062645558161369,
+        "perimeterFractionProgressUnderPoint1": 0.26944653429011545,
+        "perimeterFractionProgressOverPoint9": 0.48417375672789026,
+        "upperHalfMeanProgress": 0.9917767446799463,
+        "lowerHalfMeanProgress": 0.13649735056531476,
+        "arcFromFirstMeasuredSection": 0.08110481659101601
+      },
+      {
+        "center": [
+          0.37967725622168697,
+          -0.2635885718385387,
+          -0.034049796338645466
+        ],
+        "tangent": [
+          0.7626598438651784,
+          -0.6429139545166979,
+          0.0707927230952682
+        ],
+        "circumference": 0.4849023795501824,
+        "area": 0.01617764296182876,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.42467279704843,
+          -0.22413219916466767,
+          0.01866534931114698
+        ],
+        "centerToAssumedAxisMM": 79.75143020503974,
+        "centerMinusAssumedAxisMM": [
+          -44.99554082674301,
+          -39.456372673871,
+          -52.71514564979245
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.6905968972272226,
+        "perimeterFractionProgressUnderPoint1": 0.06923079132256048,
+        "perimeterFractionProgressOverPoint9": 0.5274164729446968,
+        "upperHalfMeanProgress": 0.9974632585190968,
+        "lowerHalfMeanProgress": 0.29824603644057823,
+        "arcFromFirstMeasuredSection": 0.12020519047250641
+      },
+      {
+        "center": [
+          0.41249887184729184,
+          -0.2867504806531854,
+          -0.02964675742247315
+        ],
+        "tangent": [
+          0.7440791329137926,
+          -0.6626990974120679,
+          0.08471216117824723
+        ],
+        "circumference": 0.44142340696280435,
+        "area": 0.01342878029701802,
+        "sectionVertices": 89,
+        "assumedAxisProjection": [
+          0.4483803564950586,
+          -0.25455266259908954,
+          0.021198713898326598
+        ],
+        "centerToAssumedAxisMM": 70.06741312341175,
+        "centerMinusAssumedAxisMM": [
+          -35.88148464776675,
+          -32.19781805409588,
+          -50.84547132079975
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.13626703954115438,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.7675112815380674,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.6090249590999071,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.49365239981702996,
+        "arcFromFirstMeasuredSection": 0.16061706031182824
+      },
+      {
+        "center": [
+          0.44478692660719843,
+          -0.31220982942812575,
+          -0.023667560539647
+        ],
+        "tangent": [
+          0.7289020151408719,
+          -0.6712309229285138,
+          0.13472527761378564
+        ],
+        "circumference": 0.4089411827238357,
+        "area": 0.011530086758749657,
+        "sectionVertices": 83,
+        "assumedAxisProjection": [
+          0.4730596725633933,
+          -0.2862200399912436,
+          0.02383591936454438
+        ],
+        "centerToAssumedAxisMM": 61.085169410298924,
+        "centerMinusAssumedAxisMM": [
+          -28.27274595619489,
+          -25.989789436882127,
+          -47.50347990419138
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.6090519174336092,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9281486206624872,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 0.7614677916071106,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.8671016665605012,
+        "arcFromFirstMeasuredSection": 0.2021676044188117
+      },
+      {
+        "center": [
+          0.4766863134791993,
+          -0.3385771617248854,
+          -0.01568915050527816
+        ],
+        "tangent": [
+          0.7192319265126658,
+          -0.6607851517895621,
+          0.2146355493838915
+        ],
+        "circumference": 0.38631910976523376,
+        "area": 0.01042235302949325,
+        "sectionVertices": 76,
+        "assumedAxisProjection": [
+          0.49811148098976676,
+          -0.3183653826578423,
+          0.026512928967960467
+        ],
+        "centerToAssumedAxisMM": 51.464252911864804,
+        "centerMinusAssumedAxisMM": [
+          -21.425167510567444,
+          -20.21177906704308,
+          -42.202079473238626
+        ],
+        "assumedAxisInsideSection": false,
+        "progressMin": 0.9739802083833271,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 0.9988753552286292,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 0.9985630120553523,
+        "arcFromFirstMeasuredSection": 0.244315701907712
+      },
+      {
+        "center": [
+          0.5070921483575803,
+          -0.3662409407376897,
+          -0.0045681015016875385
+        ],
+        "tangent": [
+          0.7143687737206222,
+          -0.6467010223260387,
+          0.26731076082969585
+        ],
+        "circumference": 0.37578271882138115,
+        "area": 0.00980375823005355,
+        "sectionVertices": 77,
+        "assumedAxisProjection": [
+          0.5233535929436857,
+          -0.3507549141669986,
+          0.02921027420392381
+        ],
+        "centerToAssumedAxisMM": 40.5614381436921,
+        "centerMinusAssumedAxisMM": [
+          -16.261444586105345,
+          -15.486026570691092,
+          -33.778375705611346
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.2869006428476841
+      },
+      {
+        "center": [
+          0.5374012305316421,
+          -0.3940620685880504,
+          0.00722526499399367
+        ],
+        "tangent": [
+          0.7350241284358255,
+          -0.6302221413100781,
+          0.25011913805163966
+        ],
+        "circumference": 0.37045771407410366,
+        "area": 0.009359348664403444,
+        "sectionVertices": 84,
+        "assumedAxisProjection": [
+          0.5486622961949381,
+          -0.3832298926041759,
+          0.03191473531509393
+        ],
+        "centerToAssumedAxisMM": 29.21844590588592,
+        "centerMinusAssumedAxisMM": [
+          -11.261065663295987,
+          -10.832175983874482,
+          -24.68947032110026
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.3296994642146517
+      },
+      {
+        "center": [
+          0.5663540050428526,
+          -0.42067650955879016,
+          0.017499830434962914
+        ],
+        "tangent": [
+          0.7704426387566703,
+          -0.5998947612867718,
+          0.2157415485397886
+        ],
+        "circumference": 0.3556561999502291,
+        "area": 0.008540051253039308,
+        "sectionVertices": 79,
+        "assumedAxisProjection": [
+          0.5728170938343369,
+          -0.41422423177305584,
+          0.03449589129987181
+        ],
+        "centerToAssumedAxisMM": 19.294286467101546,
+        "centerMinusAssumedAxisMM": [
+          -6.463088791484273,
+          -6.452277785734317,
+          -16.996060864908895
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000002,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.37034621457778344
+      },
+      {
+        "center": [
+          0.5934269506118106,
+          -0.44772134857866847,
+          0.026787601550255533
+        ],
+        "tangent": [
+          0.7848688862670339,
+          -0.5817228915845136,
+          0.21349311177763605
+        ],
+        "circumference": 0.31342980341976195,
+        "area": 0.0059888282083200035,
+        "sectionVertices": 98,
+        "assumedAxisProjection": [
+          0.5964327413629469,
+          -0.44452675800910996,
+          0.03701943427724919
+        ],
+        "centerToAssumedAxisMM": 11.132411594075519,
+        "centerMinusAssumedAxisMM": [
+          -3.0057907511362725,
+          -3.1945905695585086,
+          -10.231832726993659
+        ],
+        "assumedAxisInsideSection": true,
+        "progressMin": 1.0,
+        "progressMax": 1.0,
+        "progressPerimeterMean": 1.0000000000000004,
+        "perimeterFractionProgressUnderPoint1": 0.0,
+        "perimeterFractionProgressOverPoint9": 1.0,
+        "upperHalfMeanProgress": 1.0,
+        "lowerHalfMeanProgress": 1.0,
+        "arcFromFirstMeasuredSection": 0.40972425911634525
+      }
+    ],
+    "suppliedVertexEvidence": [],
+    "rightSleeveEdgesProgressJumpOverPoint5": 39,
+    "largestProgressJumpEdges": [
+      {
+        "vertices": [
+          5466,
+          5545
+        ],
+        "positions": [
+          [
+            0.29657745,
+            -0.2951971,
+            -0.08633533
+          ],
+          [
+            0.41844168,
+            -0.33131498,
+            -0.06875834
+          ]
+        ],
+        "progress": [
+          0.0,
+          0.9434092173978281
+        ],
+        "edgeLengthMM": 128.3134536463242
+      },
+      {
+        "vertices": [
+          5465,
+          5545
+        ],
+        "positions": [
+          [
+            0.32877138,
+            -0.28606638,
+            -0.09699689
+          ],
+          [
+            0.41844168,
+            -0.33131498,
+            -0.06875834
+          ]
+        ],
+        "progress": [
+          0.039402745797262655,
+          0.9434092173978281
+        ],
+        "edgeLengthMM": 104.33414690384205
+      },
+      {
+        "vertices": [
+          5502,
+          5542
+        ],
+        "positions": [
+          [
+            0.36644948,
+            -0.33640683,
+            -0.04088487
+          ],
+          [
+            0.43443459,
+            -0.37323582,
+            -0.02091339
+          ]
+        ],
+        "progress": [
+          0.10945022685157757,
+          1.0
+        ],
+        "edgeLengthMM": 79.85743358963273
+      },
+      {
+        "vertices": [
+          5502,
+          5534
+        ],
+        "positions": [
+          [
+            0.36644948,
+            -0.33640683,
+            -0.04088487
+          ],
+          [
+            0.42780155,
+            -0.36737993,
+            -0.03163163
+          ]
+        ],
+        "progress": [
+          0.10945022685157757,
+          0.9977759516466904
+        ],
+        "edgeLengthMM": 69.34718355775165
+      },
+      {
+        "vertices": [
+          5358,
+          5416
+        ],
+        "positions": [
+          [
+            0.2885395,
+            -0.19964434,
+            -0.11469621
+          ],
+          [
+            0.34093505,
+            -0.20277797,
+            -0.10358536
+          ]
+        ],
+        "progress": [
+          0.15258441116391258,
+          0.9813698467157316
+        ],
+        "edgeLengthMM": 53.652253303117675
+      },
+      {
+        "vertices": [
+          5396,
+          5467
+        ],
+        "positions": [
+          [
+            0.31566912,
+            -0.25488806,
+            -0.10902654
+          ],
+          [
+            0.37157595,
+            -0.25296721,
+            -0.09822733
+          ]
+        ],
+        "progress": [
+          0.11734341554694379,
+          0.9456816796963016
+        ],
+        "edgeLengthMM": 56.972679785977206
+      },
+      {
+        "vertices": [
+          5465,
+          5530
+        ],
+        "positions": [
+          [
+            0.32877138,
+            -0.28606638,
+            -0.09699689
+          ],
+          [
+            0.4059642,
+            -0.30789605,
+            -0.08379485
+          ]
+        ],
+        "progress": [
+          0.039402745797262655,
+          0.8641265357869625
+        ],
+        "edgeLengthMM": 81.29919933199156
+      },
+      {
+        "vertices": [
+          5504,
+          5534
+        ],
+        "positions": [
+          [
+            0.3771871,
+            -0.33619234,
+            -0.05185712
+          ],
+          [
+            0.42780155,
+            -0.36737993,
+            -0.03163163
+          ]
+        ],
+        "progress": [
+          0.2679749179698854,
+          0.9977759516466904
+        ],
+        "edgeLengthMM": 62.79776082433752
+      }
+    ],
+    "surfaceNearMeasurementShoulder": {
+      "windowX": 0.01,
+      "highestPoint": [
+        0.24291083,
+        0.01323424,
+        -0.0187761
+      ]
+    },
+    "proposedCenterlineKnots": [
+      {
+        "center": [
+          0.2841722987936581,
+          -0.19141673760836633,
+          -0.04427806066773554
+        ],
+        "tangent": [
+          0.7948183326367029,
+          -0.6052329513676317,
+          0.044236779758903354
+        ],
+        "radialAxis": [
+          0.6058260098907798,
+          0.7955971629787381,
+          -2.265067461835623e-19
+        ],
+        "depthAxis": [
+          -0.03519465647549877,
+          0.026799791771753633,
+          0.9990210745107244
+        ],
+        "legacyAxialCoordinate": 0.16871538291533836,
+        "arcFromFirstMeasuredSection": 0.0,
+        "circumference": 0.5857314935802328,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.31779556565110995,
+          -0.2170199581169434,
+          -0.04240670844840042
+        ],
+        "tangent": [
+          0.7916003188205809,
+          -0.6066454530331404,
+          0.0731452633966859
+        ],
+        "radialAxis": [
+          0.6082643278329818,
+          0.7937345116196515,
+          0.00018041564353498456
+        ],
+        "depthAxis": [
+          -0.05816736824926579,
+          0.04434883739320904,
+          0.9973212811791521
+        ],
+        "legacyAxialCoordinate": 0.2096132519395734,
+        "arcFromFirstMeasuredSection": 0.042303084210339244,
+        "circumference": 0.5540910663438395,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.34834521672918956,
+          -0.24059585988494883,
+          -0.03834837004769897
+        ],
+        "tangent": [
+          0.7944122247476183,
+          -0.5978291104990411,
+          0.10728267246608358
+        ],
+        "radialAxis": [
+          0.6013516108033383,
+          0.7989842757913578,
+          -0.0006059887704275255
+        ],
+        "depthAxis": [
+          -0.08535489063767814,
+          0.06499601278605371,
+          0.9942283746535024
+        ],
+        "legacyAxialCoordinate": 0.24717354318771864,
+        "arcFromFirstMeasuredSection": 0.08110481659101601,
+        "circumference": 0.5246537347059843,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.37967725622168697,
+          -0.2635885718385387,
+          -0.034049796338645466
+        ],
+        "tangent": [
+          0.806874309392335,
+          -0.5804965857218587,
+          0.10944205228296579
+        ],
+        "radialAxis": [
+          0.5842629551829138,
+          0.8115591657951827,
+          -0.0029188379118567664
+        ],
+        "depthAxis": [
+          -0.08712432521156811,
+          0.06629807221248614,
+          0.9939888920794524
+        ],
+        "legacyAxialCoordinate": 0.28477047599078703,
+        "arcFromFirstMeasuredSection": 0.12020519047250641,
+        "circumference": 0.4849023795501824,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.41249887184729184,
+          -0.2867504806531854,
+          -0.02964675742247315
+        ],
+        "tangent": [
+          0.7947839209343597,
+          -0.5935123541404171,
+          0.126734385653245
+        ],
+        "radialAxis": [
+          0.5984217920349265,
+          0.8011807962232149,
+          -0.0008310119389297795
+        ],
+        "depthAxis": [
+          -0.10104394015433381,
+          0.07650109310222623,
+          0.9919363411591754
+        ],
+        "legacyAxialCoordinate": 0.32342110220320436,
+        "arcFromFirstMeasuredSection": 0.16061706031182824,
+        "circumference": 0.44142340696280435,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.44478692660719843,
+          -0.31220982942812575,
+          -0.023667560539647
+        ],
+        "tangent": [
+          0.767140237595675,
+          -0.6194098318973251,
+          0.1668152151651009
+        ],
+        "radialAxis": [
+          0.627592953440426,
+          0.778527744429383,
+          0.004651445540984595
+        ],
+        "depthAxis": [
+          -0.13275142429960904,
+          0.10112374252679154,
+          0.9859772046268619
+        ],
+        "legacyAxialCoordinate": 0.36365599110784685,
+        "arcFromFirstMeasuredSection": 0.2021676044188117,
+        "circumference": 0.4089411827238357,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.4766863134791993,
+          -0.3385771617248854,
+          -0.01568915050527816
+        ],
+        "tangent": [
+          0.7360092748879541,
+          -0.6382675149711469,
+          0.22562120160008195
+        ],
+        "radialAxis": [
+          0.6531359033558625,
+          0.7571560916336733,
+          0.011320099360965443
+        ],
+        "depthAxis": [
+          -0.17805571888156102,
+          0.13902960920098092,
+          0.9741493359536786
+        ],
+        "legacyAxialCoordinate": 0.4044981573212292,
+        "arcFromFirstMeasuredSection": 0.244315701907712,
+        "circumference": 0.38631910976523376,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5070921483575803,
+          -0.3662409407376897,
+          -0.0045681015016875385
+        ],
+        "tangent": [
+          0.711104187477166,
+          -0.6498493537938501,
+          0.2683778156371257
+        ],
+        "radialAxis": [
+          0.6709118971352447,
+          0.7413331737756218,
+          0.017388264495078385
+        ],
+        "depthAxis": [
+          -0.21025713028296233,
+          0.16769300174270618,
+          0.963156786993527
+        ],
+        "legacyAxialCoordinate": 0.4456505769171506,
+        "arcFromFirstMeasuredSection": 0.2869006428476841,
+        "circumference": 0.37578271882138115,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5374012305316421,
+          -0.3940620685880504,
+          0.00722526499399367
+        ],
+        "tangent": [
+          0.7102352816505199,
+          -0.6523936932787461,
+          0.264477435084591
+        ],
+        "radialAxis": [
+          0.6727148645493217,
+          0.7396812800302653,
+          0.018064190742353187
+        ],
+        "depthAxis": [
+          -0.2074139718369872,
+          0.1650880763195987,
+          0.9642226772607561
+        ],
+        "legacyAxialCoordinate": 0.4869115608445477,
+        "arcFromFirstMeasuredSection": 0.3296994642146517,
+        "circumference": 0.37045771407410366,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5663540050428526,
+          -0.42067650955879016,
+          0.017499830434962914
+        ],
+        "tangent": [
+          0.700273104439353,
+          -0.6706946475162124,
+          0.24451230846723174
+        ],
+        "radialAxis": [
+          0.6872455843624895,
+          0.7260511406012782,
+          0.023307681262696965
+        ],
+        "depthAxis": [
+          -0.19316077752258995,
+          0.15171826200127222,
+          0.9693660211716636
+        ],
+        "legacyAxialCoordinate": 0.5262913231055572,
+        "arcFromFirstMeasuredSection": 0.37034621457778344,
+        "circumference": 0.3556561999502291,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.5934269506118106,
+          -0.44772134857866847,
+          0.026787601550255533
+        ],
+        "tangent": [
+          0.668281122269539,
+          -0.7035720061728857,
+          0.24163355261226968
+        ],
+        "radialAxis": [
+          0.7186869941879542,
+          0.6944784924556378,
+          0.034476483312953915
+        ],
+        "depthAxis": [
+          -0.19206599387515008,
+          0.15061890866158112,
+          0.9697549166414912
+        ],
+        "legacyAxialCoordinate": 0.5647921045734827,
+        "arcFromFirstMeasuredSection": 0.40972425911634525,
+        "circumference": 0.31342980341976195,
+        "role": "measured cap/tube section, not anatomically labeled"
+      },
+      {
+        "center": [
+          0.6303681878947369,
+          -0.4880711815789474,
+          0.04064574
+        ],
+        "tangent": [
+          0.65459025308576,
+          -0.7149897875193331,
+          0.24556303530494902
+        ],
+        "radialAxis": [
+          0.7303513117647025,
+          0.681970431904835,
+          0.038772302112607245
+        ],
+        "depthAxis": [
+          -0.19518852929590677,
+          0.15396731390328236,
+          0.9686049268307018
+        ],
+        "legacyAxialCoordinate": 0.6201173379533452,
+        "arcFromFirstMeasuredSection": 0.46615839804338255,
+        "circumference": 0.19823282734723946,
+        "role": "existing ordered cuff-loop mean"
+      }
+    ],
+    "leftRightXSectionAsymmetry": [
+      {
+        "rightSectionCenter": [
+          0.265,
+          -0.14942173688204843,
+          -0.03751676991966212
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.265,
+          -0.14907048569604767,
+          -0.03778843356442971
+        ],
+        "asymmetryMM": 0.4440478933125954
+      },
+      {
+        "rightSectionCenter": [
+          0.35646405124401914,
+          -0.22966203289399992,
+          -0.03422473132781366
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.35646405124401914,
+          -0.22892948599050578,
+          -0.03507404145930429
+        ],
+        "asymmetryMM": 1.1215848899086887
+      },
+      {
+        "rightSectionCenter": [
+          0.44792810248803827,
+          -0.3089943582076575,
+          -0.02464203034083354
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.44792810248803827,
+          -0.30812430937707547,
+          -0.025020689510486985
+        ],
+        "asymmetryMM": 0.9488770912820298
+      },
+      {
+        "rightSectionCenter": [
+          0.5393921537320574,
+          -0.39241589664050325,
+          0.0055223861829681005
+        ],
+        "leftCenterMirroredToPositiveX": [
+          0.5393921537320574,
+          -0.39170857513583834,
+          0.005229327821240733
+        ],
+        "asymmetryMM": 0.7656284440508675
+      }
+    ],
+    "exportReadOnlyAudit": {
+      "resourceMatchesPreviouslyValidatedHash": true,
+      "blendMatchesPreviouslyValidatedHash": true,
+      "blendSHA256": "709f51ca19e31b2c1d3c811243d50958d5bf53933399039bf839a0099b0f8b33"
+    }
+  }
+]

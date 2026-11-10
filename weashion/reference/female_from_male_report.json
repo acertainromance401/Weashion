@@ -1,0 +1,38 @@
+{
+  "vertices": 14501,
+  "triangles": 29030,
+  "nonmanifoldEdges": 0,
+  "overlaps": 0,
+  "status": "Runtime assets published",
+  "source": "weashion/weashion/Resources/male_body_40k.json",
+  "sourceSHA256": "1031ab82e700e6a1dc6b4b181b051475dd9c90c771660d5a3945f823c347a0f0",
+  "heightMeters": 1.6,
+  "runtimeLandmarks": {
+    "height": 1.6,
+    "inseam": 0.6997072696685791,
+    "hipHeight": 0.8047072696685791,
+    "waistHeight": 1.0357072696685792,
+    "chestHeight": 1.1219075322151184,
+    "shoulderHeight": 1.2688519954681396,
+    "shoulderWidth": 0.35660500824451447
+  },
+  "references": [
+    "https://supremedisplay.com/products/sdmz-oz1b2-abstract-female-mannequin",
+    "https://www.mannequinsexpress.com/female-abstract-full-body-mannequin-standing-pose-p/ca1wt.htm"
+  ],
+  "referenceUse": "Surface styling and torso transitions only; not copied meshes or population measurements",
+  "sections": {
+    "chest": {
+      "heightMeters": 1.1410526315789475,
+      "convexCircumferenceMeters": 0.8376868681052049
+    },
+    "waist": {
+      "heightMeters": 1.0105263157894737,
+      "convexCircumferenceMeters": 0.677425025711312
+    },
+    "hip": {
+      "heightMeters": 0.8505263157894738,
+      "convexCircumferenceMeters": 0.8900582616844747
+    }
+  }
+}

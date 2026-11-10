@@ -1,0 +1,289 @@
+{
+  "id": "sneakers",
+  "source": {
+    "sourceFile": "White Sneakers on Black Background_Meshy_AI_2026-10-28_4c0a02.blend",
+    "sourceSHA256": "10f0394110190e2e743a7bf32a1dce2d8aba8f9a99a8ea1f4607e79726023f9e",
+    "units": "metres",
+    "up": "+Y",
+    "forward": "+Z",
+    "sampleMeasurementsOnly": true,
+    "conversionScript": "reference/garments/convert_garments.py"
+  },
+  "original": {
+    "vertices": 597584,
+    "triangles": 1195517
+  },
+  "validation": {
+    "vertices": 6117,
+    "triangles": 11374,
+    "unusedVertices": 0,
+    "degenerateTriangles": 0,
+    "maximumVertexNorm": 0.1796294931369423
+  },
+  "sourceFileUnchanged": true,
+  "reconstruction": {
+    "vertices": 21783,
+    "triangles": 42939,
+    "method": "Source-frame inward-wall removal, small fold-gap repair; independent per-foot scaling for shoes.",
+    "rawSourceToRuntime": {
+      "rmsMM": 0.10207790976227915,
+      "p95MM": 0.2107427455484867,
+      "maxMM": 1.2562647461891174,
+      "samples": 18109
+    },
+    "limitation": "Discarded opposing thickness walls are intentionally excluded from skin fidelity acceptance. Geometric microtexture is not preserved; no UVs/textures existed."
+  },
+  "candidates": [
+    {
+      "budget": 3000,
+      "vertices": 3606,
+      "triangles": 5895,
+      "skinToCandidate": {
+        "rmsMM": 0.26888799716788814,
+        "p95MM": 0.579667527927085,
+        "maxMM": 1.6253861831501126,
+        "samples": 21783
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.19481408947389361,
+        "p95MM": 0.4395405558170751,
+        "maxMM": 1.5263124369084835,
+        "samples": 3606
+      },
+      "silhouetteIoU": {
+        "front": 0.9881540534471143,
+        "side": 0.9933355869995654,
+        "threeQuarter": 0.9937349811191212
+      },
+      "acceptable": false
+    },
+    {
+      "budget": 4500,
+      "vertices": 5045,
+      "triangles": 8850,
+      "skinToCandidate": {
+        "rmsMM": 0.15865375734915596,
+        "p95MM": 0.33799109514802694,
+        "maxMM": 1.3335705734789371,
+        "samples": 21783
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.132789804379055,
+        "p95MM": 0.29758384334854787,
+        "maxMM": 1.5263124369084835,
+        "samples": 5045
+      },
+      "silhouetteIoU": {
+        "front": 0.9937563280458994,
+        "side": 0.9964664310954063,
+        "threeQuarter": 0.9970795395980072
+      },
+      "acceptable": false
+    },
+    {
+      "budget": 6000,
+      "vertices": 6490,
+      "triangles": 11804,
+      "skinToCandidate": {
+        "rmsMM": 0.11240487768654002,
+        "p95MM": 0.23542552808066827,
+        "maxMM": 1.001899829134345,
+        "samples": 21783
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.0978531399608283,
+        "p95MM": 0.21391081318142802,
+        "maxMM": 0.525947951246053,
+        "samples": 6490
+      },
+      "silhouetteIoU": {
+        "front": 0.9962848297213622,
+        "side": 0.9982066692516479,
+        "threeQuarter": 0.997680412371134
+      },
+      "acceptable": true
+    }
+  ],
+  "selected": {
+    "budget": 6000,
+    "vertices": 6117,
+    "triangles": 11374,
+    "skinToCandidate": {
+      "rmsMM": 0.11240487768654002,
+      "p95MM": 0.23542552808066827,
+      "maxMM": 1.001899829134345,
+      "samples": 21783
+    },
+    "candidateToSkin": {
+      "rmsMM": 0.0978531399608283,
+      "p95MM": 0.21391081318142802,
+      "maxMM": 0.525947951246053,
+      "samples": 6490
+    },
+    "silhouetteIoU": {
+      "front": 0.9962848297213622,
+      "side": 0.9982066692516479,
+      "threeQuarter": 0.997680412371134
+    },
+    "acceptable": true
+  },
+  "visibleFullSourceFidelity": {
+    "front": {
+      "silhouetteIoU": 0.997235219055721,
+      "rmsMM": 3.939356644082322,
+      "p95MM": 1.2420654296874998,
+      "maxMM": 231.62388801574707,
+      "raysCompared": 4689
+    },
+    "back": {
+      "silhouetteIoU": 0.997235219055721,
+      "rmsMM": 4.55622816871323,
+      "p95MM": 0.8533000946044909,
+      "maxMM": 166.63599014282227,
+      "raysCompared": 4689
+    },
+    "right": {
+      "silhouetteIoU": 0.998719590268886,
+      "rmsMM": 6.531744704056031,
+      "p95MM": 0.3836274147033692,
+      "maxMM": 219.1622257232666,
+      "raysCompared": 5460
+    }
+  },
+  "reduction": {
+    "vertices": 0.9897637821628423,
+    "triangles": 0.99048612441312
+  },
+  "boundaryLoops": 450,
+  "nonmanifoldEdges": 0,
+  "measurements": {
+    "footwear": {
+      "reference": {
+        "length": 0.27,
+        "width": 0.105
+      },
+      "rightCenter": [
+        0.09,
+        0.0,
+        0.0
+      ],
+      "leftCenter": [
+        -0.09,
+        0.0,
+        0.0
+      ],
+      "soleThickness": 0.0348
+    }
+  },
+  "footSeating": {
+    "estimated": true,
+    "soleThickness": 0.0348,
+    "method": "Median downward ray hits in heel opening from y=.075 m; fallback .027 m if unavailable. Inspect elevated comparison.",
+    "samples": [
+      0.03488675877451897,
+      0.03475164622068405,
+      0.03502675145864487,
+      0.03485996648669243,
+      0.034864433109760284,
+      0.03473932668566704,
+      0.03495427593588829,
+      0.03478078916668892,
+      0.034824155271053314,
+      0.03472328931093216,
+      0.034940339624881744,
+      0.0347895547747612,
+      0.0346989743411541,
+      0.03467658534646034,
+      0.035019658505916595,
+      0.03481018915772438,
+      0.03478418290615082,
+      0.034711867570877075,
+      0.03483172133564949,
+      0.034727439284324646
+    ],
+    "anchorConvention": "Per-foot external bounding-box midpoint in X/Z, sole floor Y=0; +Z toes. Seat body floor at anchorY+soleThickness; shoe pair spacing is independent of sizing."
+  },
+  "sectionMeasurement": "128 horizontal radial intersections for closed body/hip/thigh sections; source-connected mesh-plane convex envelope for open bomber torso; ordered 3D cuff perimeter; horizontal convex aperture envelope of actual boundary vertices for irregular trouser waist/hems. No closed geometry is added across bomber front.",
+  "numericalRepair": {
+    "id": "sneakers",
+    "changed": true,
+    "beforeVertices": 6490,
+    "afterVertices": 6117,
+    "beforeTriangles": 11804,
+    "afterTriangles": 11374,
+    "minimumBefore": 1.1067884754306298e-14,
+    "minimumAfter": 1.250060385066254e-12,
+    "operations": {
+      "edgeCollapses": 373,
+      "edgeRotations": 74,
+      "submillimetreVertexAdjustments": 235,
+      "constrainedSubmillimetrePatchAdjustments": 400,
+      "microscopicFoldNormalReorientations": 1
+    },
+    "topology": {
+      "components": 14,
+      "euler": -546,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 450,
+    "repairedToPrevious": {
+      "rmsMM": 0.0605926866098809,
+      "p95MM": 0.0,
+      "maxMM": 0.7462233770638704,
+      "samples": 6117
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.027120884844844987,
+      "p95MM": 0.012287411391298258,
+      "maxMM": 0.6019106367602944,
+      "samples": 6490
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.250060385066254e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.120185417144263e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.173206326607253e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 9.88779696141362e-13,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.250060385066254e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.4448559536306416e-12,
+        "failingTriangles": 0
+      },
+      "small_shoe_240x92": {
+        "minimumCrossSquared": 8.41203734273932e-13,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.044494288683921836,
+      "p95MM": 0.030725453689228573,
+      "maxMM": 0.9295925265178084,
+      "samples": 51613,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.033152002123273544,
+      "p95MM": 0.035314930755703244,
+      "maxMM": 0.8619929431006312,
+      "samples": 53706,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7497849661069594,
+    "previousResourceSHA256": "5aea2edc9cf25bfaa71840defd436bcc8c1009765f5186e9da97343b364fd65e",
+    "resourceSHA256": "6650870f799f2eb4cf7d6dbc710e1b325775ec41a897978c18e41c3f455ba694"
+  }
+}

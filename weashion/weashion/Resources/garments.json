@@ -1,42 +1,285 @@
 [
   {
-    "id": "blue-cotton-95",
-    "name": "블루 코튼 반팔",
-    "selectionLabel": "95",
+    "id": "meshy-cotton-s",
+    "name": "그레이 코튼 반팔",
+    "selectionLabel": "S",
     "pattern": {
-      "id": "cotton-tshirt-95", "version": 2, "source": "cottonTShirt",
+      "id": "meshy-cotton-tshirt", "version": 1, "source": "mesh",
+      "meshResource": "meshy_cotton_tshirt", "anchor": "shoulders",
       "dimensions": {
-        "chestCircumference": 1.10, "waistCircumference": 1.10,
-        "hipCircumference": 1.10, "shoulderWidth": 0.43,
-        "length": 0.66, "sleeveLength": 0.20, "sleeveOpening": 0.34
+        "chestCircumference": 1.04, "shoulderWidth": 0.51,
+        "length": 0.61, "sleeveLength": 0.18, "sleeveOpening": 0.343486
       }
     },
     "material": {
-      "maximumStrain": 0.18
+      "maximumStrain": 0.05
     },
     "appearance": {
-      "color": [0.035, 0.29, 0.72], "trimColor": [0.030, 0.25, 0.65],
+      "color": [0.44, 0.46, 0.45], "trimColor": [0.40, 0.42, 0.41],
       "roughness": 0.94
     }
   },
   {
-    "id": "blue-cotton-110",
-    "name": "블루 코튼 반팔",
-    "selectionLabel": "110",
+    "id": "meshy-cotton-m",
+    "name": "그레이 코튼 반팔",
+    "selectionLabel": "M",
     "pattern": {
-      "id": "cotton-tshirt-110", "version": 2, "source": "cottonTShirt",
+      "id": "meshy-cotton-tshirt", "version": 1, "source": "mesh",
+      "meshResource": "meshy_cotton_tshirt", "anchor": "shoulders",
       "dimensions": {
-        "chestCircumference": 1.28, "waistCircumference": 1.28,
-        "hipCircumference": 1.28, "shoulderWidth": 0.50,
-        "length": 0.74, "sleeveLength": 0.24, "sleeveOpening": 0.40
+        "chestCircumference": 1.09, "shoulderWidth": 0.53,
+        "length": 0.63, "sleeveLength": 0.19, "sleeveOpening": 0.36
       }
     },
     "material": {
-      "maximumStrain": 0.18
+      "maximumStrain": 0.05
     },
     "appearance": {
-      "color": [0.035, 0.29, 0.72], "trimColor": [0.030, 0.25, 0.65],
+      "color": [0.44, 0.46, 0.45], "trimColor": [0.40, 0.42, 0.41],
       "roughness": 0.94
     }
+  },
+  {
+    "id": "meshy-cotton-l",
+    "name": "그레이 코튼 반팔",
+    "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-cotton-tshirt", "version": 1, "source": "mesh",
+      "meshResource": "meshy_cotton_tshirt", "anchor": "shoulders",
+      "dimensions": {
+        "chestCircumference": 1.12, "shoulderWidth": 0.55,
+        "length": 0.65, "sleeveLength": 0.20, "sleeveOpening": 0.369908
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": {
+      "color": [0.44, 0.46, 0.45], "trimColor": [0.40, 0.42, 0.41],
+      "roughness": 0.94
+    }
+  },
+  {
+    "id": "meshy-long-sleeve-s", "name": "크루넥 긴팔", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-long-sleeve", "version": 1, "source": "mesh",
+      "meshResource": "meshy_long_sleeve", "anchor": "shoulders", "kind": "longSleeveTop",
+      "dimensions": {
+        "chestCircumference": 0.96, "shoulderWidth": 0.44, "length": 0.67,
+        "sleeveLength": 0.59, "sleeveOpening": 0.18
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.62, 0.65, 0.66], "trimColor": [0.54, 0.57, 0.58], "roughness": 0.94 }
+  },
+  {
+    "id": "meshy-long-sleeve-m", "name": "크루넥 긴팔", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-long-sleeve", "version": 1, "source": "mesh",
+      "meshResource": "meshy_long_sleeve", "anchor": "shoulders", "kind": "longSleeveTop",
+      "dimensions": {
+        "chestCircumference": 1.04, "shoulderWidth": 0.46, "length": 0.70,
+        "sleeveLength": 0.61, "sleeveOpening": 0.20
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.62, 0.65, 0.66], "trimColor": [0.54, 0.57, 0.58], "roughness": 0.94 }
+  },
+  {
+    "id": "meshy-long-sleeve-l", "name": "크루넥 긴팔", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-long-sleeve", "version": 1, "source": "mesh",
+      "meshResource": "meshy_long_sleeve", "anchor": "shoulders", "kind": "longSleeveTop",
+      "dimensions": {
+        "chestCircumference": 1.12, "shoulderWidth": 0.48, "length": 0.73,
+        "sleeveLength": 0.63, "sleeveOpening": 0.22
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.62, 0.65, 0.66], "trimColor": [0.54, 0.57, 0.58], "roughness": 0.94 }
+  },
+  {
+    "id": "meshy-hoodie-s", "name": "풀오버 후디", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-hoodie", "version": 2, "source": "mesh", "fittingMode": "shapePreserving",
+      "meshResource": "meshy_hoodie", "anchor": "shoulders", "kind": "knitwear",
+      "dimensions": {
+        "chestCircumference": 1.0427586207, "shoulderWidth": 0.5576923077, "length": 0.6221428571,
+        "sleeveLength": 0.4833333333, "sleeveOpening": 0.18, "sleeveWidthScale": 0.8
+      }
+    },
+    "material": { "maximumStrain": 0.10, "fabric": { "stretch": "unknown", "softness": "firm", "thickness": "unknown" } },
+    "appearance": { "color": [0.34, 0.40, 0.37], "trimColor": [0.29, 0.35, 0.32], "roughness": 0.96 }
+  },
+  {
+    "id": "meshy-hoodie-m", "name": "풀오버 후디", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-hoodie", "version": 2, "source": "mesh", "fittingMode": "shapePreserving",
+      "meshResource": "meshy_hoodie", "anchor": "shoulders", "kind": "knitwear",
+      "dimensions": {
+        "chestCircumference": 1.12, "shoulderWidth": 0.58, "length": 0.65,
+        "sleeveLength": 0.50, "sleeveOpening": 0.20, "sleeveWidthScale": 0.8
+      }
+    },
+    "material": { "maximumStrain": 0.10, "fabric": { "stretch": "unknown", "softness": "firm", "thickness": "unknown" } },
+    "appearance": { "color": [0.34, 0.40, 0.37], "trimColor": [0.29, 0.35, 0.32], "roughness": 0.96 }
+  },
+  {
+    "id": "meshy-hoodie-l", "name": "풀오버 후디", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-hoodie", "version": 2, "source": "mesh", "fittingMode": "shapePreserving",
+      "meshResource": "meshy_hoodie", "anchor": "shoulders", "kind": "knitwear",
+      "dimensions": {
+        "chestCircumference": 1.1972413793, "shoulderWidth": 0.6023076923, "length": 0.6778571429,
+        "sleeveLength": 0.5166666667, "sleeveOpening": 0.22, "sleeveWidthScale": 0.8
+      }
+    },
+    "material": { "maximumStrain": 0.10, "fabric": { "stretch": "unknown", "softness": "firm", "thickness": "unknown" } },
+    "appearance": { "color": [0.34, 0.40, 0.37], "trimColor": [0.29, 0.35, 0.32], "roughness": 0.96 }
+  },
+  {
+    "id": "meshy-dress-pants-s", "name": "드레스 팬츠", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-dress-pants", "version": 1, "source": "mesh",
+      "meshResource": "meshy_dress_pants", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.74, "hipCircumference": 0.94, "rise": 0.27,
+        "inseam": 0.73, "thighCircumference": 0.56, "hemCircumference": 0.36
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.20, 0.22, 0.24], "trimColor": [0.17, 0.19, 0.21], "roughness": 0.90 }
+  },
+  {
+    "id": "meshy-dress-pants-m", "name": "드레스 팬츠", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-dress-pants", "version": 1, "source": "mesh",
+      "meshResource": "meshy_dress_pants", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.82, "hipCircumference": 1.02, "rise": 0.28,
+        "inseam": 0.76, "thighCircumference": 0.60, "hemCircumference": 0.38
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.20, 0.22, 0.24], "trimColor": [0.17, 0.19, 0.21], "roughness": 0.90 }
+  },
+  {
+    "id": "meshy-dress-pants-l", "name": "드레스 팬츠", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-dress-pants", "version": 1, "source": "mesh",
+      "meshResource": "meshy_dress_pants", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.90, "hipCircumference": 1.10, "rise": 0.29,
+        "inseam": 0.79, "thighCircumference": 0.64, "hemCircumference": 0.40
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.20, 0.22, 0.24], "trimColor": [0.17, 0.19, 0.21], "roughness": 0.90 }
+  },
+  {
+    "id": "meshy-jeans-s", "name": "데님 진", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-jeans", "version": 1, "source": "mesh",
+      "meshResource": "meshy_jeans", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.74, "hipCircumference": 0.92, "rise": 0.25,
+        "inseam": 0.75, "thighCircumference": 0.54, "hemCircumference": 0.32
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.19, 0.28, 0.40], "trimColor": [0.16, 0.23, 0.34], "roughness": 0.95 }
+  },
+  {
+    "id": "meshy-jeans-m", "name": "데님 진", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-jeans", "version": 1, "source": "mesh",
+      "meshResource": "meshy_jeans", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.82, "hipCircumference": 1.00, "rise": 0.26,
+        "inseam": 0.78, "thighCircumference": 0.58, "hemCircumference": 0.34
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.19, 0.28, 0.40], "trimColor": [0.16, 0.23, 0.34], "roughness": 0.95 }
+  },
+  {
+    "id": "meshy-jeans-l", "name": "데님 진", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-jeans", "version": 1, "source": "mesh",
+      "meshResource": "meshy_jeans", "anchor": "waist", "kind": "pants",
+      "trouserDimensions": {
+        "waistCircumference": 0.90, "hipCircumference": 1.08, "rise": 0.27,
+        "inseam": 0.81, "thighCircumference": 0.62, "hemCircumference": 0.36
+      }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.19, 0.28, 0.40], "trimColor": [0.16, 0.23, 0.34], "roughness": 0.95 }
+  },
+  {
+    "id": "meshy-bomber-s", "name": "오픈 봄버 재킷", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-bomber", "version": 1, "source": "mesh",
+      "meshResource": "meshy_bomber", "anchor": "shoulders", "kind": "outerwear",
+      "dimensions": {
+        "chestCircumference": 1.08, "shoulderWidth": 0.48, "length": 0.63,
+        "sleeveLength": 0.60, "sleeveOpening": 0.18
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.24, 0.26, 0.25], "trimColor": [0.20, 0.22, 0.21], "roughness": 0.85 }
+  },
+  {
+    "id": "meshy-bomber-m", "name": "오픈 봄버 재킷", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-bomber", "version": 1, "source": "mesh",
+      "meshResource": "meshy_bomber", "anchor": "shoulders", "kind": "outerwear",
+      "dimensions": {
+        "chestCircumference": 1.16, "shoulderWidth": 0.50, "length": 0.66,
+        "sleeveLength": 0.62, "sleeveOpening": 0.20
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.24, 0.26, 0.25], "trimColor": [0.20, 0.22, 0.21], "roughness": 0.85 }
+  },
+  {
+    "id": "meshy-bomber-l", "name": "오픈 봄버 재킷", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-bomber", "version": 1, "source": "mesh",
+      "meshResource": "meshy_bomber", "anchor": "shoulders", "kind": "outerwear",
+      "dimensions": {
+        "chestCircumference": 1.24, "shoulderWidth": 0.52, "length": 0.69,
+        "sleeveLength": 0.64, "sleeveOpening": 0.22
+      }
+    },
+    "material": { "maximumStrain": 0.08 },
+    "appearance": { "color": [0.24, 0.26, 0.25], "trimColor": [0.20, 0.22, 0.21], "roughness": 0.85 }
+  },
+  {
+    "id": "meshy-sneakers-s", "name": "레이스업 스니커즈", "selectionLabel": "S",
+    "pattern": {
+      "id": "meshy-sneakers", "version": 1, "source": "mesh",
+      "meshResource": "meshy_sneakers", "anchor": "feet", "kind": "shoes",
+      "footwearDimensions": { "length": 0.25, "width": 0.098 }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.72, 0.73, 0.71], "trimColor": [0.63, 0.64, 0.62], "roughness": 0.88 }
+  },
+  {
+    "id": "meshy-sneakers-m", "name": "레이스업 스니커즈", "selectionLabel": "M",
+    "pattern": {
+      "id": "meshy-sneakers", "version": 1, "source": "mesh",
+      "meshResource": "meshy_sneakers", "anchor": "feet", "kind": "shoes",
+      "footwearDimensions": { "length": 0.27, "width": 0.105 }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.72, 0.73, 0.71], "trimColor": [0.63, 0.64, 0.62], "roughness": 0.88 }
+  },
+  {
+    "id": "meshy-sneakers-l", "name": "레이스업 스니커즈", "selectionLabel": "L",
+    "pattern": {
+      "id": "meshy-sneakers", "version": 1, "source": "mesh",
+      "meshResource": "meshy_sneakers", "anchor": "feet", "kind": "shoes",
+      "footwearDimensions": { "length": 0.29, "width": 0.112 }
+    },
+    "material": { "maximumStrain": 0.05 },
+    "appearance": { "color": [0.72, 0.73, 0.71], "trimColor": [0.63, 0.64, 0.62], "roughness": 0.88 }
   }
 ]

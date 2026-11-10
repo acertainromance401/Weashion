@@ -1,0 +1,168 @@
+{
+  "id": "hoodie",
+  "script": "reference/garments/narrow_hoodie_sleeves.py",
+  "maximumWidthDepthReduction": 0.2,
+  "unchangedVertexCount": 5178,
+  "changedVertexCount": 3491,
+  "maximumDisplacementMM": 27.360449641171794,
+  "geometryCountsAndTopologyUnchanged": true,
+  "hoodBodyCuffsAndSizingUnchanged": true,
+  "sectionMeasurements": {
+    "right": [
+      {
+        "station": 0.24949218,
+        "beforeWidthDepthMM": [
+          259.5892253504336,
+          153.75071701050513
+        ],
+        "afterWidthDepthMM": [
+          232.92831429513598,
+          148.5337165448648
+        ],
+        "widthDepthRatios": [
+          0.8972957717358776,
+          0.9660684478935869
+        ]
+      },
+      {
+        "station": 0.32102758,
+        "beforeWidthDepthMM": [
+          244.17991768472874,
+          126.17108391439675
+        ],
+        "afterWidthDepthMM": [
+          203.21275365215803,
+          100.918910251589
+        ],
+        "widthDepthRatios": [
+          0.832225498226823,
+          0.7998576783255616
+        ]
+      },
+      {
+        "station": 0.38787114,
+        "beforeWidthDepthMM": [
+          178.14256570796766,
+          117.54443173661812
+        ],
+        "afterWidthDepthMM": [
+          142.47974698486192,
+          94.05003459031045
+        ],
+        "widthDepthRatios": [
+          0.79980742625225,
+          0.8001232657370654
+        ]
+      },
+      {
+        "station": 0.46748217,
+        "beforeWidthDepthMM": [
+          116.28767066786564,
+          107.60169663874785
+        ],
+        "afterWidthDepthMM": [
+          97.8499126080175,
+          90.23706487270985
+        ],
+        "widthDepthRatios": [
+          0.8414470084923359,
+          0.8386212085081108
+        ]
+      }
+    ],
+    "left": [
+      {
+        "station": 0.24884683,
+        "beforeWidthDepthMM": [
+          259.7285982979057,
+          154.58450306105814
+        ],
+        "afterWidthDepthMM": [
+          233.15024302012753,
+          149.91351957482135
+        ],
+        "widthDepthRatios": [
+          0.8976687378596133,
+          0.9697836238837483
+        ]
+      },
+      {
+        "station": 0.32145015,
+        "beforeWidthDepthMM": [
+          243.67634114900238,
+          127.7823653646234
+        ],
+        "afterWidthDepthMM": [
+          196.78711958998093,
+          102.24611121150818
+        ],
+        "widthDepthRatios": [
+          0.8075758141396674,
+          0.8001582293437108
+        ]
+      },
+      {
+        "station": 0.38917795,
+        "beforeWidthDepthMM": [
+          177.03438632966382,
+          117.77436870152133
+        ],
+        "afterWidthDepthMM": [
+          141.64368057929605,
+          94.20866005564932
+        ],
+        "widthDepthRatios": [
+          0.8000913467485061,
+          0.7999080028559082
+        ]
+      },
+      {
+        "station": 0.4683993,
+        "beforeWidthDepthMM": [
+          115.15721992561411,
+          107.1640953891446
+        ],
+        "afterWidthDepthMM": [
+          97.21413289295488,
+          90.01154794783692
+        ],
+        "widthDepthRatios": [
+          0.8441861739606984,
+          0.8399412846343572
+        ]
+      }
+    ]
+  },
+  "numericalChecks": {
+    "source": {
+      "minimumCrossSquared": 1.2667686994857763e-12,
+      "failingTriangles": 0
+    },
+    "uniform_0.8": {
+      "minimumCrossSquared": 5.188718920669244e-13,
+      "failingTriangles": 0
+    },
+    "anisotropic_small": {
+      "minimumCrossSquared": 3.487800868430535e-13,
+      "failingTriangles": 0
+    },
+    "catalog_S": {
+      "minimumCrossSquared": 1.0972334152370422e-12,
+      "failingTriangles": 0
+    },
+    "catalog_M": {
+      "minimumCrossSquared": 1.2560479999840224e-12,
+      "failingTriangles": 0
+    },
+    "catalog_L": {
+      "minimumCrossSquared": 1.2859501874809554e-12,
+      "failingTriangles": 0
+    }
+  },
+  "previousResourceSHA256": "53c785e482ee483b6457884c40713613371c304a156ef1fd24cf122b36691452",
+  "originalSourceSHA256": "c475adde759716be09d46289e79f6a2a70a7774a1244b605c36affbba7e594c5",
+  "backup": "/var/folders/5n/hbzfqfbs1ls5257kyg0x49c80000gn/T/weashion-garment-backups/hoodie_before_narrowing_53c785e482ee.zip",
+  "resourceSHA256": "403f1533574ea353127726968403cd7b31d10729a62faccafed05db3a704fa3c",
+  "blendSHA256": "e1418ceca4262455fa7ae5172ceaa8f3628f87b7bb39b90910c873056f5c0d1d",
+  "persistedBlendJSONParity": true
+}

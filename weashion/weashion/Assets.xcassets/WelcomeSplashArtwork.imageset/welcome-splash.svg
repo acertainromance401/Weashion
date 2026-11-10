@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 360 260">
+  <circle cx="258" cy="85" r="57" fill="none" stroke="#9F3548" stroke-opacity=".8" stroke-width="1.5"/>
+  <circle cx="258" cy="85" r="43" fill="none" stroke="#FAF9F6" stroke-opacity=".45" stroke-width="1"/>
+  <path d="M258 15v16M258 139v16M188 85h16M312 85h16M209 36l11 11M296 123l11 11M307 36l-11 11M220 123l-11 11" stroke="#FAF9F6" stroke-opacity=".7" stroke-width="1.2"/>
+  <path d="M136 57c-10 0-19 4-25 12l-28 37 25 19 14-15-9 68c-1 8 5 15 13 15h91c8 0 14-7 13-15l-9-68 14 15 25-19-28-37c-6-8-15-12-25-12h-17c-2 14-13 22-24 22s-22-8-24-22z" fill="#FAF9F6" fill-opacity=".08" stroke="#FAF9F6" stroke-width="2"/>
+  <path d="M136 57c2 14 13 22 24 22s22-8 24-22M160 80v65M184 80v65M148 103h48M146 123h52M145 145h54" fill="none" stroke="#FAF9F6" stroke-opacity=".75" stroke-width="1"/>
+  <path d="M88 106l20 16M239 106l-20 16" fill="none" stroke="#9F3548" stroke-width="3"/>
+  <path d="M66 207h178" stroke="#FAF9F6" stroke-opacity=".62" stroke-width="1"/>
+  <path d="M75 199v16M92 202v10M109 199v16M126 202v10M143 199v16M160 202v10M177 199v16M194 202v10M211 199v16M228 202v10" stroke="#FAF9F6" stroke-opacity=".62" stroke-width="1"/>
+  <path d="M48 224h44" stroke="#9F3548" stroke-width="2"/>
+  <path d="M306 173v39M299 180l7-7 7 7M299 205l7 7 7-7" fill="none" stroke="#FAF9F6" stroke-opacity=".7" stroke-width="1.2"/>
+</svg>

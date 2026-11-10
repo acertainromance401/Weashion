@@ -1,0 +1,163 @@
+[
+  {
+    "id": "long_sleeve",
+    "vertices": 3066,
+    "triangles": 5881,
+    "orderedBoundaryLoops": 4,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.4913510780042094e-12,
+    "sourceSHA256": "87860987bcb737a1db8d4b544bb0f7414d3969c8d42f095dc48bb20bf8d56bf4",
+    "minimumCrossSquaredFloat32": 1.4914649376640554e-12,
+    "numericalMarginCases": {
+      "source": 1.4914649376640554e-12,
+      "uniform_0.8": 6.108407508108316e-13,
+      "anisotropic_small": 3.9838187544834203e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": false,
+    "resourceSHA256": "7321c676fd707aff4823f8f28c47cb382e044733d58085b8643a9bd5e263e2dc",
+    "sleeveBindings": {
+      "right": {
+        "knots": 13,
+        "finalStation": 0.6100616749573273,
+        "actualCuffMatches": true
+      },
+      "left": {
+        "knots": 13,
+        "finalStation": 0.6100616749573273,
+        "actualCuffMatches": true
+      },
+      "frontTriangle4991": [
+        {
+          "vertex": 2587,
+          "signedSourceDepthMM": 56.55014347978685,
+          "sourceRadiusMM": 71.94415206592906
+        },
+        {
+          "vertex": 2645,
+          "signedSourceDepthMM": 57.60392595841769,
+          "sourceRadiusMM": 61.37594966238476
+        },
+        {
+          "vertex": 2630,
+          "signedSourceDepthMM": 48.86217382724511,
+          "sourceRadiusMM": 65.52591720196864
+        }
+      ]
+    }
+  },
+  {
+    "id": "hoodie",
+    "vertices": 8669,
+    "triangles": 16792,
+    "orderedBoundaryLoops": 8,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.266792276315969e-12,
+    "sourceSHA256": "c475adde759716be09d46289e79f6a2a70a7774a1244b605c36affbba7e594c5",
+    "minimumCrossSquaredFloat32": 1.2667686994857763e-12,
+    "numericalMarginCases": {
+      "source": 1.2667686994857763e-12,
+      "uniform_0.8": 5.188718920669244e-13,
+      "anisotropic_small": 3.487800868430535e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": true,
+    "resourceSHA256": "403f1533574ea353127726968403cd7b31d10729a62faccafed05db3a704fa3c",
+    "sleeveBindings": {
+      "right": {
+        "knots": 13,
+        "finalStation": 0.6000048127865532,
+        "actualCuffMatches": true
+      },
+      "left": {
+        "knots": 13,
+        "finalStation": 0.6000048127865532,
+        "actualCuffMatches": true
+      }
+    }
+  },
+  {
+    "id": "dress_pants",
+    "vertices": 4665,
+    "triangles": 8235,
+    "orderedBoundaryLoops": 70,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.2565075084571312e-12,
+    "sourceSHA256": "947efac90bb15d350690002cd20f83f65fb31e5b2b76c225c6adfc0ba6f484fd",
+    "minimumCrossSquaredFloat32": 1.2564886197469205e-12,
+    "numericalMarginCases": {
+      "source": 1.2564886197469205e-12,
+      "uniform_0.8": 5.146599292571441e-13,
+      "anisotropic_small": 3.1395342597363707e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": false,
+    "resourceSHA256": "b7b1b0b33ba53aced97d054bef0e7bfc6e8798877d447ad98c79b8e14b69376a"
+  },
+  {
+    "id": "jeans",
+    "vertices": 4700,
+    "triangles": 8705,
+    "orderedBoundaryLoops": 61,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.2539288436398836e-12,
+    "sourceSHA256": "fa012d069810351fd69a41938bb1ca5e0cbd8577d2ec1e4cd3f82df2dd3cd442",
+    "minimumCrossSquaredFloat32": 1.2539153743107434e-12,
+    "numericalMarginCases": {
+      "source": 1.2539153743107434e-12,
+      "uniform_0.8": 5.135984953302808e-13,
+      "anisotropic_small": 3.4150525289600164e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": false,
+    "resourceSHA256": "ac21fd73c51d305ce77a1cc636aac2b64c40b64b4f4f24b9300c23439dbe50b4"
+  },
+  {
+    "id": "bomber",
+    "vertices": 6040,
+    "triangles": 11409,
+    "orderedBoundaryLoops": 13,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.2540633432728157e-12,
+    "sourceSHA256": "6f593e06d8813e8a32fbc88047168ffd9f8450da04700d5bc865b26158b32a07",
+    "minimumCrossSquaredFloat32": 1.2540707404820606e-12,
+    "numericalMarginCases": {
+      "source": 1.2540707404820606e-12,
+      "uniform_0.8": 5.136658784953008e-13,
+      "anisotropic_small": 3.318059802609463e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": false,
+    "resourceSHA256": "d700f3deba01df90c6259e9cdf1c4b98229f26d349e068bdb317149993334f6d",
+    "sleeveBindings": {
+      "right": {
+        "knots": 12,
+        "finalStation": 0.6201173379533452,
+        "actualCuffMatches": true
+      },
+      "left": {
+        "knots": 12,
+        "finalStation": 0.6201173379533452,
+        "actualCuffMatches": true
+      }
+    }
+  },
+  {
+    "id": "sneakers",
+    "vertices": 6117,
+    "triangles": 11374,
+    "orderedBoundaryLoops": 450,
+    "nonmanifoldEdges": 0,
+    "minimumCrossSquared": 1.2500688884937845e-12,
+    "sourceSHA256": "10f0394110190e2e743a7bf32a1dce2d8aba8f9a99a8ea1f4607e79726023f9e",
+    "minimumCrossSquaredFloat32": 1.250060385066254e-12,
+    "numericalMarginCases": {
+      "source": 1.250060385066254e-12,
+      "uniform_0.8": 5.120185417144263e-13,
+      "anisotropic_small": 3.173206326607253e-13
+    },
+    "sourceUnchanged": true,
+    "sourceHashRechecked": false,
+    "resourceSHA256": "6650870f799f2eb4cf7d6dbc710e1b325775ec41a897978c18e41c3f455ba694"
+  }
+]

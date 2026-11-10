@@ -1,0 +1,41 @@
+{
+  "sourceLanguage" : "ko",
+  "strings" : {
+    "CFBundleName" : {
+      "comment" : "Bundle name",
+      "extractionState" : "extracted_with_value",
+      "localizations" : {
+        "ko" : {
+          "stringUnit" : {
+            "state" : "new",
+            "value" : "weashion"
+          }
+        }
+      }
+    },
+    "NSLocationWhenInUseUsageDescription" : {
+      "extractionState" : "manual",
+      "localizations" : {
+        "en" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "Your current weather shapes the mannequin backdrop and the outfit guide. The fitting room works without location."
+          }
+        },
+        "ja" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "現在地の天気をマネキンの背景とコーディネートガイドに反映します。位置情報なしでもフィッティングルームは使えます。"
+          }
+        },
+        "ko" : {
+          "stringUnit" : {
+            "state" : "translated",
+            "value" : "현재 위치의 날씨를 마네킹 배경과 옷차림 가이드에 반영합니다. 위치 없이도 피팅룸을 사용할 수 있습니다."
+          }
+        }
+      }
+    }
+  },
+  "version" : "1.0"
+}

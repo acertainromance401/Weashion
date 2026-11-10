@@ -1,0 +1,381 @@
+[
+  {
+    "id": "long_sleeve",
+    "editableMeshes": 1,
+    "vertices": 3066,
+    "triangles": 5881,
+    "maximumCoordinateError": 4.998626734753486e-09,
+    "minimumCrossSquaredFloat32": 1.4914649376640554e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": true,
+    "independentSleeveSectionRays": {
+      "right": [
+        {
+          "frontDistanceMM": 66.29177554278135,
+          "backDistanceMM": 67.03406155035333
+        },
+        {
+          "frontDistanceMM": 73.85453324594154,
+          "backDistanceMM": 62.48523839371999
+        },
+        {
+          "frontDistanceMM": 69.74883719634649,
+          "backDistanceMM": 55.10979618415641
+        },
+        {
+          "frontDistanceMM": 62.85455356646097,
+          "backDistanceMM": 53.53152331792195
+        },
+        {
+          "frontDistanceMM": 55.97915015928724,
+          "backDistanceMM": 50.0116728599575
+        },
+        {
+          "frontDistanceMM": 50.98978374938129,
+          "backDistanceMM": 51.091893532512174
+        },
+        {
+          "frontDistanceMM": 50.22961876898556,
+          "backDistanceMM": 50.592594041337954
+        },
+        {
+          "frontDistanceMM": 41.6102678289463,
+          "backDistanceMM": 47.742385789721304
+        },
+        {
+          "frontDistanceMM": 44.95954038106843,
+          "backDistanceMM": 47.979953100082
+        },
+        {
+          "frontDistanceMM": 44.06211207463651,
+          "backDistanceMM": 43.4344672713051
+        },
+        {
+          "frontDistanceMM": 39.1554381488475,
+          "backDistanceMM": 42.005975784102276
+        },
+        {
+          "frontDistanceMM": 34.80370845772799,
+          "backDistanceMM": 35.6904364202899
+        }
+      ],
+      "left": [
+        {
+          "frontDistanceMM": 64.33422155779556,
+          "backDistanceMM": 65.88339979398916
+        },
+        {
+          "frontDistanceMM": 67.50110035529164,
+          "backDistanceMM": 62.15908173287196
+        },
+        {
+          "frontDistanceMM": 59.72356057779055,
+          "backDistanceMM": 59.02233764901466
+        },
+        {
+          "frontDistanceMM": 56.36617648220084,
+          "backDistanceMM": 54.13673602138909
+        },
+        {
+          "frontDistanceMM": 57.22499692891851,
+          "backDistanceMM": 50.055599394657214
+        },
+        {
+          "frontDistanceMM": 47.53637195615703,
+          "backDistanceMM": 50.91167716849601
+        },
+        {
+          "frontDistanceMM": 47.26771732249428,
+          "backDistanceMM": 49.60468790967426
+        },
+        {
+          "frontDistanceMM": 45.91282664299688,
+          "backDistanceMM": 47.78700691135937
+        },
+        {
+          "frontDistanceMM": 47.45639285054381,
+          "backDistanceMM": 48.11768592897907
+        },
+        {
+          "frontDistanceMM": 42.056194159550415,
+          "backDistanceMM": 46.20048469130823
+        },
+        {
+          "frontDistanceMM": 42.610573332793216,
+          "backDistanceMM": 46.046528280188205
+        },
+        {
+          "frontDistanceMM": 37.236357165942046,
+          "backDistanceMM": 36.86407918402901
+        }
+      ]
+    },
+    "blendSHA256": "34f27374e4801ec334df9205561f270dd19d3fc3c4295dbeca37cc4cd890bc5f",
+    "resourceSHA256": "7321c676fd707aff4823f8f28c47cb382e044733d58085b8643a9bd5e263e2dc"
+  },
+  {
+    "id": "hoodie",
+    "editableMeshes": 1,
+    "vertices": 8669,
+    "triangles": 16792,
+    "maximumCoordinateError": 2.9773254417442274e-08,
+    "minimumCrossSquaredFloat32": 1.2667686994857763e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": true,
+    "independentSleeveSectionRays": {
+      "right": [
+        {
+          "frontDistanceMM": 75.08707700091071,
+          "backDistanceMM": 73.6565985796673
+        },
+        {
+          "frontDistanceMM": 75.42311657655885,
+          "backDistanceMM": 76.11890198721969
+        },
+        {
+          "frontDistanceMM": 77.14366458855788,
+          "backDistanceMM": 76.52156792681404
+        },
+        {
+          "frontDistanceMM": 75.85721833982687,
+          "backDistanceMM": 71.72178738627703
+        },
+        {
+          "frontDistanceMM": 70.40475267487487,
+          "backDistanceMM": 63.34813789123049
+        },
+        {
+          "frontDistanceMM": 63.82138446781146,
+          "backDistanceMM": 59.64687140992562
+        },
+        {
+          "frontDistanceMM": 58.136451715308354,
+          "backDistanceMM": 57.89114718559566
+        },
+        {
+          "frontDistanceMM": 51.308836879569235,
+          "backDistanceMM": 55.30304339178334
+        },
+        {
+          "frontDistanceMM": 48.93533435301304,
+          "backDistanceMM": 57.498474813791795
+        },
+        {
+          "frontDistanceMM": 50.40676525336169,
+          "backDistanceMM": 52.672346804641755
+        },
+        {
+          "frontDistanceMM": 46.58885126479267,
+          "backDistanceMM": 44.3850429483972
+        },
+        {
+          "frontDistanceMM": 41.66573262683418,
+          "backDistanceMM": 41.370271354291
+        }
+      ],
+      "left": [
+        {
+          "frontDistanceMM": 74.72084903508132,
+          "backDistanceMM": 72.57601541401351
+        },
+        {
+          "frontDistanceMM": 75.2718612013959,
+          "backDistanceMM": 76.19227549412004
+        },
+        {
+          "frontDistanceMM": 77.47519608956144,
+          "backDistanceMM": 75.5095936482376
+        },
+        {
+          "frontDistanceMM": 76.36263120947937,
+          "backDistanceMM": 72.46163788545581
+        },
+        {
+          "frontDistanceMM": 70.39248348326899,
+          "backDistanceMM": 63.354819417079476
+        },
+        {
+          "frontDistanceMM": 64.60423712225423,
+          "backDistanceMM": 59.89822687682989
+        },
+        {
+          "frontDistanceMM": 59.60381022082959,
+          "backDistanceMM": 58.05402200992071
+        },
+        {
+          "frontDistanceMM": 53.52897115990675,
+          "backDistanceMM": 55.84706577859438
+        },
+        {
+          "frontDistanceMM": 49.46245103945148,
+          "backDistanceMM": 57.63294128597544
+        },
+        {
+          "frontDistanceMM": 47.77316799476105,
+          "backDistanceMM": 51.89616840726748
+        },
+        {
+          "frontDistanceMM": 43.07636670679457,
+          "backDistanceMM": 42.50127178899652
+        },
+        {
+          "frontDistanceMM": 46.39444092529166,
+          "backDistanceMM": 41.66527935474147
+        }
+      ]
+    },
+    "blendSHA256": "e1418ceca4262455fa7ae5172ceaa8f3628f87b7bb39b90910c873056f5c0d1d",
+    "resourceSHA256": "403f1533574ea353127726968403cd7b31d10729a62faccafed05db3a704fa3c"
+  },
+  {
+    "id": "dress_pants",
+    "editableMeshes": 1,
+    "vertices": 4665,
+    "triangles": 8235,
+    "maximumCoordinateError": 4.999847424969062e-09,
+    "minimumCrossSquaredFloat32": 1.2564886197469205e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": false,
+    "independentSleeveSectionRays": {},
+    "blendSHA256": "0216743ece090d54c0d7e9145d66686e0ef49829af0f209a86c6241a1064f7cd",
+    "resourceSHA256": "b7b1b0b33ba53aced97d054bef0e7bfc6e8798877d447ad98c79b8e14b69376a"
+  },
+  {
+    "id": "jeans",
+    "editableMeshes": 1,
+    "vertices": 4700,
+    "triangles": 8705,
+    "maximumCoordinateError": 4.999351488343962e-09,
+    "minimumCrossSquaredFloat32": 1.2539153743107434e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": false,
+    "independentSleeveSectionRays": {},
+    "blendSHA256": "f5e48dc1e53e9ce60338cb6097ace70fc3786d394a655df31a179f0f6b2cde8e",
+    "resourceSHA256": "ac21fd73c51d305ce77a1cc636aac2b64c40b64b4f4f24b9300c23439dbe50b4"
+  },
+  {
+    "id": "bomber",
+    "editableMeshes": 1,
+    "vertices": 6040,
+    "triangles": 11409,
+    "maximumCoordinateError": 4.999694824814327e-09,
+    "minimumCrossSquaredFloat32": 1.2540707404820606e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": true,
+    "independentSleeveSectionRays": {
+      "right": [
+        {
+          "frontDistanceMM": 67.45306943405109,
+          "backDistanceMM": 69.74053730631772
+        },
+        {
+          "frontDistanceMM": 63.62519276409155,
+          "backDistanceMM": 68.05730123208214
+        },
+        {
+          "frontDistanceMM": 66.15656453588184,
+          "backDistanceMM": 64.89879342069361
+        },
+        {
+          "frontDistanceMM": 72.82700735332739,
+          "backDistanceMM": 61.59940256670357
+        },
+        {
+          "frontDistanceMM": 82.83543600828447,
+          "backDistanceMM": 62.63414120596962
+        },
+        {
+          "frontDistanceMM": 75.65661768760754,
+          "backDistanceMM": 62.57291697220654
+        },
+        {
+          "frontDistanceMM": 55.661370377335594,
+          "backDistanceMM": 62.2110712763452
+        },
+        {
+          "frontDistanceMM": 49.80434366719666,
+          "backDistanceMM": 62.16273103454419
+        },
+        {
+          "frontDistanceMM": 46.60693604167343,
+          "backDistanceMM": 61.97592324483078
+        },
+        {
+          "frontDistanceMM": 45.259079785313226,
+          "backDistanceMM": 58.43087341428173
+        },
+        {
+          "frontDistanceMM": 43.027416196876686,
+          "backDistanceMM": 44.922669607597086
+        }
+      ],
+      "left": [
+        {
+          "frontDistanceMM": 65.78024753985208,
+          "backDistanceMM": 69.82880219117597
+        },
+        {
+          "frontDistanceMM": 63.02987812721379,
+          "backDistanceMM": 66.26147770033211
+        },
+        {
+          "frontDistanceMM": 62.744210896070044,
+          "backDistanceMM": 62.95109378985679
+        },
+        {
+          "frontDistanceMM": 72.22708361409435,
+          "backDistanceMM": 61.42833035627029
+        },
+        {
+          "frontDistanceMM": 83.1198737674329,
+          "backDistanceMM": 62.29417662353671
+        },
+        {
+          "frontDistanceMM": 70.26760232600488,
+          "backDistanceMM": 62.48271211584666
+        },
+        {
+          "frontDistanceMM": 52.975942439617256,
+          "backDistanceMM": 61.62134280173809
+        },
+        {
+          "frontDistanceMM": 56.191701665709274,
+          "backDistanceMM": 62.89251599841551
+        },
+        {
+          "frontDistanceMM": 53.80594854906859,
+          "backDistanceMM": 60.88225428859187
+        },
+        {
+          "frontDistanceMM": 52.70605393171841,
+          "backDistanceMM": 58.15439477663332
+        },
+        {
+          "frontDistanceMM": 45.62341215310718,
+          "backDistanceMM": 44.882234727702524
+        }
+      ]
+    },
+    "blendSHA256": "5ca1ab6078a31ab06fe25bdbd7ee52dc566970fd5770fe34736f0254f3f4e938",
+    "resourceSHA256": "d700f3deba01df90c6259e9cdf1c4b98229f26d349e068bdb317149993334f6d"
+  },
+  {
+    "id": "sneakers",
+    "editableMeshes": 1,
+    "vertices": 6117,
+    "triangles": 11374,
+    "maximumCoordinateError": 6.122207629744025e-09,
+    "minimumCrossSquaredFloat32": 1.250060385066254e-12,
+    "sourceHashMatches": true,
+    "referenceMeasurementsMatch": true,
+    "sleeveMetadataMatches": false,
+    "independentSleeveSectionRays": {},
+    "blendSHA256": "ff10aaab86760c0178d9e3826ae8b974878604d117021db2e3716f88c5ba37f1",
+    "resourceSHA256": "6650870f799f2eb4cf7d6dbc710e1b325775ec41a897978c18e41c3f455ba694"
+  }
+]

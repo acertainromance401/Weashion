@@ -1,0 +1,325 @@
+{
+  "id": "dress_pants",
+  "source": {
+    "sourceFile": "Gray Dress Pants Front and Back_Meshy_AI_2026-10-28_ac302b.blend",
+    "sourceSHA256": "947efac90bb15d350690002cd20f83f65fb31e5b2b76c225c6adfc0ba6f484fd",
+    "units": "metres",
+    "up": "+Y",
+    "forward": "+Z",
+    "sampleMeasurementsOnly": true,
+    "conversionScript": "reference/garments/convert_garments.py"
+  },
+  "original": {
+    "vertices": 151653,
+    "triangles": 303369
+  },
+  "validation": {
+    "vertices": 4665,
+    "triangles": 8235,
+    "unusedVertices": 0,
+    "degenerateTriangles": 0,
+    "maximumVertexNorm": 1.0404282766151778
+  },
+  "sourceFileUnchanged": true,
+  "reconstruction": {
+    "vertices": 10483,
+    "triangles": 19375,
+    "method": "Source-frame inward-wall removal, small fold-gap repair; independent per-foot scaling for shoes.",
+    "rawSourceToRuntime": {
+      "rmsMM": 5.527332889098412,
+      "p95MM": 10.735219158232212,
+      "maxMM": 16.428643837571144,
+      "samples": 18957
+    },
+    "limitation": "Discarded opposing thickness walls are intentionally excluded from skin fidelity acceptance. Geometric microtexture is not preserved; no UVs/textures existed."
+  },
+  "candidates": [
+    {
+      "budget": 3000,
+      "vertices": 3253,
+      "triangles": 5534,
+      "skinToCandidate": {
+        "rmsMM": 0.20561242360402232,
+        "p95MM": 0.4121046717045828,
+        "maxMM": 1.1449080193415284,
+        "samples": 10483
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.19179251719273616,
+        "p95MM": 0.39946173201315105,
+        "maxMM": 0.7455177837982774,
+        "samples": 3253
+      },
+      "silhouetteIoU": {
+        "front": 0.9987926240304406,
+        "side": 0.9984967429430432,
+        "threeQuarter": 0.998637013397161
+      },
+      "acceptable": false
+    },
+    {
+      "budget": 4500,
+      "vertices": 4725,
+      "triangles": 8310,
+      "skinToCandidate": {
+        "rmsMM": 0.1274335106546726,
+        "p95MM": 0.26023592217825353,
+        "maxMM": 1.0621772380545735,
+        "samples": 10483
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.11911578342082023,
+        "p95MM": 0.2526594558730723,
+        "maxMM": 0.5081322160549462,
+        "samples": 4725
+      },
+      "silhouetteIoU": {
+        "front": 0.999268149882904,
+        "side": 0.9992063160533021,
+        "threeQuarter": 0.9992351943603898
+      },
+      "acceptable": true
+    },
+    {
+      "budget": 6000,
+      "vertices": 6165,
+      "triangles": 11084,
+      "skinToCandidate": {
+        "rmsMM": 0.08317225080259828,
+        "p95MM": 0.1780943552148528,
+        "maxMM": 1.1127640027552843,
+        "samples": 10483
+      },
+      "candidateToSkin": {
+        "rmsMM": 0.07072499489829298,
+        "p95MM": 0.16978331841528405,
+        "maxMM": 0.3147981478832662,
+        "samples": 6165
+      },
+      "silhouetteIoU": {
+        "front": 0.9996705951248078,
+        "side": 0.999582219251337,
+        "threeQuarter": 0.9997339098619658
+      },
+      "acceptable": true
+    }
+  ],
+  "selected": {
+    "budget": 4500,
+    "vertices": 4665,
+    "triangles": 8235,
+    "skinToCandidate": {
+      "rmsMM": 0.1274335106546726,
+      "p95MM": 0.26023592217825353,
+      "maxMM": 1.0621772380545735,
+      "samples": 10483
+    },
+    "candidateToSkin": {
+      "rmsMM": 0.11911578342082023,
+      "p95MM": 0.2526594558730723,
+      "maxMM": 0.5081322160549462,
+      "samples": 4725
+    },
+    "silhouetteIoU": {
+      "front": 0.999268149882904,
+      "side": 0.9992063160533021,
+      "threeQuarter": 0.9992351943603898
+    },
+    "acceptable": true
+  },
+  "visibleFullSourceFidelity": {
+    "front": {
+      "silhouetteIoU": 0.9981345960683025,
+      "rmsMM": 5.022702510563371,
+      "p95MM": 0.5138516426086426,
+      "maxMM": 197.61157035827637,
+      "raysCompared": 6956
+    },
+    "back": {
+      "silhouetteIoU": 0.9981345960683025,
+      "rmsMM": 21.147056901950084,
+      "p95MM": 0.4475712776184082,
+      "maxMM": 243.20650100708008,
+      "raysCompared": 6956
+    },
+    "right": {
+      "silhouetteIoU": 0.9951084298059677,
+      "rmsMM": 10.127068940459498,
+      "p95MM": 0.45888423919677707,
+      "maxMM": 312.32571601867676,
+      "raysCompared": 6103
+    }
+  },
+  "reduction": {
+    "vertices": 0.9692389863702003,
+    "triangles": 0.9728548401451698
+  },
+  "boundaryLoops": 70,
+  "nonmanifoldEdges": 0,
+  "measurements": {
+    "trousers": {
+      "reference": {
+        "waistCircumference": 0.8108883700877739,
+        "hipCircumference": 1.0247307667519334,
+        "rise": 0.272000000551343,
+        "inseam": 0.752011849448657,
+        "thighCircumference": 0.5975454926956785,
+        "hemCircumference": 0.3771751398888758
+      },
+      "rightLegCenters": [
+        [
+          0.10524446999999999,
+          -1.00801185,
+          -0.04634125
+        ],
+        [
+          0.10594079,
+          -0.9533186308116417,
+          -0.03979758
+        ],
+        [
+          0.10638937,
+          -0.8986254116232835,
+          -0.034000085
+        ],
+        [
+          0.10764857,
+          -0.8439321924349252,
+          -0.029670045000000003
+        ],
+        [
+          0.09153055499999999,
+          -0.789238973246567,
+          -0.025810825
+        ],
+        [
+          0.10922789999999999,
+          -0.7345457540582088,
+          -0.0211154
+        ],
+        [
+          0.10766323,
+          -0.6798525348698505,
+          -0.017317990000000005
+        ],
+        [
+          0.109265735,
+          -0.6251593156814923,
+          -0.012253389999999996
+        ],
+        [
+          0.10899081000000001,
+          -0.5704660964931341,
+          -0.009453325000000005
+        ],
+        [
+          0.11038553000000001,
+          -0.5157728773047758,
+          -0.006972014999999998
+        ],
+        [
+          0.11121181499999999,
+          -0.4610796581164177,
+          -0.007468759999999998
+        ],
+        [
+          0.112156785,
+          -0.4063864389280595,
+          -0.005358949999999994
+        ],
+        [
+          0.11345198,
+          -0.35169321973970125,
+          -0.0003445249999999983
+        ],
+        [
+          0.11213012,
+          -0.297000000551343,
+          0.0010152500000000023
+        ]
+      ]
+    }
+  },
+  "sectionMeasurement": "128 horizontal radial intersections for closed body/hip/thigh sections; source-connected mesh-plane convex envelope for open bomber torso; ordered 3D cuff perimeter; horizontal convex aperture envelope of actual boundary vertices for irregular trouser waist/hems. No closed geometry is added across bomber front.",
+  "numericalRepair": {
+    "id": "dress_pants",
+    "changed": true,
+    "beforeVertices": 4725,
+    "afterVertices": 4665,
+    "beforeTriangles": 8310,
+    "afterTriangles": 8235,
+    "minimumBefore": 1.253717520966792e-14,
+    "minimumAfter": 1.2564886197469205e-12,
+    "operations": {
+      "edgeCollapses": 60,
+      "submillimetreVertexAdjustments": 25,
+      "edgeRotations": 6,
+      "constrainedSubmillimetrePatchAdjustments": 23
+    },
+    "topology": {
+      "components": 14,
+      "euler": -56,
+      "nonmanifoldEdges": 0
+    },
+    "preservedBoundaryLoops": 70,
+    "repairedToPrevious": {
+      "rmsMM": 0.022939966843613584,
+      "p95MM": 0.0,
+      "maxMM": 0.7216550875455141,
+      "samples": 4665
+    },
+    "previousToRepaired": {
+      "rmsMM": 0.023342197137292096,
+      "p95MM": 0.0,
+      "maxMM": 0.6399297271855175,
+      "samples": 4725
+    },
+    "editChecks": {
+      "source": {
+        "minimumCrossSquared": 1.2564886197469205e-12,
+        "failingTriangles": 0
+      },
+      "uniform_0.8": {
+        "minimumCrossSquared": 5.146599292571441e-13,
+        "failingTriangles": 0
+      },
+      "anisotropic_small": {
+        "minimumCrossSquared": 3.1395342597363707e-13,
+        "failingTriangles": 0
+      },
+      "catalog_S": {
+        "minimumCrossSquared": 9.125280826111082e-13,
+        "failingTriangles": 0
+      },
+      "catalog_M": {
+        "minimumCrossSquared": 1.3081989918423131e-12,
+        "failingTriangles": 0
+      },
+      "catalog_L": {
+        "minimumCrossSquared": 1.570891203575564e-12,
+        "failingTriangles": 0
+      },
+      "custom_small_pants": {
+        "minimumCrossSquared": 6.362482155714e-13,
+        "failingTriangles": 0
+      }
+    },
+    "sampledSurfaceRepairedToPrevious": {
+      "rmsMM": 0.02289207461150839,
+      "p95MM": 1.4902980183251202e-05,
+      "maxMM": 0.7216550875455141,
+      "samples": 37605,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "sampledSurfacePreviousToRepaired": {
+      "rmsMM": 0.01910746491275948,
+      "p95MM": 1.5160832589344864e-05,
+      "maxMM": 0.6399297271855175,
+      "samples": 37965,
+      "sampling": "all vertices, triangle centroids and three edge midpoints; not an exact Hausdorff bound"
+    },
+    "maximumKeptVertexDisplacementMM": 0.7488983824925822,
+    "previousResourceSHA256": "46d89f589aef70999dfaaa5f5423fe6454ef2c41c671cd3f40f8c464cb7ffde6",
+    "resourceSHA256": "b7b1b0b33ba53aced97d054bef0e7bfc6e8798877d447ad98c79b8e14b69376a"
+  }
+}

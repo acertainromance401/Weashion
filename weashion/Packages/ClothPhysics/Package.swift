@@ -14,7 +14,11 @@ let package = Package(
                 "ClothPhysics.cpp", "src/LinearMath", "src/BulletCollision"
             ],
             publicHeadersPath: "include",
-            cxxSettings: [.headerSearchPath("src")]
+            cxxSettings: [
+                .headerSearchPath("src"),
+                // The solver is too slow to use at -O0 when the app runs in Debug.
+                .unsafeFlags(["-O2"], .when(configuration: .debug))
+            ]
         )
     ],
     cxxLanguageStandard: .cxx17

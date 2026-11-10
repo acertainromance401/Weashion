@@ -44,17 +44,19 @@ struct weashionTests {
         #expect(abs(simd_distance(center, surface) - 0.02) < 0.00001)
     }
 
-    @Test func garmentsClearFittedBody() async throws {
+    @MainActor @Test func garmentsClearFittedBody() async throws {
         let template = ParametricBody.makeTemplate()
-        #expect(GarmentCatalog.samples.count == 2)
+        let shirts = GarmentCatalog.samples.filter { $0.kind == .shortSleeveTShirt }
+        #expect(shirts.count == 3)
         for feminine in [false, true] {
             let fitted = try #require(template.fitted(to: .init(
                 height: 1.75, weight: 70, shoulderWidth: 0.45, chest: 0.98, waist: 0.82, hip: 0.98,
                 inseam: 0.82, armSize: 1, legSize: 1, feminine: feminine)))
+            let request = BodyPreviewRenderer.Request(body: UserBody(), base: feminine ? .female : .male)
             let snapshot = GarmentBodySnapshot(
-                key: GarmentBodyKey(id: UUID(), revision: 1, anchor: fitted.anchor),
-                bands: fitted.collisionBands, fitProfile: fitted.profile)
-            for definition in GarmentCatalog.samples {
+                key: GarmentBodyKey(body: request, anchor: fitted.anchor),
+                collision: fitted.collisionMesh, fitProfile: fitted.profile)
+            for definition in shirts {
                 let result = try await GarmentDraper.shared.settle(definition: definition, body: snapshot)
                 print("Garment \(definition.selectionLabel) feminine=\(feminine) overlap=\(result.remainingOverlap) strain=\(result.maximumStrain)")
                 #expect(result.remainingOverlap < 0.002)

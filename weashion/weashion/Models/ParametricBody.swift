@@ -85,7 +85,7 @@ nonisolated struct ParametricBody {
     nonisolated struct Fitted {
         let positions: [SIMD3<Float>]
         let indices: [UInt32]
-        let collisionBands: [GarmentCollisionBand]
+        let collisionMesh: GarmentCollisionMesh
         let profile: GarmentBodyFitProfile
         let anchor: SIMD3<Float>
         let headHeight: Float
@@ -177,7 +177,7 @@ nonisolated struct ParametricBody {
                                             shoulderHeight: rig.shoulderHeight - anchor.y, rightArm: arm,
                                             rightArmSections: armSections)
         return Fitted(positions: positions, indices: triangleIndices,
-                      collisionBands: collisionBands(positions: positions, anchor: anchor), profile: profile, anchor: anchor,
+                      collisionMesh: collisionMesh(positions: positions, anchor: anchor), profile: profile, anchor: anchor,
                       headHeight: rig.headHeight, handScale: rig.handScale, footScale: rig.footScale, skeleton: skeleton)
     }
 
@@ -232,22 +232,15 @@ nonisolated struct ParametricBody {
         return GarmentFitSection(vertices: loop)
     }
 
-    func collisionBands(positions: [SIMD3<Float>], anchor: SIMD3<Float>) -> [GarmentCollisionBand] {
-        var bands: [Int: Set<Int>] = [:]
+    func collisionMesh(positions: [SIMD3<Float>], anchor: SIMD3<Float>) -> GarmentCollisionMesh {
+        var mesh = GarmentCollisionMesh(vertices: positions.map { $0 - anchor }, indices: [], armTriangles: [])
         for face in faces {
-            let heights = face.indices.map { positions[$0].y }
-            let lower = Int(floor((heights.min() ?? 0) / 0.035))
-            let upper = Int(floor((heights.max() ?? 0) / 0.035))
-            for level in lower...upper {
-                bands[face.region * 256 + level, default: []].formUnion(face.indices)
+            for corner in 1..<(face.indices.count - 1) {
+                mesh.indices += [face.indices[0], face.indices[corner], face.indices[corner + 1]].map { UInt32($0) }
+                mesh.armTriangles.append(face.region == 1 || face.region == 2 ? 1 : 0)
             }
         }
-        return bands.keys.sorted().compactMap { key in
-            let indices = bands[key]!.sorted()
-            guard indices.count >= 4 else { return nil }
-            let step = max(1, (indices.count + 511) / 512)
-            return GarmentCollisionBand(vertices: stride(from: 0, to: indices.count, by: step).map { positions[indices[$0]] - anchor })
-        }
+        return mesh
     }
 
     private static func armCenter(at height: Float) -> SIMD3<Float> {
